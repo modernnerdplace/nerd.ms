@@ -69,7 +69,7 @@ const config = {
         title: 'Nerd.ms',
         logo: {
           alt: 'Nerd.ms Logo',
-          src: 'img/logo.png',
+          src: 'img/logo.jpg',
         },
         items: [
           {
