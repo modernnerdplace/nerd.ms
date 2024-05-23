@@ -28,3 +28,15 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+/* Override non-category links to be horizonally compact */
+li > a.menu__link {
+  justify-content: flex-start;
+}
+
+
+.azure a::before {
+  padding-right: 0.5rem;
+  content: url(/static/img/Icons/azure.svg);
+}
