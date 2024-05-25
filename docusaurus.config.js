@@ -80,11 +80,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Wie ben ik?',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'vdBurg.it',
+                to: 'https://vdBurg.it',
               },
             ],
           },
@@ -92,16 +92,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: '#',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: '#',
               },
             ],
           },
@@ -122,9 +118,22 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Nerd.ms.`,
       },
       prism: {
-        theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+        theme: prismThemes.github,
       },
+      plugins: [
+        async function myPlugin(context, options) {
+          return {
+            name: "docusaurus-tailwindcss",
+            configurePostCss(postcssOptions) {
+              // Appends TailwindCSS and AutoPrefixer.
+              postcssOptions.plugins.push(require("tailwindcss"));
+              postcssOptions.plugins.push(require("autoprefixer"));
+              return postcssOptions;
+            },
+          };
+        },
+      ],
     }),
 };
 
