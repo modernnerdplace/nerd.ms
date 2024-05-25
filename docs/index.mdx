@@ -11,10 +11,18 @@ pagination_prev: null
 
 </head>
 
-
+import { CommandsTable } from "@site/src/components/CommandsTable";
+import { commands } from "@site/src/tableHome/commands.table";
+import { columns } from "@site/src/tableHome/columns.table";
 
 # Welkom op [Nerd.ms](/) jouw link toolbox!
 
 Ben je er klaar mee om iedere keer te zoeken naar de link van de website waar je heen wilde?
 
 Gebruik dan onderstaande zoekmachine om nog sneller uit te komen op waar je wilt zijn!
+
+
+<CommandsTable
+  columns={columns}
+  data={commands}
+/>
