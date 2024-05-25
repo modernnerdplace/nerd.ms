@@ -40,6 +40,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          sidebarCollapsible: false,
           routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: './sidebars.js',
           // Please change this to your repo.

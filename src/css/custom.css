@@ -2,6 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+.searchbox {
+  --tw-shadow: 0 0 #012eb7;
+  appearance: none;
+  background-color: #fff;
+  border-width: 1px;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  padding: .5rem .75rem;  
+}
+.searchbox:focus-visible{
+  outline:  #b4d0fd;
+}
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
