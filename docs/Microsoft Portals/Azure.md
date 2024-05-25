@@ -18,5 +18,5 @@ import Icon from '/static/img/azure-header.svg';
 applyFilter = 'Azure'
 columns={columns}
 data={commands}
-columnsToHide = {['category']}
+columnsToHide = {['category','command']}
 />

@@ -51,8 +51,69 @@ li > a.menu__link {
   justify-content: flex-start;
 }
 
-
 .azure a::before {
   padding-right: 0.5rem;
-  content: url(/static/img/Icons/azure.svg);
+  content: url(/static/img/azure.svg);
+}
+
+.azuread a::before {
+  padding-right: 0.5rem;
+  content: url(/static/img/azuread.svg);
+}
+
+.entraid a::before {
+  padding-right: 0.5rem;
+  content: url(/static/img/entraid.svg);
+}
+
+.intune a::before {
+  padding-right: 0.5rem;
+  content: url(/static/img/intune.svg);
+}
+
+.m365 a::before {
+  padding-right: 0.5rem;
+  content: url(/static/img/m365.svg);
+}
+
+.mypages a::before {
+  padding-right: 0.5rem;
+  content: url(/static/img/mypages.svg);
+}
+
+.defender a::before {
+  padding-right: 0.5rem;
+  content: url(/static/img/defender.svg);
+}
+
+.cat-azure {
+  content:url('/static/img/azure.svg');
+}
+
+.cat-azure-active-directory {
+  content:url('/static/img/azuread.svg');
+}
+
+.cat-entra {
+  content:url('/static/img/entraid.svg');
+}
+
+.cat-intune {
+  content:url('/static/img/intune.svg');
+}
+
+.cat-microsoft-365 {
+  content:url('/static/img/m365.svg');
+}
+
+.cat-my-pages {
+  content:url('/static/img/mypages.svg');
+}
+
+.cat-defender {
+  content:url('/static/img/defender.svg');
+}
+
+.cat-general {
+  content:url('/static/img/general.svg');
 }
