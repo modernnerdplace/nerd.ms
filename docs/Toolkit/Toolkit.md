@@ -15,7 +15,7 @@ import Icon from '/static/img/m365-header.svg';
 # 🛠️ Toolkit
 
 <CommandsTable
-applyFilter = 'other'
+applyFilter = 'Other'
 columns={columns}
 data={commands}
 columnsToHide = {['category','command']}
