@@ -608,17 +608,17 @@ solutionoverview;;Solutions Partner Overview;;PartnerCenter;https://partner.micr
 ;;Entra.News;;Nieuws;https://entra.news/
 ;;ITOpsTalk;;Blogs;https://www.youtube.com/@ITOpsTalk
 ;;For Cloud's Sake;;Blogs;https://open.spotify.com/show/7vrlCD9cC5Ws1yCJWSCcdr
-;;Modern Nerdplace;;Blogs;https://open.spotify.com/show/6BplO9t7XhNoduLgFSVqAV
-;;Call4Cloud;Rudy Ooms;Blogs;https://call4cloud.nl/
-;;Modern Management Blog;Pater Daalmans;Blogs;https://configmgrblog.com/
-;;Just about the Modern Workplace;Joost Gelijsteen;Blogs;https://joostgelijsteen.com/
+;Rudy Ooms;Modern Nerdplace;;Blogs;https://open.spotify.com/show/6BplO9t7XhNoduLgFSVqAV
+;Pater Daalmans;Call4Cloud;;Blogs;https://call4cloud.nl/
+;Joost Gelijsteen;Modern Management Blog;;Blogs;https://configmgrblog.com/
+;;Just about the Modern Workplace;;Blogs;https://joostgelijsteen.com/
 ;;What's new in Microsoft Intune;;Nieuws;https://learn.microsoft.com/en-us/mem/intune/fundamentals/whats-new
 ;;Copilot for Microsoft 365 News;;Nieuws;https://techcommunity.microsoft.com/t5/copilot-for-microsoft-365/bg-p/Microsoft365CopilotBlog
 ;;Kpn Partner Network Release Radio;;Blogs;https://open.spotify.com/playlist/0LW0ILqwXdSRCLMjZLTq7u?si=c38f3848245840cb
 ;;People Work Technology Podcast;;Blogs;https://open.spotify.com/show/6sb9a6U4A6I9rIVjTK6vHZ?si=e381fb009a87447e
-;;vdBurg.it;Fabio van der Burg;Blogs;https://vdburg.it/#microsoft-blog
-;;All about Microsoft Intune;Peter van der Woude;Blogs;https://www.petervanderwoude.n
+;Fabio van der Burg;vdBurg.it;;Blogs;https://vdburg.it/#microsoft-blog
+;Peter van der Woude;All about Microsoft Intune;;Blogs;https://www.petervanderwoude.n
 ;;Winstall -  the winget repository;;Other;https://winstall.app/
-;;Microsoft Security Blog;Myron Helgering;;https://myronhelgering.com/
+;Myron Helgering;Microsoft Security Blog;;;https://myronhelgering.com/
 ;;IT Bro's podcast;;;https://itbros.nl/
 ;;;;;https://www.burgerhout.org
