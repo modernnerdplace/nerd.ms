@@ -81,33 +81,61 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Wie ben ik?',
+            title: 'Mede mogelijk gemaakt door',
             items: [
               {
                 label: 'vdBurg.it',
                 to: 'https://vdBurg.it',
               },
+              {
+                label: 'Fabio van der Burg',
+                to: 'https://vdBurg.it',
+              },
             ],
-          },
+          }, {
+            title: 'Donateurs',
+            items: [
+              {
+                label: 'Boyd Heeres',
+                href: '#',
+              }, 
+              {
+                label: 'Ceriel Roland',
+                href: '#',
+              },
+            ],
+          }
           {
             title: 'Community',
             items: [
               {
-                label: 'Discord',
-                href: '#',
+                label: 'Spotify',
+                href: 'https://open.spotify.com/show/6BplO9t7XhNoduLgFSVqAV?si=dca8654696064929&nd=1&dlsi=a2f7f6b0b2eb4916',
               },
               {
-                label: 'Twitter',
-                href: '#',
+                label: 'GitHub',
+                href: 'https://github.com/modernnerdplace',
+              },
+              {
+                label: 'Discord',
+                href: 'https://discord.gg/99HTc9JBca',
+              },
+              {
+                label: 'Meetup',
+                href: 'https://www.meetup.com/modern-nerdplace/',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Donateurs',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/modernnerdplace/',
+                label: 'Boyd Heeres',
+                href: '#',
+              }, 
+              {
+                label: 'Ceriel Roland',
+                href: '#',
               },
             ],
           },
