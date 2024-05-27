@@ -126,19 +126,7 @@ const config = {
               },
             ],
           },
-          {
-            title: 'Donateurs',
-            items: [
-              {
-                label: 'Boyd Heeres',
-                href: '#',
-              }, 
-              {
-                label: 'Ceriel Roland',
-                href: '#',
-              },
-            ],
-          },
+         
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Nerd.ms.`,
       },
