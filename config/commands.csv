@@ -317,8 +317,6 @@ mygroups;mygroup;My groups;;My Pages;https://account.activedirectory.windowsazur
 mysec;mysecurity|mysecurityinfo;My security info;my sign ins;My Pages;https://mysignins.microsoft.com/security-info
 mystaff;;My staff;;My Pages;https://mystaff.microsoft.com
 myvs;;Visual Studio Subscriptions;;My Pages;https://my.visualstudio.com/
-applebm;;Apple Business Manager;;Other;https://business.apple.com
-appleschool;;Apple School Manager;;Other;https://school.apple.com
 actionpack;;Microsoft Action Pack;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/workspace/maps
 partner;;Microsoft Partner Center;;PartnerCenter;https://partner.microsoft.com/dashboard
 modernworkent;;Solutions Partner ModernWork Enterprise;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/program/solutionspartner/solutionareas/modern?track=Enterprise
