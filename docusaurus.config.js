@@ -104,7 +104,7 @@ const config = {
                 href: '#',
               },
             ],
-          }
+          },
           {
             title: 'Community',
             items: [
