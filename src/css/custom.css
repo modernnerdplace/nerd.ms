@@ -117,3 +117,10 @@ li > a.menu__link {
 .cat-general {
   content:url('/static/img/general.svg');
 }
+
+.header-pizza-link {
+  content:url('/static/img/supportme.png');
+  width: 178px; 
+  height: 50px;
+  
+}

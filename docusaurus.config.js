@@ -75,6 +75,12 @@ const config = {
           src: 'img/logo.jpg',
         },
         items: [
+          {
+          href: 'https://buymeacoffee.com/nerdfluencer',
+          className: 'header-pizza-link',
+          'aria-label': 'pizza',
+          position: 'right',
+        }
          
         ],
       },

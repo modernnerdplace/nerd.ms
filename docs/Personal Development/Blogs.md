@@ -15,7 +15,7 @@ import Icon from '/static/img/m365-header.svg';
 #  🧲 Blogs Podcasts Videos
 
 <CommandsTable
-applyFilter = 'posts'
+applyFilter = 'Blogs'
 columns={columns}
 data={commands}
 columnsToHide = {['category','command']}
