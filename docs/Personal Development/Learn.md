@@ -1,5 +1,5 @@
 ---
-title: Microsoft Learn
+title: 🧑‍🎓 Learn
 sidebar_class_name: Learn
 hide_table_of_contents: true
 custom_edit_url: null
@@ -12,7 +12,7 @@ import { commands } from "@site/src/tableHome/commands.table";
 import { columns } from "@site/src/tableHome/columns.table";
 import Icon from '/static/img/m365-header.svg';
 
-# <Icon/> Microsoft Learn
+# 🧑‍🎓 Learn
 
 <CommandsTable
 applyFilter = 'Learn'

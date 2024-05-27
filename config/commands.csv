@@ -232,3 +232,27 @@ actionpack;;Microsoft Action Pack;;PartnerCenter;https://partner.microsoft.com/d
 solutionoverview;;Solutions Partner Overview;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/program/solutionspartner/solutionareas/overview
 modernworksmb;;Solutions Partner ModernWork SMB;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/program/solutionspartner/solutionareas/modern?track=SMB
 modernworkent;;Solutions Partner ModernWork Enterprise;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/program/solutionspartner/solutionareas/modern?track=Enterprise
+applebm;;Apple Business Manager;;Other;https://business.apple.com
+appleschool;;Apple School Manager;;Other;https://school.apple.com
+Learnprofile;;Microsoft Learn Profile;;Learn;https://aka.ms/LearnProfile
+appliedskills;;Microsoft Applied Skills;;Learn;https://learn.microsoft.com/credentials/browse/?credential_types=applied%20skills
+;;Microsoft Learn Blog;;Learn;https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog
+;;Microsoft Virtual Training Days;;Learn;https://www.microsoft.com/en-ca/sites/microsoft-training-days
+;;Microsoft Shows;;Learn;https://learn.microsoft.com/shows/
+;;Cloud Skills Challenge - 30 Days to Learn It;;Learn;https://aka.ms/30-days-to-learn-it
+;;Microsoft Learn On Demand Instructor-led Training Series;;Learn;https://learn.microsoft.com/shows/on-demand-instructor-led-training-series/
+;;Microsoft Learn Cloud Games;;Learn;https://learn.microsoft.com/training/cloud-games
+;;ExpertZone;;Learn;https://expertzone.microsoft.com/
+;;Microsoft Certifications;;Learn;https://learn.microsoft.com/credentials/browse/?credential_types=certification
+;;Certification Poster - Become Microsoft Certified;;Learn;https://aka.ms/CertificationsPoster
+;;Applied Skills Certification Poster;;Learn;https://aka.ms/AppliedSkillsPoster
+;;Practice Assessments for Microsoft Certifications;;Learn;https://learn.microsoft.com/credentials/certifications/practice-assessments-for-microsoft-certifications
+;;Microsoft Exam Sandbox;;Learn;https://go.microsoft.com/fwlink/?linkid=2226877
+;;Microsoft Exam test;;Learn;https://aka.ms/examtest
+;;Microsoft Learn Exam Readiness Zone;;Learn;https://learn.microsoft.com/shows/exam-readiness-zone/
+;;AZ-900 Azure Fundamentals Exam;;Learn-cert;https://aka.ms/az900
+;;AZ-900 Study Guide;;Learn-cert;https://aka.ms/az900-StudyGuide
+;;AZ-900 Azure Fundamentals Course;;Learn-cert;https://learn.microsoft.com/training/courses/az-900t00
+;;AZ-104 Azure Administrator Associate Exam;;Learn-cert;https://aka.ms/az104
+;;AZ-104 Study Guide;;Learn-cert;https://aka.ms/az104-StudyGuide
+;;AZ-104 Azure Administrator Associate Course;;Learn-cert;https://learn.microsoft.com/training/courses/az-104t00
