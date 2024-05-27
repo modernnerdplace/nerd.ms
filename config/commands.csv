@@ -256,4 +256,77 @@ appliedskills;;Microsoft Applied Skills;;Learn;https://learn.microsoft.com/crede
 ;;AZ-104 Azure Administrator Associate Exam;;Learn-cert;https://aka.ms/az104
 ;;AZ-104 Study Guide;;Learn-cert;https://aka.ms/az104-StudyGuide
 ;;AZ-104 Azure Administrator Associate Course;;Learn-cert;https://learn.microsoft.com/training/courses/az-104t00
-;;;;Enduser;
+;;Bookings;;Enduser;https://outlook.office.com/bookings
+;;Calendar;;Enduser;https://outlook.office.com/calendar
+;;Compliance;;Enduser;https://compliance.microsoft.com
+;;Cortana;;Enduser;https://cortana.office.com
+;;Customer Voice;;Enduser;https://customervoice.microsoft.com/
+;;Delve;;Enduser;https://delve.office.com
+;;Excel;;Enduser;https://www.office.com/launch/excel
+;;Fabric;;Enduser;https://fabric.microsoft.com
+;;Forms;;Enduser;https://www.office.com/launch/forms
+;;Kaizala Web;;Enduser;https://web.kaiza.la
+;;Loop;;Enduser;https://loop.cloud.microsoft
+;;OneDrive;;Enduser;https://portal.office.com/onedrive
+;;OneNote;;Enduser;https://www.office.com/launch/onenote
+;;Outlook;;Enduser;https://outlook.office.com
+;;People;;Enduser;https://outlook.office.com/people
+;;Planner;;Enduser;https://tasks.office.com
+;;Power Apps;;Enduser;https://make.powerapps.com
+;;Power Automate;;Enduser;https://make.powerautomate.com/
+;;Power BI;;Enduser;https://app.powerbi.com
+;;Power Pages;;Enduser;https://make.powerpages.microsoft.com
+;;PowerPoint;;Enduser;https://www.office.com/launch/powerpoint
+;;Project;;Enduser;https://project.microsoft.com
+;;Security;;Enduser;https://security.microsoft.com
+;;SharePoint;;Enduser;https://login.microsoftonline.com/login.srf?wa=wsignin1.0&wreply=https://www.office.com/launch/sharepoint%3F&LoginOptions=1
+;;Stream;;Enduser;https://web.microsoftstream.com
+;;Sway;;Enduser;https://sway.cloud.microsoft
+;;Teams;;Enduser;https://teams.microsoft.com/v2/
+;;To-Do;;Enduser;https://to-do.office.com
+;;Visio;;Enduser;https://www.office.com/launch/visio
+;;Viva Engage;;Enduser;https://engage.cloud.microsoft
+;;Viva Goals;;Enduser;https://goals.cloud.microsoft
+;;Viva Home;;Enduser;https://viva.cloud.microsoft
+;;Viva Insights;;Enduser;https://insights.cloud.microsoft
+;;Viva Learning;;Enduser;https://learning.cloud.microsoft
+;;Viva Pulse;;Enduser;https://pulse.cloud.microsoft
+;;Viva Skills;;Enduser;https://skills.cloud.microsoft
+;;Whiteboard;;Enduser;https://whiteboard.microsoft.com
+;;Word;;Enduser;https://www.office.com/launch/word
+;;Yammer;;Enduser;https://www.yammer.com
+;;Microsoft Copilot;;Enduser;https://www.bing.com/chat
+;;Copilot Lab;;Enduser;https://copilot.cloud.microsoft/
+;;Copilot For Microsoft 365;;Enduser;https://www.microsoft365.com/chat/
+;;Additional Security Information;;Enduser;https://account.activedirectory.windowsazure.com
+;;App Passwords;;Enduser;https://account.activedirectory.windowsazure.com/AppPasswords.aspx
+;;Bing Image Creator;;Enduser;https://www.bing.com/create
+;;Change Password;;Enduser;https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+;;Cloud Voicemail;;Enduser;https://admin1a.online.lync.com/lscp/usp/voicemail/
+;;Converged MFA & SSPR Portal;;Enduser;https://aka.ms/mysecurityinfo/
+;;Device Login - Microsoft account or MSA (Personal Account);;Enduser;https://microsoft.com/link
+;;Device Login - Work or School Account;;Enduser;https://microsoft.com/devicelogin
+;;Exchange Control Panel (Personal);;Enduser;https://outlook.office.com/ecp/
+;;Mesh;;Enduser;https://mesh.cloud.microsoft
+;;Microsoft AppSource;;Enduser;https://store.office.com/redirect.aspx
+;;Microsoft Azure Information Protection - Track Documents;;Enduser;https://track.azurerms.com/
+;;Microsoft Copilot;;Enduser;https://copilot.microsoft.com/
+;;Microsoft Create - Free Templates;;Enduser;https://create.microsoft.com/
+;;Microsoft Designer;;Enduser;https://designer.microsoft.com/
+;;Microsoft Family Safety;;Enduser;https://account.microsoft.com/family/
+;;Microsoft Intune Web Company Portal;;Enduser;https://portal.manage.microsoft.com/
+;;MFA Setup;;Enduser;https://account.activedirectory.windowsazure.com/proofup.aspx
+;;My Access;;Enduser;https://myaccess.microsoft.com
+;;My Account;;Enduser;https://account.microsoft.com
+;;My Account;;Enduser;https://myaccount.microsoft.com
+;;My Apps;;Enduser;https://account.activedirectory.windowsazure.com
+;;My Groups;;Enduser;https://account.activedirectory.windowsazure.com/r#/groups
+;;My Sign-Ins;;Enduser;https://mysignins.microsoft.com
+;;My Staff;;Enduser;https://mystaff.microsoft.com/
+;;Office 365 Apps;;Enduser;https://www.office.com/apps
+;;Office 365 Security & Compliance - Quarantined;;Enduser;https://security.microsoft.com/quarantine
+;;Self Service Password Reset / Forgot Password;;Enduser;https://passwordreset.microsoftonline.com
+;;Self Service Password Reset Setup;;Enduser;https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup
+;;Windows 365;;Enduser;https://windows365.microsoft.com
+;;Windows Virtual Desktop Web Client (ARM);;Enduser;https://rdweb.wvd.microsoft.com/arm/webclient
+;;Windows Virtual Desktop Web Client (Old) ;;Enduser;https://rdweb.wvd.microsoft.com/webclient
