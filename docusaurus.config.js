@@ -4,7 +4,8 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+const lightCodeTheme = require('prism-react-renderer').themes.github;
+const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -40,7 +41,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarCollapsible: false,
+          sidebarCollapsible: true,
           routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
@@ -131,8 +132,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Nerd.ms.`,
       },
       prism: {
-        darkTheme: prismThemes.dracula,
-        theme: prismThemes.github,
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
       },
       plugins: [
         async function myPlugin(context, options) {
