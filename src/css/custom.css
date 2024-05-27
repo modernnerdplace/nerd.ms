@@ -119,8 +119,7 @@ li > a.menu__link {
 }
 
 .header-pizza-link {
-  content:url('/static/img/supportme.png');
-  width: 178px; 
-  height: 50px;
+  width: 230px; 
+ 
   
 }

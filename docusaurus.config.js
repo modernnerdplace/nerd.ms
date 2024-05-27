@@ -76,11 +76,12 @@ const config = {
         },
         items: [
           {
-          href: 'https://buymeacoffee.com/nerdfluencer',
-          className: 'header-pizza-link',
-          'aria-label': 'pizza',
-          position: 'right',
-        }
+            href: 'https://buymeacoffee.com/nerdfluencer',
+            className: 'header-pizza-link',
+            'aria-label': 'pizza',
+            position: 'right',
+            html: '<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=nerdfluencer&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a pizza" />',
+          }
          
         ],
       },
