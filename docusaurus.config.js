@@ -80,7 +80,7 @@ const config = {
             className: 'header-pizza-link',
             'aria-label': 'pizza',
             position: 'right',
-            html: '<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=nerdfluencer&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a pizza" />',
+            html: '<img src="https://img.buymeacoffee.com/button-api/?text=Support a Nerd&emoji=🤓&slug=nerdfluencer&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a Nerd" />',
           }
          
         ],

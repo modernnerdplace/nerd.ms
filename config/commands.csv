@@ -322,173 +322,173 @@ partner;;Microsoft Partner Center;;PartnerCenter;https://partner.microsoft.com/d
 modernworkent;;Solutions Partner ModernWork Enterprise;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/program/solutionspartner/solutionareas/modern?track=Enterprise
 modernworksmb;;Solutions Partner ModernWork SMB;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/program/solutionspartner/solutionareas/modern?track=SMB
 solutionoverview;;Solutions Partner Overview;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/program/solutionspartner/solutionareas/overview
-;;Microsoft Certified: Azure Fundamentals;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-fundamentals/
-;;AZ-900 Azure Fundamentals Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-900/
-;;AZ-900 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-900
-;;AZ-900 Azure Fundamentals Course;;Learn-cert;https://learn.microsoft.com/training/courses/az-900t00
-;;Microsoft Certified: Azure Administrator Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-administrator/
-;;AZ-104 Azure Administrator Associate Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-104/
-;;AZ-104 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-104
-;;AZ-104 Azure Administrator Associate Course;;Learn-cert;https://learn.microsoft.com/training/courses/az-104t00
-;;Microsoft Certified: Azure Solutions Architect Expert;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-solutions-architect/
-;;AZ-305: Designing Microsoft Azure Infrastructure Solutions Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-305/
-;;AZ-305 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-305
-;;AZ-305: Designing Microsoft Azure Infrastructure Solutions Course;;Learn-cert;https://learn.microsoft.com/training/courses/az-305t00
-;;Microsoft Certified: Azure Network Engineer Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-network-engineer-associate/
-;;AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-700/
-;;AZ-700 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-700
-;;AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Course;;Learn-cert;https://learn.microsoft.com/training/courses/az-700t00
-;;Microsoft Certified: Windows Server Hybrid Administrator Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/windows-server-hybrid-administrator/
-;;AZ-800: Administering Windows Server Hybrid Core Infrastructure Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-800/
-;;AZ-800 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-800
-;;AZ-800: Administering Windows Server Hybrid Core Infrastructure Course;;Learn-cert;https://learn.microsoft.com/training/courses/az-800t00
-;;AZ-801: Configuring Windows Server Hybrid Advanced Services Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-801/
-;;AZ-801 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-801
-;;AZ-801: Configuring Windows Server Hybrid Advanced Services Course;;Learn-cert;https://learn.microsoft.com/training/courses/az-801t00
-;;Microsoft Certified: Azure for SAP Workloads Specialty;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-for-sap-workloads-specialty/
-;;AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-120/
-;;AZ-120 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-120
-;;AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Course;;Learn-cert;https://learn.microsoft.com/training/courses/az-120t00
-;;Microsoft Certified: Azure Virtual Desktop Specialty;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-virtual-desktop-specialty/
-;;AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-140/
-;;AZ-140 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-140
-;;AZ-140: Planning and Administering Microsoft Azure for SAP Workloads Course Course;;Learn-cert;https://learn.microsoft.com/training/courses/az-140t00
-;;Microsoft Certified: Azure AI Fundamentals;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-virtual-desktop-specialty/
-;;AI-900: Microsoft Azure AI Fundamentals Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ai-900/
-;;AI-900 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-900
-;;AI-900: Microsoft Azure AI Fundamentals Course;;Learn-cert;https://learn.microsoft.com/training/courses/ai-900t00
-;;Microsoft Certified: Azure AI Engineer Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-ai-engineer
-;;AI-102: Designing and Implementing a Microsoft Azure AI Solution Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ai-102/
-;;AI-102 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-102
-;;AI-102: Designing and Implementing a Microsoft Azure AI Solution Course;;Learn-cert;https://learn.microsoft.com/training/courses/ai-102t00
-;;Microsoft Certified: Azure Data Fundamentals;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-data-fundamentals
-;;DP-900: Microsoft Azure Data Fundamentals Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-900/
-;;DP-900 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-900
-;;DP-900: Microsoft Azure Data Fundamentals Course;;Learn-cert;https://learn.microsoft.com/training/courses/dp-900t00
-;;Microsoft Certified: Azure Data Scientist Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-data-scientist
-;;DP-100: Designing and Implementing a Data Science Solution on Azure Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-100/
-;;DP-100 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-100
-;;DP-100: Designing and Implementing a Data Science Solution on Azure Course;;Learn-cert;https://learn.microsoft.com/training/paths/work-data-azure-machine-learning/
-;;Microsoft Certified: Azure Data Engineer Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-data-engineer
-;;DP-203: Data Engineering on Microsoft Azure Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-203/
-;;DP-203 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-203
-;;DP-203: Data Engineering on Microsoft Azure Course;;Learn-cert;https://learn.microsoft.com/training/courses/dp-203t00
-;;Microsoft Certified: Azure Database Administrator Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-database-administrator-associate
-;;DP-300: Administering Microsoft Azure SQL Solutions Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-300/
-;;DP-300 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-300
-;;DP-300: Administering Microsoft Azure SQL Solutions Course;;Learn-cert;https://learn.microsoft.com/training/courses/dp-300t00
-;;Microsoft Certified: Azure Enterprise Data Analyst Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-enterprise-data-analyst-associate
-;;DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-500/
-;;DP-500 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-500
-;;DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI Course;;Learn-cert;https://learn.microsoft.com/training/courses/dp-500t00
-;;Microsoft Certified: Fabric Analytics Engineer Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/fabric-analytics-engineer-associate
-;;DP-600: Implementing Analytics Solutions Using Microsoft Fabric Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-600/
-;;DP-600 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-600
-;;DP-600: Implementing Analytics Solutions Using Microsoft Fabric Course;;Learn-cert;https://learn.microsoft.com/training/courses/dp-600t00
-;;Microsoft Certified: Azure Cosmos DB Developer Specialty;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-cosmos-db-developer-specialty
-;;DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-420/
-;;DP-420 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-420
-;;DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB Course;;Learn-cert;https://learn.microsoft.com/training/courses/dp-420t00
-;;Microsoft Certified: Azure Developer Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-developer
-;;AZ-204: Developing Solutions for Microsoft Azure Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-204/
-;;AZ-204 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-204
-;;AZ-204: Developing Solutions for Microsoft Azure Course;;Learn-cert;https://learn.microsoft.com/training/courses/az-204t00
-;;Microsoft Certified: DevOps Engineer Expert;;Learn-cert;https://learn.microsoft.com/credentials/certifications/devops-engineer
-;;AZ-400: Designing and Implementing Microsoft DevOps Solutions Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-400/
-;;AZ-400 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-400
-;;AZ-400: Designing and Implementing Microsoft DevOps Solutions Course;;Learn-cert;https://learn.microsoft.com/training/courses/az-400t00
-;;Microsoft 365 Certified: Fundamentals;;Learn-cert;https://learn.microsoft.com/credentials/certifications/microsoft-365-fundamentals
-;;MS-900: Microsoft 365 Fundamentals Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ms-900/
-;;MS-900 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-900
-;;MS-900: Microsoft 365 Fundamentals Course;;Learn-cert;https://learn.microsoft.com/training/courses/ms-900t01
-;;Microsoft 365 Certified: Endpoint Administrator Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/m365-endpoint-administrator
-;;MD-102: Endpoint Administrator Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/md-102/
-;;MD-102 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/md-102
-;;MD-102: Endpoint Administrators Course;;Learn-cert;https://learn.microsoft.com/training/courses/md-102t00
-;;Microsoft 365 Certified: Administrator Expert;;Learn-cert;https://learn.microsoft.com/credentials/certifications/m365-administrator-expert
-;;MS-102: Microsoft 365 Administrator Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ms-102/
-;;MS-102 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-102
-;;MS-102: Microsoft 365 Administrator Course;;Learn-cert;https://learn.microsoft.com/training/courses/ms-102t00
-;;Microsoft 365 Certified: Teams Administrator Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/m365-teams-administrator-associate/
-;;MS-700: Managing Microsoft Teams Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ms-700/
-;;MS-700 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-700
-;;MS-700: Managing Microsoft Teams Course;;Learn-cert;https://learn.microsoft.com/training/courses/ms-700t00
-;;Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/m365-collaboration-communications-systems-engineer/
-;;MS-721: Collaboration Communications Systems Engineer Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ms-721/
-;;MS-721 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-721
-;;MS-721: Collaboration Communications Systems Engineer Course;;Learn-cert;https://learn.microsoft.com/training/courses/ms-721t00
-;;Microsoft Certified: Information Protection and Compliance Administrator Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-fundamentals/
-;;PL-900: Microsoft Power Platform Fundamentals Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-900/
-;;PL-900 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-900
-;;PL-900: Microsoft Power Platform Fundamentals Course;;Learn-cert;https://learn.microsoft.com/training/courses/pl-900t00
-;;Microsoft Certified: Power Platform App Maker Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-app-maker/
-;;PL-100: Microsoft Power Platform App Make Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-100/
-;;PL-100 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-100
-;;PL-100: Microsoft Power Platform App Make Course;;Learn-cert;https://learn.microsoft.com/training/courses/pl-100t00
-;;Microsoft Certified: Power Platform Functional Consultant Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-functional-consultant-associate/
-;;PL-200: Microsoft Power Platform Functional Consultant Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-200/
-;;PL-200 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-200
-;;PL-200: Microsoft Power Platform Functional Consultant Course;;Learn-cert;https://learn.microsoft.com/training/courses/pl-200t00
-;;Microsoft Certified: Power BI Data Analyst Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-bi-data-analyst-associate/
-;;PL-300: Microsoft Power BI Data Analyst Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-300/
-;;PL-300 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-300
-;;PL-300: Microsoft Power BI Data Analyst Course;;Learn-cert;https://learn.microsoft.com/training/courses/pl-300t00
-;;Microsoft Certified: Power Platform Developer Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-developer-associate/
-;;PL-400: Microsoft Power Platform Developer Associate Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-400/
-;;PL-400 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-400
-;;PL-400: Microsoft Power Platform Developer Associate Course;;Learn-cert;https://learn.microsoft.com/training/courses/pl-400t00
-;;Microsoft Certified: Power Automate RPA Developer Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-automate-rpa-developer-associate/
-;;PL-500: Microsoft Power Automate RPA Developer Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-500/
-;;PL-500 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-500
-;;PL-500: Microsoft Power Automate RPA Developer Course;;Learn-cert;https://learn.microsoft.com/training/courses/pl-500t00
-;;Microsoft Certified: Power Platform Solution Architect Expert;;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-solution-architect-expert/
-;;PL-600: Microsoft Power Platform Solution Architect Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-600/
-;;PL-600 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-600
-;;PL-600: Microsoft Power Platform Solution Architect Course;;Learn-cert;https://learn.microsoft.com/training/courses/pl-600t00
-;;Microsoft Certified: Dynamics 365 Fundamentals (CRM);;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/
-;;MB-910: Microsoft Dynamics 365 Fundamentals (CRM) Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-910/
-;;MB-910 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-910
-;;MB-910: Microsoft Dynamics 365 Fundamentals (CRM) Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-910t00
-;;Microsoft Certified: Dynamics 365 Fundamentals (ERP);;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-fundamentals-finance-and-operations-apps-erp/
-;;MB-920: Microsoft Dynamics 365 Fundamentals (ERP) Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-920/
-;;MB-920 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-920
-;;MB-920: Microsoft Dynamics 365 Fundamentals (ERP) Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-920t00
-;;Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-sales/
-;;MB-210: Microsoft Dynamics 365 Sales Functional Consultant Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-210/
-;;MB-210 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-210
-;;MB-210: Microsoft Dynamics 365 Sales Functional Consultant Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-210t00
-;;Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-field-service/
-;;MB-240: Microsoft Dynamics 365 Field Service Functional Consultant Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-240/
-;;MB-240 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-240
+;;Microsoft Certified: Azure Fundamentals;AZ-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-fundamentals/
+;;AZ-900 Azure Fundamentals Exam;AZ-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-900/
+;;AZ-900 Study Guide;AZ-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-900
+;;AZ-900 Azure Fundamentals Course;AZ-900;Learn-cert;https://learn.microsoft.com/training/courses/az-900t00
+;;Microsoft Certified: Azure Administrator Associate;AZ-104;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-administrator/
+;;AZ-104 Azure Administrator Associate Exam;AZ-104;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-104/
+;;AZ-104 Study Guide;AZ-104;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-104
+;;AZ-104 Azure Administrator Associate Course;AZ-104;Learn-cert;https://learn.microsoft.com/training/courses/az-104t00
+;;Microsoft Certified: Azure Solutions Architect Expert;AZ-305;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-solutions-architect/
+;;AZ-305: Designing Microsoft Azure Infrastructure Solutions Exam;AZ-305;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-305/
+;;AZ-305 Study Guide;AZ-305;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-305
+;;AZ-305: Designing Microsoft Azure Infrastructure Solutions Course;AZ-305;Learn-cert;https://learn.microsoft.com/training/courses/az-305t00
+;;Microsoft Certified: Azure Network Engineer Associate;AZ-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-network-engineer-associate/
+;;AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Exam;AZ-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-700/
+;;AZ-700 Study Guide;AZ-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-700
+;;AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Course;AZ-700;Learn-cert;https://learn.microsoft.com/training/courses/az-700t00
+;;Microsoft Certified: Windows Server Hybrid Administrator Associate;AZ-800;Learn-cert;https://learn.microsoft.com/credentials/certifications/windows-server-hybrid-administrator/
+;;AZ-800: Administering Windows Server Hybrid Core Infrastructure Exam;AZ-800;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-800/
+;;AZ-800 Study Guide;AZ-800;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-800
+;;AZ-800: Administering Windows Server Hybrid Core Infrastructure Course;AZ-800;Learn-cert;https://learn.microsoft.com/training/courses/az-800t00
+;;AZ-801: Configuring Windows Server Hybrid Advanced Services Exam;AZ-801;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-801/
+;;AZ-801 Study Guide;AZ-801;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-801
+;;AZ-801: Configuring Windows Server Hybrid Advanced Services Course;AZ-801;Learn-cert;https://learn.microsoft.com/training/courses/az-801t00
+;;Microsoft Certified: Azure for SAP Workloads Specialty;AZ-120;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-for-sap-workloads-specialty/
+;;AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Exam;AZ-120;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-120/
+;;AZ-120 Study Guide;AZ-120;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-120
+;;AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Course;AZ-120;Learn-cert;https://learn.microsoft.com/training/courses/az-120t00
+;;Microsoft Certified: Azure Virtual Desktop Specialty;AZ-140;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-virtual-desktop-specialty/
+;;AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop Exam;AZ-140;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-140/
+;;AZ-140 Study Guide;AZ-140;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-140
+;;AZ-140: Planning and Administering Microsoft Azure for SAP Workloads Course Course;AZ-140;Learn-cert;https://learn.microsoft.com/training/courses/az-140t00
+;;Microsoft Certified: Azure AI Fundamentals;AI-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-virtual-desktop-specialty/
+;;AI-900: Microsoft Azure AI Fundamentals Exam;AI-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ai-900/
+;;AI-900 Study Guide;AI-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-900
+;;AI-900: Microsoft Azure AI Fundamentals Course;AI-900;Learn-cert;https://learn.microsoft.com/training/courses/ai-900t00
+;;Microsoft Certified: Azure AI Engineer Associate;AI-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-ai-engineer
+;;AI-102: Designing and Implementing a Microsoft Azure AI Solution Exam;AI-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ai-102/
+;;AI-102 Study Guide;AI-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-102
+;;AI-102: Designing and Implementing a Microsoft Azure AI Solution Course;AI-102;Learn-cert;https://learn.microsoft.com/training/courses/ai-102t00
+;;Microsoft Certified: Azure Data Fundamentals;DP-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-data-fundamentals
+;;DP-900: Microsoft Azure Data Fundamentals Exam;DP-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-900/
+;;DP-900 Study Guide;DP-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-900
+;;DP-900: Microsoft Azure Data Fundamentals Course;DP-900;Learn-cert;https://learn.microsoft.com/training/courses/dp-900t00
+;;Microsoft Certified: Azure Data Scientist Associate;DP-100;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-data-scientist
+;;DP-100: Designing and Implementing a Data Science Solution on Azure Exam;DP-100;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-100/
+;;DP-100 Study Guide;DP-100;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-100
+;;DP-100: Designing and Implementing a Data Science Solution on Azure Course;DP-100;Learn-cert;https://learn.microsoft.com/training/paths/work-data-azure-machine-learning/
+;;Microsoft Certified: Azure Data Engineer Associate;DP-203;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-data-engineer
+;;DP-203: Data Engineering on Microsoft Azure Exam;DP-203;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-203/
+;;DP-203 Study Guide;DP-203;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-203
+;;DP-203: Data Engineering on Microsoft Azure Course;DP-203;Learn-cert;https://learn.microsoft.com/training/courses/dp-203t00
+;;Microsoft Certified: Azure Database Administrator Associate;DP-300;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-database-administrator-associate
+;;DP-300: Administering Microsoft Azure SQL Solutions Exam;DP-300;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-300/
+;;DP-300 Study Guide;DP-300;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-300
+;;DP-300: Administering Microsoft Azure SQL Solutions Course;DP-300;Learn-cert;https://learn.microsoft.com/training/courses/dp-300t00
+;;Microsoft Certified: Azure Enterprise Data Analyst Associate;DP-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-enterprise-data-analyst-associate
+;;DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI exam;DP-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-500/
+;;DP-500 Study Guide;DP-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-500
+;;DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI Course;DP-500;Learn-cert;https://learn.microsoft.com/training/courses/dp-500t00
+;;Microsoft Certified: Fabric Analytics Engineer Associate;DP-600;Learn-cert;https://learn.microsoft.com/credentials/certifications/fabric-analytics-engineer-associate
+;;DP-600: Implementing Analytics Solutions Using Microsoft Fabric Exam;DP-600;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-600/
+;;DP-600 Study Guide;DP-600;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-600
+;;DP-600: Implementing Analytics Solutions Using Microsoft Fabric Course;DP-600;Learn-cert;https://learn.microsoft.com/training/courses/dp-600t00
+;;Microsoft Certified: Azure Cosmos DB Developer Specialty;DP-420;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-cosmos-db-developer-specialty
+;;DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB Exam;DP-420;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-420/
+;;DP-420 Study Guide;DP-420;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-420
+;;DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB Course;DP-420;Learn-cert;https://learn.microsoft.com/training/courses/dp-420t00
+;;Microsoft Certified: Azure Developer Associate;AZ-204;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-developer
+;;AZ-204: Developing Solutions for Microsoft Azure Exam;AZ-204;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-204/
+;;AZ-204 Study Guide;AZ-204;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-204
+;;AZ-204: Developing Solutions for Microsoft Azure Course;AZ-204;Learn-cert;https://learn.microsoft.com/training/courses/az-204t00
+;;Microsoft Certified: DevOps Engineer Expert;AZ-400;Learn-cert;https://learn.microsoft.com/credentials/certifications/devops-engineer
+;;AZ-400: Designing and Implementing Microsoft DevOps Solutions Exam;AZ-400;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-400/
+;;AZ-400 Study Guide;AZ-400;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-400
+;;AZ-400: Designing and Implementing Microsoft DevOps Solutions Course;AZ-400;Learn-cert;https://learn.microsoft.com/training/courses/az-400t00
+;;Microsoft 365 Certified: Fundamentals;MS-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/microsoft-365-fundamentals
+;;MS-900: Microsoft 365 Fundamentals Exam;MS-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ms-900/
+;;MS-900 Study Guide;MS-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-900
+;;MS-900: Microsoft 365 Fundamentals Course;MS-900;Learn-cert;https://learn.microsoft.com/training/courses/ms-900t01
+;;Microsoft 365 Certified: Endpoint Administrator Associate;MD-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/m365-endpoint-administrator
+;;MD-102: Endpoint Administrator Exam;MD-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/md-102/
+;;MD-102 Study Guide;MD-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/md-102
+;;MD-102: Endpoint Administrators Course;MD-102;Learn-cert;https://learn.microsoft.com/training/courses/md-102t00
+;;Microsoft 365 Certified: Administrator Expert;MS-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/m365-administrator-expert
+;;MS-102: Microsoft 365 Administrator Exam;MS-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ms-102/
+;;MS-102 Study Guide;MS-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-102
+;;MS-102: Microsoft 365 Administrator Course;MS-102;Learn-cert;https://learn.microsoft.com/training/courses/ms-102t00
+;;Microsoft 365 Certified: Teams Administrator Associate;MS-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/m365-teams-administrator-associate/
+;;MS-700: Managing Microsoft Teams Exam;MS-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ms-700/
+;;MS-700 Study Guide;MS-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-700
+;;MS-700: Managing Microsoft Teams Course;MS-700;Learn-cert;https://learn.microsoft.com/training/courses/ms-700t00
+;;Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate;MS-721;Learn-cert;https://learn.microsoft.com/credentials/certifications/m365-collaboration-communications-systems-engineer/
+;;MS-721: Collaboration Communications Systems Engineer Exam;MS-721;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ms-721/
+;;MS-721 Study Guide;MS-721;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-721
+;;MS-721: Collaboration Communications Systems Engineer Course;MS-721;Learn-cert;https://learn.microsoft.com/training/courses/ms-721t00
+;;Microsoft Certified: Information Protection and Compliance Administrator Associate;PL-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-fundamentals/
+;;PL-900: Microsoft Power Platform Fundamentals Exam;PL-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-900/
+;;PL-900 Study Guide;PL-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-900
+;;PL-900: Microsoft Power Platform Fundamentals Course;PL-900;Learn-cert;https://learn.microsoft.com/training/courses/pl-900t00
+;;Microsoft Certified: Power Platform App Maker Associate;PL-100;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-app-maker/
+;;PL-100: Microsoft Power Platform App Make Exam;PL-100;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-100/
+;;PL-100 Study Guide;PL-100;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-100
+;;PL-100: Microsoft Power Platform App Make Course;PL-100;Learn-cert;https://learn.microsoft.com/training/courses/pl-100t00
+;;Microsoft Certified: Power Platform Functional Consultant Associate;PL-200;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-functional-consultant-associate/
+;;PL-200: Microsoft Power Platform Functional Consultant Exam;PL-200;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-200/
+;;PL-200 Study Guide;PL-200;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-200
+;;PL-200: Microsoft Power Platform Functional Consultant Course;PL-200;Learn-cert;https://learn.microsoft.com/training/courses/pl-200t00
+;;Microsoft Certified: Power BI Data Analyst Associate;PL-300;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-bi-data-analyst-associate/
+;;PL-300: Microsoft Power BI Data Analyst Exam;PL-300;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-300/
+;;PL-300 Study Guide;PL-300;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-300
+;;PL-300: Microsoft Power BI Data Analyst Course;PL-300;Learn-cert;https://learn.microsoft.com/training/courses/pl-300t00
+;;Microsoft Certified: Power Platform Developer Associate;PL-400;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-developer-associate/
+;;PL-400: Microsoft Power Platform Developer Associate Exam;PL-400;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-400/
+;;PL-400 Study Guide;PL-400;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-400
+;;PL-400: Microsoft Power Platform Developer Associate Course;PL-400;Learn-cert;https://learn.microsoft.com/training/courses/pl-400t00
+;;Microsoft Certified: Power Automate RPA Developer Associate;PL-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-automate-rpa-developer-associate/
+;;PL-500: Microsoft Power Automate RPA Developer Exam;PL-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-500/
+;;PL-500 Study Guide;PL-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-500
+;;PL-500: Microsoft Power Automate RPA Developer Course;PL-500;Learn-cert;https://learn.microsoft.com/training/courses/pl-500t00
+;;Microsoft Certified: Power Platform Solution Architect Expert;PL-600;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-solution-architect-expert/
+;;PL-600: Microsoft Power Platform Solution Architect Exam;PL-600;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-600/
+;;PL-600 Study Guide;PL-600;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-600
+;;PL-600: Microsoft Power Platform Solution Architect Course;PL-600;Learn-cert;https://learn.microsoft.com/training/courses/pl-600t00
+;;Microsoft Certified: Dynamics 365 Fundamentals (CRM);MB-910;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/
+;;MB-910: Microsoft Dynamics 365 Fundamentals (CRM) Exam;MB-910;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-910/
+;;MB-910 Study Guide;MB-910;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-910
+;;MB-910: Microsoft Dynamics 365 Fundamentals (CRM) Course;MB-910;Learn-cert;https://learn.microsoft.com/training/courses/mb-910t00
+;;Microsoft Certified: Dynamics 365 Fundamentals (ERP);MB-920;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-fundamentals-finance-and-operations-apps-erp/
+;;MB-920: Microsoft Dynamics 365 Fundamentals (ERP) Exam;MB-920;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-920/
+;;MB-920 Study Guide;MB-920;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-920
+;;MB-920: Microsoft Dynamics 365 Fundamentals (ERP) Course;MB-920;Learn-cert;https://learn.microsoft.com/training/courses/mb-920t00
+;;Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate;MB-210;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-sales/
+;;MB-210: Microsoft Dynamics 365 Sales Functional Consultant Exam;MB-210;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-210/
+;;MB-210 Study Guide;MB-210;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-210
+;;MB-210: Microsoft Dynamics 365 Sales Functional Consultant Course;MB-210;Learn-cert;https://learn.microsoft.com/training/courses/mb-210t00
+;;Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate;MB-240;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-field-service/
+;;MB-240: Microsoft Dynamics 365 Field Service Functional Consultant Exam;MB-240;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-240/
+;;MB-240 Study Guide;MB-240;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-240
 ;;MB-240: Microsoft Dynamics 365 Field Service Functional Consultant Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-240t00
-;;Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-customer-service/
-;;MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-230/
-;;MB-230 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-230
-;;MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-230t00
-;;Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-supply-chain-management/
-;;MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-330/
-;;MB-330 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-330
-;;MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-330t00
-;;Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-financials/
-;;MB-310: Microsoft Dynamics 365 Finance Functional Consultant Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-310/
-;;MB-310 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-310
-;;MB-310: Microsoft Dynamics 365 Finance Functional Consultant Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-310t00
-;;Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-finance-and-operations-apps-developer-associate/
-;;MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-500/
-;;MB-500 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-500
-;;MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-500t00
-;;Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Expert;;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-supply-chain-management-functional-consultant-expert/
-;;MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-335/
-;;MB-335 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-335
-;;MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-335t00
-;;Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-business-central-functional-consultant-associate/
-;;MB-800: Microsoft Dynamics 365 Business Central Functional Consultant Associate Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-800/
-;;MB-800 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-800
-;;MB-800: Microsoft Dynamics 365 Business Central Functional Consultant Associate Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-800t00
-;;Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert;;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-finance-and-operations-apps-solution-architect-expert/
-;;MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-700/
-;;MB-700 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-700
-;;MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-700t00
+;;Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate;MB-230;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-customer-service/
+;;MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant Exam;MB-230;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-230/
+;;MB-230 Study Guide;MB-230;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-230
+;;MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant Course;MB-230;Learn-cert;https://learn.microsoft.com/training/courses/mb-230t00
+;;Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate;MB-330;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-supply-chain-management/
+;;MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Exam;MB-330;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-330/
+;;MB-330 Study Guide;MB-330;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-330
+;;MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Course;MB-330;Learn-cert;https://learn.microsoft.com/training/courses/mb-330t00
+;;Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate;MB-310;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-financials/
+;;MB-310: Microsoft Dynamics 365 Finance Functional Consultant Exam;MB-310;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-310/
+;;MB-310 Study Guide;MB-310;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-310
+;;MB-310: Microsoft Dynamics 365 Finance Functional Consultant Course;MB-310;Learn-cert;https://learn.microsoft.com/training/courses/mb-310t00
+;;Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate;MB-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-finance-and-operations-apps-developer-associate/
+;;MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer Exam;MB-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-500/
+;;MB-500 Study Guide;MB-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-500
+;;MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer Course;MB-500;Learn-cert;https://learn.microsoft.com/training/courses/mb-500t00
+;;Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Expert;MB-335;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-supply-chain-management-functional-consultant-expert/
+;;MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert Exam;MB-335;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-335/
+;;MB-335 Study Guide;MB-335;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-335
+;;MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert Course;MB-335;Learn-cert;https://learn.microsoft.com/training/courses/mb-335t00
+;;Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate;MB-800;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-business-central-functional-consultant-associate/
+;;MB-800: Microsoft Dynamics 365 Business Central Functional Consultant Associate Exam;MB-800;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-800/
+;;MB-800 Study Guide;MB-800;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-800
+;;MB-800: Microsoft Dynamics 365 Business Central Functional Consultant Associate Course;MB-800;Learn-cert;https://learn.microsoft.com/training/courses/mb-800t00
+;;Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert;MB-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-finance-and-operations-apps-solution-architect-expert/
+;;MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Exam;MB-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-700/
+;;MB-700 Study Guide;MB-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-700
+;;MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Course;MB-700;Learn-cert;https://learn.microsoft.com/training/courses/mb-700t00
 ;;Microsoft Certified: Dynamics 365 Business Central Developer Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-business-central-developer-associate/
 ;;MB-820: Microsoft Dynamics 365 Business Central Developer Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-820/
 ;;MB-820 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-820
