@@ -8,9 +8,9 @@ pagination_prev: null
 ---
 
 import { CommandsTable } from "@site/src/components/CommandsTable";
-import { commands } from "@site/src/tableHome/commands.table";
 import { columns } from "@site/src/tableHome/columns.table";
 import Icon from '/static/img/m365-header.svg';
+import commands from '/static/commands.json';
 
 # 🛠️ Toolkit
 

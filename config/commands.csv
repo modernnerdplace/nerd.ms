@@ -1,4 +1,4 @@
-Command;Alias;Description;Keywords;Category;Url
+command;alias;description;keywords;category;url
 azapim;;API Management services;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ApiManagement%2Fservice?
 azasp;;App Service plans;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2FserverFarms
 azapps;azweb;App Services;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fsites
