@@ -15,7 +15,7 @@ import commands from '/static/commands.json';
 #  🎙️ Podcasts 
 
 <CommandsTable
-applyFilter = 'Blogs'
+applyFilter = 'Podcasts'
 columns={columns}
 data={commands}
 columnsToHide = {['category','command']}
