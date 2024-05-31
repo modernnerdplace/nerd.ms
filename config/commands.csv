@@ -642,4 +642,4 @@ solutionoverview;;Solutions Partner Overview;;PartnerCenter;https://partner.micr
 ;;Membership;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/workspace/overview
 ;;Referrals;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/referrals/v3/cosell
 ;;Benefits Azure Credits;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/azure
-;;testje om te zien of het werkt;;Other;https://testje.nl
+dkim;;Dkim blade;dkim;Other;https://security.microsoft.com/dkimv2
