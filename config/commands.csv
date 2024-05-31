@@ -1,645 +1,645 @@
-Command,Alias,Description,Keywords,Category,Url
-azapim,,API Management services,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ApiManagement%2Fservice?
-azasp,,App Service plans,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2FserverFarms
-azapps,azweb,App Services,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fsites
-azappgw,appgw|gateway,Application Gateway,,Azure,https://portal.azure.com/#view/Microsoft_Azure_Network/LoadBalancingHubMenuBlade/~/applicationgateways
-azappinsights,appinsights,Application Insights,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/microsoft.insights%2Fcomponents
-azautomanage,azam,Automanage,,Azure,https://portal.azure.com/#view/Microsoft_Azure_AutoManagedVirtualMachines/AutomanageMenuBlade
-azvmas,,Availability Sets,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2FavailabilitySets?
-az,azure,Azure,,Azure,https://portal.azure.com
-azcreate,,Azure - Create a Resource,,Azure,https://portal.azure.com/#create/hub?
-azadvisor,,Azure Advisor,,Azure,https://portal.azure.com/#view/Microsoft_Azure_Expert/AdvisorMenuBlade/~/score?
-azauto,azautomation,Azure Automation,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Automation%2FAutomationAccounts
-azredis,,Azure Cache for Redis,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Cache%2FRedis
-azshell,shell,Azure Cloud Shell,,Azure,https://portal.azure.com/#cloudshell/
-azcs,,Azure Content Safety,,Azure,https://contentsafety.cognitive.azure.com/
-azcosmos,,Azure Cosmos DB,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.DocumentDb%2FdatabaseAccounts
-adf,,Azure Data Factory,,Azure,https://adf.azure.com/
-azdatabricks,,Azure Databricks,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Databricks%2Fworkspaces?
-dev,devops,Azure DevOps Portal,,Azure,https://dev.azure.com
-azfwmg,,Azure Firewall Manager,,Azure,https://portal.azure.com/#view/Microsoft_Azure_HybridNetworking/FirewallManagerMenuBlade
-azfdcdn,,Azure Front Door and CDN profiles,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/microsoft.cdn%2Fprofiles?
-azlogic,,Azure Logic Apps,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Logic%2Fworkflows
-azml,,Azure Machine Learning Studio,,Azure,https://ml.azure.com/
-azmi,,Azure Managed Identities,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ManagedIdentity%2FuserAssignedIdentities?
-azmg,,Azure Management Groups,,Azure,https://portal.azure.com/#view/Microsoft_Azure_ManagementGroups/ManagementGroupBrowseBlade?
-azoai,openai,Azure OpenAI Studio,,Azure,https://oai.azure.com/portal
-azpolicy,,Azure Policy,,Azure,https://portal.azure.com/#view/Microsoft_Azure_Policy/PolicyMenuBlade/~/overview
-azp,azurepreview,Azure Preview Portal,,Azure,https://preview.portal.azure.com/
-azprice,price,Azure Price Calculator,,Azure,https://azure.microsoft.com/pricing/calculator/
-arg,arge,Azure Resource Graph Explorer,,Azure,https://portal.azure.com/#view/HubsExtension/ArgQueryBlade?
-azpim,,Azure Resources PIM,,Azure,https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/CommonMenuBlade/~/azurerbac
-azhealth,,Azure Service Health,,Azure,https://portal.azure.com/#view/Microsoft_Azure_Health/ServiceIssuesBlade?
-azsynapse,,Azure Synapse Analytics,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Synapse%2Fworkspaces?
-synapse,,Azure Synapse Studio,,Azure,https://web.azuresynapse.net/
-azumc,,Azure Update Management Center,,Azure,https://portal.azure.com/#view/Microsoft_Azure_Automation/UpdateCenterMenuBlade/~/overview?
-azavd,avd,Azure Virtual Desktop,,Azure,https://portal.azure.com/#view/Microsoft_Azure_WVD/WvdManagerMenuBlade/~/overview
-azwb,,Azure Workbooks,,Azure,https://portal.azure.com/?feature.msaljs=true#view/HubsExtension/BrowseResource/resourceType/microsoft.insights%2Fworkbooks
-azbackup,,Backup Center,,Azure,https://portal.azure.com/#view/Microsoft_Azure_DataProtection/BackupCenterMenuBlade/~/overview
-azcontainer,,Container Instances,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerInstance%2FcontainerGroups
-azacr,,Container Registries,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerRegistry%2Fregistries
-cosmos,,CosmosDB Explorer,,Azure,https://cosmos.azure.com
-azcost,,Cost Management + Billing,,Azure,https://portal.azure.com/#view/Microsoft_Azure_GTM/ModernBillingMenuBlade/~/BillingAccounts
-azdcr,,Data Collection Rules,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Insights%2FdataCollectionRules
-azkusto,adx,Data Explorer,,Azure,https://dataexplorer.azure.com/
-azadf,,Data factories,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.DataFactory%2FdataFactories
-azpgfs,,DB for PostgreSQL flexible servers,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.DBforPostgreSQL%2FflexibleServers?
-azpgh,,DB for PostgreSQL Hyperscale (Citus),,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.DBforPostgreSQL%2FserverGroupsv2?
-azpg,,DB for PostgreSQL servers,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.DBforPostgreSQL%2Fservers?
-azdisks,,Disks,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2Fdisks
-azfn,,Function App,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fsites/kind/functionapp
-azhelp,,Help + support,,Azure,https://portal.azure.com/#view/Microsoft_Azure_Support/HelpAndSupportBlade/~/overview
-azkv,kv,Key Vault,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.KeyVault%2Fvaults
-azaks,,Kubernetes services,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerService%2FmanagedClusters
-azlb,lb,Load balancing,,Azure,https://portal.azure.com/#view/Microsoft_Azure_Network/LoadBalancingHubMenuBlade/~/overview
-azloganalytics,la,Log Analytics,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.OperationalInsights%2Fworkspaces
-azdefender,,Microsoft Defender for Cloud,,Azure,https://portal.azure.com/#view/Microsoft_Azure_Security/SecurityMenuBlade/~/0
-azmonitor,,Monitor,,Azure,https://portal.azure.com/#view/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/~/overview
-aznsg,,Network security groups,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FNetworkSecurityGroups
-aznwatch,netwatch,Network Watcher,,Azure,https://portal.azure.com/#view/Microsoft_Azure_Network/NetworkWatcherMenuBlade/~/overview?
-azpgaa,,PostgreSQL servers - Azure Arc,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.AzureArcData%2FpostgresInstances?
-azpip,,Public IP Addresses,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FPublicIpAddresses
-puudg,purviewudg|purview,Purview Unified Data Governance,Azure Purview portal,Azure,https://web.purview.azure.com
-avdweb,,Remote Desktop Web Client,,Azure,https://client.wvd.microsoft.com/arm/webclient/index.html
-azrg,,Resource groups,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResourceGroups?
-azroutes,,Route tables,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FrouteTables
-azvmss,,Scale Sets,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Compute%2FvirtualMachineScaleSets?
-azsentinel,sentinel,Sentinel,,Azure,https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade?
-azhybridcompute,,Servers - Azure Arc,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.HybridCompute%2Fmachines
-azservicebus,bus,Service Bus,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ServiceBus%2Fnamespaces
-azsd,,Shared dashboards,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Portal%2Fdashboards?
-azsqldb,,SQL databases,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Sql%2Fservers%2Fdatabases
-azsqlep,,SQL elastic pools,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Sql%2Fservers%2Felasticpools
-azsqlmi,sqlmi,SQL managed instance,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Sql%2FmanagedInstances
-azsql,,SQL servers,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Sql%2Fservers
-azssh,,SSH Keys,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2FsshPublicKeys
-azsa,storage,Storage accounts,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Storage%2FStorageAccounts
-azsubs,,Subscriptions,,Azure,https://portal.azure.com/#view/Microsoft_Azure_Billing/SubscriptionsBlade?
-aztemp,,Templates,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Gallery%2Fmyareas%2Fgalleryitems?
-print,upc,Universal Print Console,Azure,Azure,https://portal.azure.com/#view/Universal_Print/MainMenuBlade/~/Printers?#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade?
-azvm,,Virtual machines,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2FVirtualMachines
-azvn,vnet,Virtual networks,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FvirtualNetworks
-azwaf,waf,Web Application Firewall policies,,Azure,https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FFrontDoorWebApplicationFirewallPolicies
-deactions,,Action centre,,Defender,https://security.microsoft.com/action-center
-decacat,,Cloud app catalog,,Defender,https://security.microsoft.com/cloudapps/app-catalog
-detallow,,Defender Tenant Allow/Block List,,Defender,https://security.microsoft.com/tenantAllowBlockList
-dedevices,,Device Inventory,,Defender,https://security.microsoft.com/machines
-deexplorer,,Explorer,,Defender,https://security.microsoft.com/threatexplorer
-dehunting,dehunt,Hunting,,Defender,https://security.microsoft.com/v2/advanced-hunting
-deusers,deidentities,Identities,,Defender,https://security.microsoft.com/cloudapps/users-and-accounts
-deincidents,deinc,Incidents,,Defender,https://security.microsoft.com/incidents
-deinvestigations,,Investigations,,Defender,https://security.microsoft.com/airinvestigation
-decaoauth,,Manage OAuth apps,,Defender,https://security.microsoft.com/cloudapps/oauth-apps
-defender,def|security,Microsoft 365 Defender,,Defender,https://security.microsoft.com
-deca,,Microsoft Defender for Cloud Apps,,Defender,https://portal.cloudappsecurity.com/
-dess,,Microsoft Secure Score,,Defender,https://security.microsoft.com/securescore
-deqre,deq,Quarantined Emails,,Defender,https://security.microsoft.com/quarantine
-dere,,Restricted entities,,Defender,https://security.microsoft.com/restrictedentities
-deti,,Threat Intelligence,,Defender,https://ti.defender.microsoft.com
-,,Additional Security Information,,Enduser,https://account.activedirectory.windowsazure.com
-,,App Passwords,,Enduser,https://account.activedirectory.windowsazure.com/AppPasswords.aspx
-,,Bing Image Creator,,Enduser,https://www.bing.com/create
-,,Bookings,,Enduser,https://outlook.office.com/bookings
-,,Calendar,,Enduser,https://outlook.office.com/calendar
-,,Change Password,,Enduser,https://account.activedirectory.windowsazure.com/ChangePassword.aspx
-,,Cloud Voicemail,,Enduser,https://admin1a.online.lync.com/lscp/usp/voicemail/
-,,Compliance,,Enduser,https://compliance.microsoft.com
-,,Converged MFA & SSPR Portal,,Enduser,https://aka.ms/mysecurityinfo/
-,,Copilot For Microsoft 365,,Enduser,https://www.microsoft365.com/chat/
-,,Copilot Lab,,Enduser,https://copilot.cloud.microsoft/
-,,Cortana,,Enduser,https://cortana.office.com
-,,Customer Voice,,Enduser,https://customervoice.microsoft.com/
-,,Delve,,Enduser,https://delve.office.com
-,,Device Login - Microsoft account or MSA (Personal Account),,Enduser,https://microsoft.com/link
-,,Device Login - Work or School Account,,Enduser,https://microsoft.com/devicelogin
-,,Excel,,Enduser,https://www.office.com/launch/excel
-,,Exchange Control Panel (Personal),,Enduser,https://outlook.office.com/ecp/
-,,Fabric,,Enduser,https://fabric.microsoft.com
-,,Forms,,Enduser,https://www.office.com/launch/forms
-,,Kaizala Web,,Enduser,https://web.kaiza.la
-,,Loop,,Enduser,https://loop.cloud.microsoft
-,,Mesh,,Enduser,https://mesh.cloud.microsoft
-,,MFA Setup,,Enduser,https://account.activedirectory.windowsazure.com/proofup.aspx
-,,Microsoft AppSource,,Enduser,https://store.office.com/redirect.aspx
-,,Microsoft Azure Information Protection - Track Documents,,Enduser,https://track.azurerms.com/
-,,Microsoft Copilot,,Enduser,https://www.bing.com/chat
-,,Microsoft Copilot,,Enduser,https://copilot.microsoft.com/
-,,Microsoft Create - Free Templates,,Enduser,https://create.microsoft.com/
-,,Microsoft Designer,,Enduser,https://designer.microsoft.com/
-,,Microsoft Family Safety,,Enduser,https://account.microsoft.com/family/
-,,Microsoft Intune Web Company Portal,,Enduser,https://portal.manage.microsoft.com/
-,,My Access,,Enduser,https://myaccess.microsoft.com
-,,My Account,,Enduser,https://account.microsoft.com
-,,My Account,,Enduser,https://myaccount.microsoft.com
-,,My Apps,,Enduser,https://account.activedirectory.windowsazure.com
-,,My Groups,,Enduser,https://account.activedirectory.windowsazure.com/r#/groups
-,,My Sign-Ins,,Enduser,https://mysignins.microsoft.com
-,,My Staff,,Enduser,https://mystaff.microsoft.com/
-,,Office 365 Apps,,Enduser,https://www.office.com/apps
-,,Office 365 Security & Compliance - Quarantined,,Enduser,https://security.microsoft.com/quarantine
-,,OneDrive,,Enduser,https://portal.office.com/onedrive
-,,OneNote,,Enduser,https://www.office.com/launch/onenote
-,,Outlook,,Enduser,https://outlook.office.com
-,,People,,Enduser,https://outlook.office.com/people
-,,Planner,,Enduser,https://tasks.office.com
-,,Power Apps,,Enduser,https://make.powerapps.com
-,,Power Automate,,Enduser,https://make.powerautomate.com/
-,,Power BI,,Enduser,https://app.powerbi.com
-,,Power Pages,,Enduser,https://make.powerpages.microsoft.com
-,,PowerPoint,,Enduser,https://www.office.com/launch/powerpoint
-,,Project,,Enduser,https://project.microsoft.com
-,,Security,,Enduser,https://security.microsoft.com
-,,Self Service Password Reset / Forgot Password,,Enduser,https://passwordreset.microsoftonline.com
-,,Self Service Password Reset Setup,,Enduser,https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup
-,,SharePoint,,Enduser,https://login.microsoftonline.com/login.srf?wa=wsignin1.0&wreply=https://www.office.com/launch/sharepoint%3F&LoginOptions=1
-,,Stream,,Enduser,https://web.microsoftstream.com
-,,Sway,,Enduser,https://sway.cloud.microsoft
-,,Teams,,Enduser,https://teams.microsoft.com/v2/
-,,To-Do,,Enduser,https://to-do.office.com
-,,Visio,,Enduser,https://www.office.com/launch/visio
-,,Viva Engage,,Enduser,https://engage.cloud.microsoft
-,,Viva Goals,,Enduser,https://goals.cloud.microsoft
-,,Viva Home,,Enduser,https://viva.cloud.microsoft
-,,Viva Insights,,Enduser,https://insights.cloud.microsoft
-,,Viva Learning,,Enduser,https://learning.cloud.microsoft
-,,Viva Pulse,,Enduser,https://pulse.cloud.microsoft
-,,Viva Skills,,Enduser,https://skills.cloud.microsoft
-,,Whiteboard,,Enduser,https://whiteboard.microsoft.com
-,,Windows 365,,Enduser,https://windows365.microsoft.com
-,,Windows Virtual Desktop Web Client (ARM),,Enduser,https://rdweb.wvd.microsoft.com/arm/webclient
-,,Windows Virtual Desktop Web Client (Old) ,,Enduser,https://rdweb.wvd.microsoft.com/webclient
-,,Word,,Enduser,https://www.office.com/launch/word
-,,Yammer,,Enduser,https://www.yammer.com
-ensynclog,adsynclog,AAD Connect - Sync errors,aadconnect,Entra,https://entra.microsoft.com/#view/Microsoft_Azure_ADHybridHealth/AadHealthMenuBlade/~/SyncErros/Microsoft_Azure_ADHybridHealth/AadHealthMenuBlade
-enar,adreviews|adar,Access reviews,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_ERM/DashboardBlade/~/Controls
-enadfslog,adadfslog,ADFS services,,Entra,https://entra.microsoft.com/#view/Microsoft_Azure_ADHybridHealth/AadHealthMenuBlade/~/AdfsServicesList
-enappreg,adappreg,App registrations,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade/quickStartType~/null/sourceType/Microsoft_AAD_IAM
-enac,adac,Authentication context,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/AuthenticationContext
-enauth,adauth,Authentication methods,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AdminAuthMethods
-enauthactivity,adauthmethodsactivity|authactivity,Authentication methods activity,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AuthMethodsActivity/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade?
-enauthstrength,adauthstrength,Authentication strengths,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AuthStrengths/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade?
-enelm,adelm,Azure AD Entitlement Management,elm,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_ERM/DashboardBlade/~/elmEntitlement
-enidp,adidp,Azure AD Identity Protection,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/IdentityProtectionMenuBlade/~/Overview
-eninvite,adinvite,Azure B2B Invitations,b2b,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/UserCreateBlade/initialMode~/1/b2cEnabled~/false
-enca,adca,Conditional Access,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/Policies?
-enconsent,adconsent,Consent and permissions,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/ConsentPoliciesMenuBlade/~/UserSettings
-enctas,adctas|adxtap|enxtap,Cross-tenant access settings,external,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/CrossTenantAccessSettings/menuId/CrossTenantAccessSettings
-dl,,Device login,,Entra,https://microsoft.com/devicelogin
-endevicesettings,addevicesettings,Device settings,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/DeviceSettings/menuId/Devices/Microsoft_AAD_Devices/DevicesMenuBlade
-endevices,addevices,Devices,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/Devices/menuId/Devices
-enapps,adentapp|adapp|adapps,Enterprise applications,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/~/AppAppsPreview
-engcch,,Entra Admins Centre,,Entra,https://entra.microsoft.us/
-enguests,adguests|adext,External Identities,guests,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/Settings/menuId/ExternalIdentitiesGettingStarted
-engroups,adgroups,Groups,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups/menuId/AllGroups
-enlaps,adlaps,LAPS,LAPS,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/LocalAdminPassword/menuId/Overview
-enlegacymfa,adlegacymfa,Legacy MFA,,Entra,https://account.activedirectory.windowsazure.com/UserManagement/MfaSettings.aspx
-enlicense,adlicense,Licenses,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/LicensesMenuBlade/~/Products
-enerror,aderror,Login error lookup,,Entra,https://login.microsoftonline.com/error
-l,,Login page,,Entra,https://login.microsoftonline.com/
-enmfaunblock,admfaunblock,MFA unblock,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/MultifactorAuthenticationMenuBlade/~/BlockedUsers/fromProviders~/false
-en,ad|aad|entra,Microsoft Entra,,Entra,https://entra.microsoft.com
-azad,,Microsoft Entra (Azure Portal),,Entra,https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview?
-ensspr,enpassword|adpassword|adsspr,Password reset,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/PasswordResetMenuBlade/~/Properties
-enpim,adpim|pim,PIM,,Entra,https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/CommonMenuBlade/~/quickStart
-enpimz,adpimz|adpimaz,PIM for Azure resources,,Entra,https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/CommonMenuBlade/~/azurerbac?
-enpimg,adpimg,PIM for Groups,,Entra,https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadgroup?
-enpimr,adpimr,PIM for Roles,,Entra,https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles?
-enpa,adpa,Protected actions,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/RolesManagementMenuBlade/~/ProtectedActions
-enroles,adroles,Roles and administrators,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/RolesManagementMenuBlade/~/AllRoles
-enscore,adscore,Secure score,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/SecurityMenuBlade/~/IdentitySecureScore/menuId/IdentitySecureScore
-ensecurity,adsecurity,Security,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/SecurityMenuBlade/~/GettingStarted/menuId/SecurityCenter
-ensign,adsign|adlogs|enlogs,Sign-in logs,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_IAM/SignInEventsV3Blade/timeRangeType/last24hours/showApplicationSignIns~/true
-ensupport,adsupport,Support,,Entra,https://entra.microsoft.com/#view/Microsoft_Azure_Support/NewSupportRequestV3Blade/callerName/ActiveDirectory/issueType/technical
-enusers,adusers,Users,,Entra,https://entra.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/AllUsers/menuId/AllUsers
-aka,,AkaSearch,,General,https://akaSearch.net
-vlsc,,Volume Licensing Service Center,,General,https://www.microsoft.com/Licensing/servicecenter
-inandroid,,Android,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesAndroidMenu/~/overview
-inappconfig,,App configuration policies,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsMenu/~/appConfig
-inapps,,Apps,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsMenu/~/overview
-incompliance,,Compliance policies,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesComplianceMenu/~/policies
-inconfig,,Configuration profiles,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/configurationProfiles
-indevices,,Devices,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/overview
-inwdu,,Driver updates for Windows 10,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/windowsDriverUpdate?#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/windows10UpdateRings?=
-inedu,,Education,,Intune,https://intuneeducation.portal.azure.com
-inenroll,,Enroll devices,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesEnrollmentMenu/~/windowsEnrollment
-inwfu,,Feature updates for Windows,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/featureUpdateDeployments
-ingroups,,Groups,,Intune,https://intune.microsoft.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups
-in,intune|endpoint,Intune,,Intune,https://intune.microsoft.com
-inios,,iOS/iPad devices,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesIosMenu/~/iosDevices
-inmacos,,macOS devices,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMacOsMenu/~/macOsDevices
-inprorem,,Proactive Remediations,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/remediations?#view/Microsoft_Intune_Enrollment/UXAnalyticsMenu/~/proactiveRemediations?=
-inscripts,,Scripts,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/powershell
-insecurity,insec,Security,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/overview
-intenant,intadmin,Tenant admin,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/TenantAdminMenu/~/tenantStatus
-introubleshoot,,Troubleshooting,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/SupportMenu/~/troubleshooting
-inusers,,Users,,Intune,https://intune.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/AllUsers
-inap,inautodev|inadev,Windows Autopilot devices,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/AutopilotDevices.ReactView/filterOnManualRemediationRequired~/false
-inwin,,Windows devices,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/windowsDevices
-inwur,,Windows Update Rings,,Intune,https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/windows10UpdateRings?
-,,Applied Skills Certification Poster,,Learn,https://aka.ms/AppliedSkillsPoster
-,,Certification Poster - Become Microsoft Certified,,Learn,https://aka.ms/CertificationsPoster
-,,Cloud Skills Challenge - 30 Days to Learn It,,Learn,https://aka.ms/30-days-to-learn-it
-,,ExpertZone,,Learn,https://expertzone.microsoft.com/
-appliedskills,,Microsoft Applied Skills,,Learn,https://learn.microsoft.com/credentials/browse/?credential_types=applied%20skills
-,,Microsoft Certifications,,Learn,https://learn.microsoft.com/credentials/browse/?credential_types=certification
-,,Microsoft Exam Sandbox,,Learn,https://go.microsoft.com/fwlink/?linkid=2226877
-,,Microsoft Exam test,,Learn,https://aka.ms/examtest
-,,Microsoft Learn Blog,,Learn,https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog
-,,Microsoft Learn Cloud Games,,Learn,https://learn.microsoft.com/training/cloud-games
-,,Microsoft Learn Exam Readiness Zone,,Learn,https://learn.microsoft.com/shows/exam-readiness-zone/
-,,Microsoft Learn On Demand Instructor-led Training Series,,Learn,https://learn.microsoft.com/shows/on-demand-instructor-led-training-series/
-Learnprofile,,Microsoft Learn Profile,,Learn,https://aka.ms/LearnProfile
-,,Microsoft Shows,,Learn,https://learn.microsoft.com/shows/
-,,Microsoft Virtual Training Days,,Learn,https://www.microsoft.com/en-ca/sites/microsoft-training-days
-,,Practice Assessments for Microsoft Certifications,,Learn,https://learn.microsoft.com/credentials/certifications/practice-assessments-for-microsoft-certifications
-docs,,Technical documentation,,Learn,https://learn.microsoft.com/docs/
-training,,Training,,Learn,https://learn.microsoft.com/training/
-cdx,,Customer Digital Experiences (Demo),,Microsoft 365,https://cdx.transform.microsoft.com
-ex,exo|exchange,Exchange,,Microsoft 365,https://admin.exchange.microsoft.com
-ge,,Graph Explorer,,Microsoft 365,https://developer.microsoft.com/en-us/graph/graph-explorer
-lighthouse,,Lighthouse,,Microsoft 365,https://lighthouse.microsoft.com/
-mc,,Message Center,,Microsoft 365,https://admin.microsoft.com/#/MessageCenter
-admin,,Microsoft 365 Admin,,Microsoft 365,https://admin.microsoft.com
-m365apps,,Microsoft 365 Apps admin center,,Microsoft 365,https://config.office.com/officeSettings
-lcs,,Microsoft Dynamics Lifecycle Services,,Microsoft 365,https://lcs.dynamics.com/v2
-forms,frm,Microsoft Forms,,Microsoft 365,https://forms.office.com/
-loop,lp,Microsoft Loop,,Microsoft 365,https://loop.microsoft.com/
-oct,,Office Customization Tool,,Microsoft 365,https://config.office.com/deploymentsettings
-one,onedrive,OneDrive,,Microsoft 365,https://admin.onedrive.com
-mail,outlook,Outlook,,Microsoft 365,https://outlook.office365.com/mail/
-pa,pflow,Power Automate,,Microsoft 365,https://make.powerautomate.com
-pbi,powerbi,Power BI,,Microsoft 365,https://app.powerbi.com/admin-portal
-pbidod,,Power BI DoD,,Microsoft 365,https://app.mil.powerbigov.us/
-pbigcc,,Power BI GCC,,Microsoft 365,https://app.powerbigov.us/
-pbigcch,,Power BI GCC High,,Microsoft 365,https://app.high.powerbigov.us/
-pp,ppa|power,Power Platform,,Microsoft 365,https://admin.powerplatform.microsoft.com
-ppdod,,Power Platform DoD,,Microsoft 365,https://admin.appsplatform.us/
-ppgcc,,Power Platform GCC,,Microsoft 365,https://gcc.admin.powerplatform.microsoft.us
-ppgcch,,Power Platform GCC High,,Microsoft 365,https://high.admin.powerplatform.microsoft.us/
-powerapps,,PowerApps,,Microsoft 365,https://make.powerapps.com/
-pappsdod,,PowerApps DoD,,Microsoft 365,https://make.apps.appsplatform.us/
-pappsgcc,,PowerApps GCC,,Microsoft 365,https://make.gov.powerapps.us/
-pappsgcch,,PowerApps GCC High,,Microsoft 365,https://make.high.powerapps.us/
-pflowdod,,PowerAutomate DoD,,Microsoft 365,https://flow.appsplatform.us/
-pflowgcc,,PowerAutomate GCC,,Microsoft 365,https://make.gov.powerautomate.us/
-pflowgcch,,PowerAutomate GCC High,,Microsoft 365,https://high.flow.microsoft.us/
-ppagegcc,,PowerPages GCC,,Microsoft 365,https://make.gov.powerpages.microsoft.us/
-ppagegcch,,PowerPages GCC High,,Microsoft 365,https://make.high.powerpages.microsoft.us/
-puactexp,,Purview Activity Explorer,,Microsoft 365,https://compliance.microsoft.com/dataclassification/activityexplorer
-pucloudgov,,Purview App Governance,,Microsoft 365,https://compliance.microsoft.com/cloudapps/app-governance
-puaudit,,Purview Audit,Microsoft 365 Advanced Audit,Microsoft 365,https://compliance.microsoft.com/auditlogsearch
-pucomms,,Purview Communication Compliance,Microsoft 365 Communication Compliance,Microsoft 365,https://compliance.microsoft.com/supervisoryreview
-pucmgr,decm,Purview Compliance manager,Microsoft Compliance Manager,Microsoft 365,https://compliance.microsoft.com/compliancemanager
-pucontentex,,Purview Content Explorer,,Microsoft 365,https://compliance.microsoft.com/dataclassification/contentexplorer
-pucontentse,,Purview Content Search,,Microsoft 365,https://compliance.microsoft.com/contentsearchv2
-puclassifiers,,Purview Data Classification,,Microsoft 365,https://compliance.microsoft.com/dataclassificationclassifiers
-pudlm,,Purview Data Lifecycle Management,Microsoft Information Governance,Microsoft 365,https://compliance.microsoft.com/informationgovernance
-pudlp,dlp,Purview Data Loss Prevention,Microsoft Endpoint DLP,Microsoft 365,https://compliance.microsoft.com/datalossprevention
-puedisc,ediscovery,Purview eDiscovery,Office 365 Advanced eDiscovery,Microsoft 365,https://compliance.microsoft.com/advancedediscovery
-puinfoprot,,Purview Information Protection,Microsoft Information Protection,Microsoft 365,https://compliance.microsoft.com/informationprotection
-puirm,,Purview Insider Risk Management,Microsoft 365 Insider Risk Management,Microsoft 365,https://compliance.microsoft.com/insiderriskmgmt
-puperms,,Purview Permissions manager,,Microsoft 365,https://compliance.microsoft.com/permissions
-puprivaprm,,Purview Priva Privacy Risk Management,,Microsoft 365,https://compliance.microsoft.com/privacymgmtoverview
-puprivasrr,,Purview Priva Subject Rights Requests,,Microsoft 365,https://compliance.microsoft.com/privacymgmtsrm
-purecmon,,Purview Records Management,Records Management in Microsoft 365,Microsoft 365,https://compliance.microsoft.com/recordsmanagement
-pusit,,Purview Sensitive Info Types,,Microsoft 365,https://compliance.microsoft.com/dataclassificationclassifiers?viewid=sensitiveinfotypes
-sp,spo|sharepoint,SharePoint,,Microsoft 365,https://admin.microsoft.com/sharepoint
-teams,team,Teams,,Microsoft 365,https://admin.teams.microsoft.com/
-teamsrooms,,Teams Rooms Pro Management,,Microsoft 365,https://portal.rooms.microsoft.com/
-teamsweb,,Teams Web Client,,Microsoft 365,https://teams.microsoft.com
-macvlsc,mackeys,Volume Licensing Keys,,Microsoft 365,https://admin.microsoft.com/Adminportal/Home#/subscriptions/vlnew/downloadsandkeys
-win365,cloudpc,Windows 365,Windows 365 Cloud PC,Microsoft 365,https://windows365.microsoft.com/
-yam,yammer,Yammer,,Microsoft 365,https://www.yammer.com/office365/admin
-myaccess,,My access,,My Pages,https://myaccess.microsoft.com
-myaccount,,My account,,My Pages,https://myaccount.microsoft.com
-myapps,myapp,My apps,,My Pages,https://myapps.microsoft.com
-mygroups,mygroup,My groups,,My Pages,https://account.activedirectory.windowsazure.com/r#/groups
-mysec,mysecurity|mysecurityinfo,My security info,my sign ins,My Pages,https://mysignins.microsoft.com/security-info
-mystaff,,My staff,,My Pages,https://mystaff.microsoft.com
-myvs,,Visual Studio Subscriptions,,My Pages,https://my.visualstudio.com/
-actionpack,,Microsoft Action Pack,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/membership/workspace/maps
-partner,,Microsoft Partner Center,,PartnerCenter,https://partner.microsoft.com/dashboard
-modernworkent,,Solutions Partner ModernWork Enterprise,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/membership/program/solutionspartner/solutionareas/modern?track=Enterprise
-modernworksmb,,Solutions Partner ModernWork SMB,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/membership/program/solutionspartner/solutionareas/modern?track=SMB
-solutionoverview,,Solutions Partner Overview,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/membership/program/solutionspartner/solutionareas/overview
-,,Microsoft Certified: Azure Fundamentals,AZ-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-fundamentals/
-,,AZ-900 Azure Fundamentals Exam,AZ-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/az-900/
-,,AZ-900 Study Guide,AZ-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-900
-,,AZ-900 Azure Fundamentals Course,AZ-900,Learn-cert,https://learn.microsoft.com/training/courses/az-900t00
-,,Microsoft Certified: Azure Administrator Associate,AZ-104,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-administrator/
-,,AZ-104 Azure Administrator Associate Exam,AZ-104,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/az-104/
-,,AZ-104 Study Guide,AZ-104,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-104
-,,AZ-104 Azure Administrator Associate Course,AZ-104,Learn-cert,https://learn.microsoft.com/training/courses/az-104t00
-,,Microsoft Certified: Azure Solutions Architect Expert,AZ-305,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-solutions-architect/
-,,AZ-305: Designing Microsoft Azure Infrastructure Solutions Exam,AZ-305,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/az-305/
-,,AZ-305 Study Guide,AZ-305,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-305
-,,AZ-305: Designing Microsoft Azure Infrastructure Solutions Course,AZ-305,Learn-cert,https://learn.microsoft.com/training/courses/az-305t00
-,,Microsoft Certified: Azure Network Engineer Associate,AZ-700,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-network-engineer-associate/
-,,AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Exam,AZ-700,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/az-700/
-,,AZ-700 Study Guide,AZ-700,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-700
-,,AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Course,AZ-700,Learn-cert,https://learn.microsoft.com/training/courses/az-700t00
-,,Microsoft Certified: Windows Server Hybrid Administrator Associate,AZ-800,Learn-cert,https://learn.microsoft.com/credentials/certifications/windows-server-hybrid-administrator/
-,,AZ-800: Administering Windows Server Hybrid Core Infrastructure Exam,AZ-800,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/az-800/
-,,AZ-800 Study Guide,AZ-800,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-800
-,,AZ-800: Administering Windows Server Hybrid Core Infrastructure Course,AZ-800,Learn-cert,https://learn.microsoft.com/training/courses/az-800t00
-,,AZ-801: Configuring Windows Server Hybrid Advanced Services Exam,AZ-801,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/az-801/
-,,AZ-801 Study Guide,AZ-801,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-801
-,,AZ-801: Configuring Windows Server Hybrid Advanced Services Course,AZ-801,Learn-cert,https://learn.microsoft.com/training/courses/az-801t00
-,,Microsoft Certified: Azure for SAP Workloads Specialty,AZ-120,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-for-sap-workloads-specialty/
-,,AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Exam,AZ-120,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/az-120/
-,,AZ-120 Study Guide,AZ-120,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-120
-,,AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Course,AZ-120,Learn-cert,https://learn.microsoft.com/training/courses/az-120t00
-,,Microsoft Certified: Azure Virtual Desktop Specialty,AZ-140,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-virtual-desktop-specialty/
-,,AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop Exam,AZ-140,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/az-140/
-,,AZ-140 Study Guide,AZ-140,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-140
-,,AZ-140: Planning and Administering Microsoft Azure for SAP Workloads Course Course,AZ-140,Learn-cert,https://learn.microsoft.com/training/courses/az-140t00
-,,Microsoft Certified: Azure AI Fundamentals,AI-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-virtual-desktop-specialty/
-,,AI-900: Microsoft Azure AI Fundamentals Exam,AI-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/ai-900/
-,,AI-900 Study Guide,AI-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-900
-,,AI-900: Microsoft Azure AI Fundamentals Course,AI-900,Learn-cert,https://learn.microsoft.com/training/courses/ai-900t00
-,,Microsoft Certified: Azure AI Engineer Associate,AI-102,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-ai-engineer
-,,AI-102: Designing and Implementing a Microsoft Azure AI Solution Exam,AI-102,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/ai-102/
-,,AI-102 Study Guide,AI-102,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-102
-,,AI-102: Designing and Implementing a Microsoft Azure AI Solution Course,AI-102,Learn-cert,https://learn.microsoft.com/training/courses/ai-102t00
-,,Microsoft Certified: Azure Data Fundamentals,DP-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-data-fundamentals
-,,DP-900: Microsoft Azure Data Fundamentals Exam,DP-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/dp-900/
-,,DP-900 Study Guide,DP-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-900
-,,DP-900: Microsoft Azure Data Fundamentals Course,DP-900,Learn-cert,https://learn.microsoft.com/training/courses/dp-900t00
-,,Microsoft Certified: Azure Data Scientist Associate,DP-100,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-data-scientist
-,,DP-100: Designing and Implementing a Data Science Solution on Azure Exam,DP-100,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/dp-100/
-,,DP-100 Study Guide,DP-100,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-100
-,,DP-100: Designing and Implementing a Data Science Solution on Azure Course,DP-100,Learn-cert,https://learn.microsoft.com/training/paths/work-data-azure-machine-learning/
-,,Microsoft Certified: Azure Data Engineer Associate,DP-203,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-data-engineer
-,,DP-203: Data Engineering on Microsoft Azure Exam,DP-203,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/dp-203/
-,,DP-203 Study Guide,DP-203,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-203
-,,DP-203: Data Engineering on Microsoft Azure Course,DP-203,Learn-cert,https://learn.microsoft.com/training/courses/dp-203t00
-,,Microsoft Certified: Azure Database Administrator Associate,DP-300,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-database-administrator-associate
-,,DP-300: Administering Microsoft Azure SQL Solutions Exam,DP-300,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/dp-300/
-,,DP-300 Study Guide,DP-300,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-300
-,,DP-300: Administering Microsoft Azure SQL Solutions Course,DP-300,Learn-cert,https://learn.microsoft.com/training/courses/dp-300t00
-,,Microsoft Certified: Azure Enterprise Data Analyst Associate,DP-500,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-enterprise-data-analyst-associate
-,,DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI exam,DP-500,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/dp-500/
-,,DP-500 Study Guide,DP-500,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-500
-,,DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI Course,DP-500,Learn-cert,https://learn.microsoft.com/training/courses/dp-500t00
-,,Microsoft Certified: Fabric Analytics Engineer Associate,DP-600,Learn-cert,https://learn.microsoft.com/credentials/certifications/fabric-analytics-engineer-associate
-,,DP-600: Implementing Analytics Solutions Using Microsoft Fabric Exam,DP-600,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/dp-600/
-,,DP-600 Study Guide,DP-600,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-600
-,,DP-600: Implementing Analytics Solutions Using Microsoft Fabric Course,DP-600,Learn-cert,https://learn.microsoft.com/training/courses/dp-600t00
-,,Microsoft Certified: Azure Cosmos DB Developer Specialty,DP-420,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-cosmos-db-developer-specialty
-,,DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB Exam,DP-420,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/dp-420/
-,,DP-420 Study Guide,DP-420,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-420
-,,DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB Course,DP-420,Learn-cert,https://learn.microsoft.com/training/courses/dp-420t00
-,,Microsoft Certified: Azure Developer Associate,AZ-204,Learn-cert,https://learn.microsoft.com/credentials/certifications/azure-developer
-,,AZ-204: Developing Solutions for Microsoft Azure Exam,AZ-204,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/az-204/
-,,AZ-204 Study Guide,AZ-204,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-204
-,,AZ-204: Developing Solutions for Microsoft Azure Course,AZ-204,Learn-cert,https://learn.microsoft.com/training/courses/az-204t00
-,,Microsoft Certified: DevOps Engineer Expert,AZ-400,Learn-cert,https://learn.microsoft.com/credentials/certifications/devops-engineer
-,,AZ-400: Designing and Implementing Microsoft DevOps Solutions Exam,AZ-400,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/az-400/
-,,AZ-400 Study Guide,AZ-400,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-400
-,,AZ-400: Designing and Implementing Microsoft DevOps Solutions Course,AZ-400,Learn-cert,https://learn.microsoft.com/training/courses/az-400t00
-,,Microsoft 365 Certified: Fundamentals,MS-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/microsoft-365-fundamentals
-,,MS-900: Microsoft 365 Fundamentals Exam,MS-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/ms-900/
-,,MS-900 Study Guide,MS-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-900
-,,MS-900: Microsoft 365 Fundamentals Course,MS-900,Learn-cert,https://learn.microsoft.com/training/courses/ms-900t01
-,,Microsoft 365 Certified: Endpoint Administrator Associate,MD-102,Learn-cert,https://learn.microsoft.com/credentials/certifications/m365-endpoint-administrator
-,,MD-102: Endpoint Administrator Exam,MD-102,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/md-102/
-,,MD-102 Study Guide,MD-102,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/md-102
-,,MD-102: Endpoint Administrators Course,MD-102,Learn-cert,https://learn.microsoft.com/training/courses/md-102t00
-,,Microsoft 365 Certified: Administrator Expert,MS-102,Learn-cert,https://learn.microsoft.com/credentials/certifications/m365-administrator-expert
-,,MS-102: Microsoft 365 Administrator Exam,MS-102,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/ms-102/
-,,MS-102 Study Guide,MS-102,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-102
-,,MS-102: Microsoft 365 Administrator Course,MS-102,Learn-cert,https://learn.microsoft.com/training/courses/ms-102t00
-,,Microsoft 365 Certified: Teams Administrator Associate,MS-700,Learn-cert,https://learn.microsoft.com/credentials/certifications/m365-teams-administrator-associate/
-,,MS-700: Managing Microsoft Teams Exam,MS-700,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/ms-700/
-,,MS-700 Study Guide,MS-700,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-700
-,,MS-700: Managing Microsoft Teams Course,MS-700,Learn-cert,https://learn.microsoft.com/training/courses/ms-700t00
-,,Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate,MS-721,Learn-cert,https://learn.microsoft.com/credentials/certifications/m365-collaboration-communications-systems-engineer/
-,,MS-721: Collaboration Communications Systems Engineer Exam,MS-721,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/ms-721/
-,,MS-721 Study Guide,MS-721,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-721
-,,MS-721: Collaboration Communications Systems Engineer Course,MS-721,Learn-cert,https://learn.microsoft.com/training/courses/ms-721t00
-,,Microsoft Certified: Information Protection and Compliance Administrator Associate,PL-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/power-platform-fundamentals/
-,,PL-900: Microsoft Power Platform Fundamentals Exam,PL-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/pl-900/
-,,PL-900 Study Guide,PL-900,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-900
-,,PL-900: Microsoft Power Platform Fundamentals Course,PL-900,Learn-cert,https://learn.microsoft.com/training/courses/pl-900t00
-,,Microsoft Certified: Power Platform App Maker Associate,PL-100,Learn-cert,https://learn.microsoft.com/credentials/certifications/power-platform-app-maker/
-,,PL-100: Microsoft Power Platform App Make Exam,PL-100,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/pl-100/
-,,PL-100 Study Guide,PL-100,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-100
-,,PL-100: Microsoft Power Platform App Make Course,PL-100,Learn-cert,https://learn.microsoft.com/training/courses/pl-100t00
-,,Microsoft Certified: Power Platform Functional Consultant Associate,PL-200,Learn-cert,https://learn.microsoft.com/credentials/certifications/power-platform-functional-consultant-associate/
-,,PL-200: Microsoft Power Platform Functional Consultant Exam,PL-200,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/pl-200/
-,,PL-200 Study Guide,PL-200,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-200
-,,PL-200: Microsoft Power Platform Functional Consultant Course,PL-200,Learn-cert,https://learn.microsoft.com/training/courses/pl-200t00
-,,Microsoft Certified: Power BI Data Analyst Associate,PL-300,Learn-cert,https://learn.microsoft.com/credentials/certifications/power-bi-data-analyst-associate/
-,,PL-300: Microsoft Power BI Data Analyst Exam,PL-300,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/pl-300/
-,,PL-300 Study Guide,PL-300,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-300
-,,PL-300: Microsoft Power BI Data Analyst Course,PL-300,Learn-cert,https://learn.microsoft.com/training/courses/pl-300t00
-,,Microsoft Certified: Power Platform Developer Associate,PL-400,Learn-cert,https://learn.microsoft.com/credentials/certifications/power-platform-developer-associate/
-,,PL-400: Microsoft Power Platform Developer Associate Exam,PL-400,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/pl-400/
-,,PL-400 Study Guide,PL-400,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-400
-,,PL-400: Microsoft Power Platform Developer Associate Course,PL-400,Learn-cert,https://learn.microsoft.com/training/courses/pl-400t00
-,,Microsoft Certified: Power Automate RPA Developer Associate,PL-500,Learn-cert,https://learn.microsoft.com/credentials/certifications/power-automate-rpa-developer-associate/
-,,PL-500: Microsoft Power Automate RPA Developer Exam,PL-500,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/pl-500/
-,,PL-500 Study Guide,PL-500,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-500
-,,PL-500: Microsoft Power Automate RPA Developer Course,PL-500,Learn-cert,https://learn.microsoft.com/training/courses/pl-500t00
-,,Microsoft Certified: Power Platform Solution Architect Expert,PL-600,Learn-cert,https://learn.microsoft.com/credentials/certifications/power-platform-solution-architect-expert/
-,,PL-600: Microsoft Power Platform Solution Architect Exam,PL-600,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/pl-600/
-,,PL-600 Study Guide,PL-600,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-600
-,,PL-600: Microsoft Power Platform Solution Architect Course,PL-600,Learn-cert,https://learn.microsoft.com/training/courses/pl-600t00
-,,Microsoft Certified: Dynamics 365 Fundamentals (CRM),MB-910,Learn-cert,https://learn.microsoft.com/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/
-,,MB-910: Microsoft Dynamics 365 Fundamentals (CRM) Exam,MB-910,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/mb-910/
-,,MB-910 Study Guide,MB-910,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-910
-,,MB-910: Microsoft Dynamics 365 Fundamentals (CRM) Course,MB-910,Learn-cert,https://learn.microsoft.com/training/courses/mb-910t00
-,,Microsoft Certified: Dynamics 365 Fundamentals (ERP),MB-920,Learn-cert,https://learn.microsoft.com/credentials/certifications/d365-fundamentals-finance-and-operations-apps-erp/
-,,MB-920: Microsoft Dynamics 365 Fundamentals (ERP) Exam,MB-920,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/mb-920/
-,,MB-920 Study Guide,MB-920,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-920
-,,MB-920: Microsoft Dynamics 365 Fundamentals (ERP) Course,MB-920,Learn-cert,https://learn.microsoft.com/training/courses/mb-920t00
-,,Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate,MB-210,Learn-cert,https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-sales/
-,,MB-210: Microsoft Dynamics 365 Sales Functional Consultant Exam,MB-210,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/mb-210/
-,,MB-210 Study Guide,MB-210,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-210
-,,MB-210: Microsoft Dynamics 365 Sales Functional Consultant Course,MB-210,Learn-cert,https://learn.microsoft.com/training/courses/mb-210t00
-,,Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate,MB-240,Learn-cert,https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-field-service/
-,,MB-240: Microsoft Dynamics 365 Field Service Functional Consultant Exam,MB-240,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/mb-240/
-,,MB-240 Study Guide,MB-240,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-240
-,,MB-240: Microsoft Dynamics 365 Field Service Functional Consultant Course,,Learn-cert,https://learn.microsoft.com/training/courses/mb-240t00
-,,Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate,MB-230,Learn-cert,https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-customer-service/
-,,MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant Exam,MB-230,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/mb-230/
-,,MB-230 Study Guide,MB-230,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-230
-,,MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant Course,MB-230,Learn-cert,https://learn.microsoft.com/training/courses/mb-230t00
-,,Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate,MB-330,Learn-cert,https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-supply-chain-management/
-,,MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Exam,MB-330,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/mb-330/
-,,MB-330 Study Guide,MB-330,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-330
-,,MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Course,MB-330,Learn-cert,https://learn.microsoft.com/training/courses/mb-330t00
-,,Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate,MB-310,Learn-cert,https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-financials/
-,,MB-310: Microsoft Dynamics 365 Finance Functional Consultant Exam,MB-310,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/mb-310/
-,,MB-310 Study Guide,MB-310,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-310
-,,MB-310: Microsoft Dynamics 365 Finance Functional Consultant Course,MB-310,Learn-cert,https://learn.microsoft.com/training/courses/mb-310t00
-,,Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate,MB-500,Learn-cert,https://learn.microsoft.com/credentials/certifications/d365-finance-and-operations-apps-developer-associate/
-,,MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer Exam,MB-500,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/mb-500/
-,,MB-500 Study Guide,MB-500,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-500
-,,MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer Course,MB-500,Learn-cert,https://learn.microsoft.com/training/courses/mb-500t00
-,,Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Expert,MB-335,Learn-cert,https://learn.microsoft.com/credentials/certifications/d365-supply-chain-management-functional-consultant-expert/
-,,MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert Exam,MB-335,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/mb-335/
-,,MB-335 Study Guide,MB-335,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-335
-,,MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert Course,MB-335,Learn-cert,https://learn.microsoft.com/training/courses/mb-335t00
-,,Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate,MB-800,Learn-cert,https://learn.microsoft.com/credentials/certifications/d365-business-central-functional-consultant-associate/
-,,MB-800: Microsoft Dynamics 365 Business Central Functional Consultant Associate Exam,MB-800,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/mb-800/
-,,MB-800 Study Guide,MB-800,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-800
-,,MB-800: Microsoft Dynamics 365 Business Central Functional Consultant Associate Course,MB-800,Learn-cert,https://learn.microsoft.com/training/courses/mb-800t00
-,,Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert,MB-700,Learn-cert,https://learn.microsoft.com/credentials/certifications/d365-finance-and-operations-apps-solution-architect-expert/
-,,MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Exam,MB-700,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/mb-700/
-,,MB-700 Study Guide,MB-700,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-700
-,,MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Course,MB-700,Learn-cert,https://learn.microsoft.com/training/courses/mb-700t00
-,,Microsoft Certified: Dynamics 365 Business Central Developer Associate,,Learn-cert,https://learn.microsoft.com/credentials/certifications/d365-business-central-developer-associate/
-,,MB-820: Microsoft Dynamics 365 Business Central Developer Exam,,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/mb-820/
-,,MB-820 Study Guide,,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-820
-,,MB-820: Microsoft Dynamics 365 Business Central Developer Course,,Learn-cert,https://learn.microsoft.com/training/courses/mb-820t00
-,,Microsoft Certified: Dynamics 365 Customer Insights (Journeys) Functional Consultant Associate,,Learn-cert,https://learn.microsoft.com/credentials/certifications/d365-customer-insights-journeys-functional-consultant/
-,,MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant Exam,,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/mb-220/
-,,MB-220 Study Guide,,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-220
-,,MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant Course,,Learn-cert,https://learn.microsoft.com/training/courses/mb-220t00
-,,Microsoft Certified: Dynamics 365 Customer Insights (Data) Specialty,,Learn-cert,https://learn.microsoft.com/credentials/certifications/d365-customer-insights-data-specialty/
-,,MB-260: Microsoft Dynamics 365 Customer Insights (Data) Specialist Exam,,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/mb-260/
-,,MB-260 Study Guide,,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-260
-,,MB-260: Microsoft Dynamics 365 Customer Insights (Data) Specialist Course,,Learn-cert,https://learn.microsoft.com/training/courses/mb-260t00
-,,Microsoft Certified: Security,,Learn-cert, Compliance
-,,SC-900: Microsoft Security,,Learn-cert, Compliance
-,,SC-900 Study Guide,,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-900
-,,SC-900: Microsoft Security,,Learn-cert, Compliance
-,,Microsoft Certified: Security,,Learn-cert, Compliance
-,,AZ-500: Microsoft Azure Security Technologies Exam,,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/az-500/
-,,AZ-500 Study Guide,,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-500
-,,AZ-500: Microsoft Azure Security Technologies Course,,Learn-cert,https://learn.microsoft.com/training/courses/az-500t00
-,,Microsoft Certified: Cybersecurity Architect Expert,,Learn-cert,https://learn.microsoft.com/credentials/certifications/cybersecurity-architect-expert
-,,SC-100: Microsoft Cybersecurity Architect Exam,,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/sc-100/
-,,SC-100 Study Guide,,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-100
-,,SC-100: Microsoft Cybersecurity Architect Course,,Learn-cert,https://learn.microsoft.com/training/courses/sc-100t00
-,,Microsoft Certified: Cybersecurity Architect Expert,,Learn-cert,https://learn.microsoft.com/credentials/certifications/security-operations-analyst
-,,SC-200: Microsoft Security Operations Analyst Exam,,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/sc-200/
-,,SC-200 Study Guide,,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-200
-,,SC-200: Microsoft Security Operations Analyst Course,,Learn-cert,https://learn.microsoft.com/training/courses/sc-200t00
-,,Microsoft Certified: Identity and Access Administrator Associate,,Learn-cert,https://learn.microsoft.com/credentials/certifications/identity-and-access-administrator
-,,SC-300: Microsoft Identity and Access Administrator Exam,,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/sc-300/
-,,SC-300 Study Guide,,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-300
-,,SC-300: Microsoft Identity and Access Administrator Course,,Learn-cert,https://learn.microsoft.com/training/courses/sc-300t00
-,,Microsoft Certified: Information Protection and Compliance Administrator Associate,,Learn-cert,https://learn.microsoft.com/credentials/certifications/information-protection-and-compliance-administrator/
-,,SC-400: Administering Information Protection and Compliance in Microsoft 365 Exam,,Learn-cert,https://learn.microsoft.com/credentials/certifications/exams/sc-400/
-,,SC-400 Study Guide,,Learn-cert,https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-400
-,,SC-400: Administering Information Protection and Compliance in Microsoft 365 Course,,Learn-cert,https://learn.microsoft.com/training/courses/sc-400t00
-,,Microsoft Office Specialist: Word Associate (Microsoft 365 Apps),,Learn-cert,https://learn.microsoft.com/en-us/credentials/certifications/mos-word-associate-m365-apps/
-,,MO-110: Microsoft Word (Microsoft 365 Apps) Exam,,Learn-cert,https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-110/
-,,MO-110 Exam Skills Outline,,Learn-cert,https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5dvir
-,,Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps),,Learn-cert,https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-associate-m365-apps/
-,,MO-210: Microsoft Excel (Microsoft 365 Apps) Exam,,Learn-cert,https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-110/
-,,MO-210 Exam Skills Outline,,Learn-cert,https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axcj
-,,Microsoft Office Specialist: Word Expert (Microsoft 365 Apps),,Learn-cert,https://learn.microsoft.com/en-us/credentials/certifications/mos-powerpoint-associate-m365-apps/
-,,MO-310: Microsoft PowerPoint (Microsoft 365 Apps) Exam,,Learn-cert,https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-310/
-,,MO-310 Exam Skills Outline,,Learn-cert,https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWHBt
-,,Microsoft Office Specialist: Outlook Expert (Microsoft 365 Apps),,Learn-cert,https://learn.microsoft.com/en-us/credentials/certifications/mos-powerpoint-associate-m365-apps/
-,,MO-410: Microsoft Outlook (Microsoft 365 Apps) Exam,,Learn-cert,https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-410/
-,,MO-410 Exam Skills Outline,,Learn-cert,https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/tbc
-,,https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-associate-m365-apps/),,Learn-cert,https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-expert-m365-apps/
-,,Microsoft Office Specialist: Word Expert (Microsoft 365 Apps),,Learn-cert,https://learn.microsoft.com/en-us/credentials/certifications/mos-word-expert-m365-apps/
-,,MO-111: Microsoft Word Expert (Microsoft 365 Apps) Exam,,Learn-cert,https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-111/
-,,MO-111 Exam Skills Outline,,Learn-cert,https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW16Vea
-,,Microsoft Office Specialist: Word Expert (Microsoft 365 Apps),,Learn-cert,https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-expert-m365-apps/
-,,MO-211: Microsoft Excel Expert (Microsoft 365 Apps) Exam,,Learn-cert,https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-211/
-,,MO-211 Exam Skills Outline,,Learn-cert,https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW10j3G
-,,Microsoft Office Specialist: Expert (Microsoft 365 Apps),,Learn-cert,https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-expert-m365-apps/
-,,Microsoft Azure Network Security Ninja,,Ninja,http://aka.ms/aznetsecninja
-,,Microsoft Purview Compliance Manager Ninja,,Ninja,http://aka.ms/compliancemanagerninja
-,,Microsoft Purview Communication Compliance Ninja,,Ninja,https://aka.ms/communicationcomplianceninja
-,,Microsoft Purview eDiscovery Ninja,,Ninja,https://aka.ms/ediscoveryninja
-,,Microsoft Purview Information Protection Ninja,,Ninja,https://aka.ms/MIPNinja
-,,Microsoft Purview Data Loss Prevention Ninja,,Ninja,https://aka.ms/DLPNinja
-,,Microsoft Purview Insider Risk Management Ninja,,Ninja,https://aka.ms/insiderriskninja
-,,Microsoft 365 Defender Ninja,,Ninja,https://aka.ms/m365dninja
-,,Microsoft 365 Defender for Cloud Ninja,,Ninja,http://aka.ms/ascninja
-,,Microsoft 365 Defender for IoT Ninja,,Ninja,https://aka.ms/d4iotninja
-,,Microsoft Defender Experts Ninja Hub,,Ninja,http://aka.ms/DefenderExpertsNinjaHub
-,,Microsoft Defender for Cloud Apps Ninja,,Ninja,http://aka.ms/mcasninja
-,,Microsoft Defender for Endpoint Ninja,,Ninja,https://aka.ms/mdeninja
-,,Microsoft Defender for Identity Ninja,,Ninja,https://aka.ms/MDINinja
-,,Microsoft Defender for Office 365 Ninja,,Ninja,https://aka.ms/MDONinja
-,,Microsoft Defender Threat Intelligence Ninja,,Ninja,https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965
-,,Microsoft Sentinel Ninja,,Ninja,https://aka.ms/sentinelninja
-,,Microsoft Sentinel for MSSP Ninja,,Ninja,http://aka.ms/azsentinelmssp
-,,Microsoft Sentinel Notebooks Ninja,,Ninja,https://aka.ms/MDONinja
-,,Microsoft Sentinel Automation Ninja,,Ninja,https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377
-,,Ninja Show,,Ninja,https://aka.ms/NinjaShow
-,,AADInternals Tenant information OSINT,,Other,https://aadinternals.com/osint/
-,,Apple Business Manager,,Other,https://business.apple.com
-,,Apple School Manager,,Other,https://school.apple.com
-,,Azure Charts,,Other,https://azurecharts.com/
-,,Azure Diagrams,,Other,https://azurediagrams.com/
-,,Azure Governance change tracker,,Other,https://www.azadvertizer.net
-,,ChangeWindows,,Other,https://changewindows.org/
-,,Conditional Access Documenter - idPowerToys,,Other,https://idpowertoys.merill.net/ca
-,,Defender for Endpoint Blog and KQL-Tools,,Blog,https://m365internals.com
-,,Get Security Done,,Other,https://dcaddick.github.io/gsd_public/
-,,IntuneMaps,,Other,https://intunemaps.com/
-,,KQL Search,,Other,https://www.kqlsearch.com/
-,,Managed Google Play store,,Other,https://play.google.com/work
-,,Message Header Analyzer,,Other,https://mha.azurewebsites.net
-,,Microsoft 365 Maps - Licensing Diagrams,,Other,https://m365maps.com/
-,,Microsoft Acronyms Glossary,,Other,https://tpm.ms/TLA
-,,Microsoft Mac Downloads,,Other,https://macadmins.software/
-,,Microsoft Token Analysis Tool,,Other,https://jwt.ms/
-,,Microsoft WDAC Wizard,,Other,https://webapp-wdac-wizard.azurewebsites.net/
-,,MSShells.net PowerShell modules for Microsoft 365 / Azure,,Other,https://msshells.net/
-,,Office 365 ATP Safe Links Decoder,,Other,https://o365atp.com
-,,Online link generator for Microsoft Store,,Other,https://store.rg-adguard.net/
-,,Regular Expressions 101,,Other,https://regex101.com
-,,Tenant Availability Check,,Other,https://o365.rocks
-,,Twitter - Microsoft 365 Status Page,,Other,https://twitter.com/MSFT365Status
-,,Valimail DMARC Monitor,,Other,https://use.valimail.com/ms-dmarc-monitor.html
-,,What is my Microsoft Azure and Office 365 tenant ID ?,,Other,https://www.whatismytenantid.com
-,,Where's My Tenant ?,,Other,https://gettenantpartitionweb.azurewebsites.net/
-,,M365PSProfile,,Other,https://www.powershellgallery.com/packages/M365PSProfile/0.5.0
-,,Microsoft Security,,Learn,https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm
-,,Microsoft Exam Updates,,Nieuws,https://intunedin.net/
-,,John Savill's Technical Training,,Blogs,https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ
-,,Microsoft Mechanics,,Blogs,https://www.youtube.com/@MSFTMechanics
-,,Kusto Detective Agency,,Learn,https://detective.kusto.io/
-,,Must Learn KQL,,Learn,https://github.com/rod-trent/MustLearnKQL
-,,Intune Training,,Blogs,https://www.youtube.com/@IntuneTraining
-,,Microsoft Security Community,,Blogs,https://www.youtube.com/@MicrosoftSecurityCommunity
-,,Entra.News,,Nieuws,https://entra.news/
-,,ITOpsTalk,,Blogs,https://www.youtube.com/@ITOpsTalk
-,,For Cloud's Sake,,Blogs,https://open.spotify.com/show/7vrlCD9cC5Ws1yCJWSCcdr
-,,Modern Nerdplace,,Blogs,https://open.spotify.com/show/6BplO9t7XhNoduLgFSVqAV
-,Rudy Ooms,Call4Cloud,,Blogs,https://call4cloud.nl/
-,Pater Daalmans,Modern Management Blog,,Blogs,https://configmgrblog.com/
-,Joost Gelijsteen,Just about the Modern Workplace,,Blogs,https://joostgelijsteen.com/
-,,What's new in Microsoft Intune,,Nieuws,https://learn.microsoft.com/en-us/mem/intune/fundamentals/whats-new
-,,Copilot for Microsoft 365 News,,Nieuws,https://techcommunity.microsoft.com/t5/copilot-for-microsoft-365/bg-p/Microsoft365CopilotBlog
-,,Kpn Partner Network Release Radio,,Blogs,https://open.spotify.com/playlist/0LW0ILqwXdSRCLMjZLTq7u?si=c38f3848245840cb
-,,People Work Technology Podcast,,Blogs,https://open.spotify.com/show/6sb9a6U4A6I9rIVjTK6vHZ?si=e381fb009a87447e
-,Fabio van der Burg,vdBurg.it,,Blogs,https://vdburg.it/#microsoft-blog
-,Peter van der Woude,All about Microsoft Intune,,Blogs,https://www.petervanderwoude.n
-,,Winstall -  the winget repository,,Other,https://winstall.app/
-,Myron Helgering,Microsoft Security Blog,,Blogs,https://myronhelgering.com/
-,,IT Bro's podcast,,Blogs,https://itbros.nl/
-,Jeroen Burgerhout,Jeroen BurgerHout blog,,Blogs,https://www.burgerhout.org
-,,Azure Updates,,Nieuws,https://azure.microsoft.com/en-us/updates/
-,,Microsoft365-roadmap,,Nieuws,https://www.microsoft.com/nl-nl/microsoft-365/roadmap
-,,TechCommunity,,Nieuws,https://techcommunity.microsoft.com/
-,,Microsoft Events,,Nieuws,https://cloudpartners.transform.microsoft.com/events?tab=on-demand-webinars
-,,Partner Center Announcements,,Nieuws,https://learn.microsoft.com/en-us/partner-center/announcements/
-,Gregor Reimling,Blog Reimling,,Blogs,https://reimling.eu/
-,,Irma,KPN,Other,https://irma.routit.nl/
-,,OneBase,KPN,Other,https://onebase.io/
-,,SuperVision,KPN,Other,https://onebase.io/mijn-bedrijf/werkplek/supervision/
-,,Benefits,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/benefits/marketing
-,,Benefits | Azure credits,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/benefits/azure
-,,Benefits | Cloud services,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/benefits/cloud
-,,Benefits | Software,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/benefits/software
-,,Benefits | Developer tools,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/benefits/visualstudio
-,,Benefits | Technical support & consultation,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/benefits/technicalsupport
-,,Benefits | Technical pre-sales & deployment,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/benefits/technicalpresales
-,,Benefits | Marketing benefits,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/benefits/marketing
-,,Customer List,,PartnerCenter,https://partner.microsoft.com/en-us/dashboard/commerce2/customers/list
-,,Insights,,PartnerCenter,https://partner.microsoft.com/en-us/dashboard/insights/analytics/overview
-,,Membership,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/membership/workspace/overview
-,,Referrals,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/referrals/v3/cosell
-,,Benefits Azure Credits,,PartnerCenter,https://partner.microsoft.com/dashboard/v2/benefits/azure
-,,testje om te zien of het werkt,,Other,https://testje.nl
+Command;Alias;Description;Keywords;Category;Url
+azapim;;API Management services;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ApiManagement%2Fservice?
+azasp;;App Service plans;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2FserverFarms
+azapps;azweb;App Services;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fsites
+azappgw;appgw|gateway;Application Gateway;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Network/LoadBalancingHubMenuBlade/~/applicationgateways
+azappinsights;appinsights;Application Insights;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/microsoft.insights%2Fcomponents
+azautomanage;azam;Automanage;;Azure;https://portal.azure.com/#view/Microsoft_Azure_AutoManagedVirtualMachines/AutomanageMenuBlade
+azvmas;;Availability Sets;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2FavailabilitySets?
+az;azure;Azure;;Azure;https://portal.azure.com
+azcreate;;Azure - Create a Resource;;Azure;https://portal.azure.com/#create/hub?
+azadvisor;;Azure Advisor;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Expert/AdvisorMenuBlade/~/score?
+azauto;azautomation;Azure Automation;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Automation%2FAutomationAccounts
+azredis;;Azure Cache for Redis;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Cache%2FRedis
+azshell;shell;Azure Cloud Shell;;Azure;https://portal.azure.com/#cloudshell/
+azcs;;Azure Content Safety;;Azure;https://contentsafety.cognitive.azure.com/
+azcosmos;;Azure Cosmos DB;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.DocumentDb%2FdatabaseAccounts
+adf;;Azure Data Factory;;Azure;https://adf.azure.com/
+azdatabricks;;Azure Databricks;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Databricks%2Fworkspaces?
+dev;devops;Azure DevOps Portal;;Azure;https://dev.azure.com
+azfwmg;;Azure Firewall Manager;;Azure;https://portal.azure.com/#view/Microsoft_Azure_HybridNetworking/FirewallManagerMenuBlade
+azfdcdn;;Azure Front Door and CDN profiles;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/microsoft.cdn%2Fprofiles?
+azlogic;;Azure Logic Apps;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Logic%2Fworkflows
+azml;;Azure Machine Learning Studio;;Azure;https://ml.azure.com/
+azmi;;Azure Managed Identities;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ManagedIdentity%2FuserAssignedIdentities?
+azmg;;Azure Management Groups;;Azure;https://portal.azure.com/#view/Microsoft_Azure_ManagementGroups/ManagementGroupBrowseBlade?
+azoai;openai;Azure OpenAI Studio;;Azure;https://oai.azure.com/portal
+azpolicy;;Azure Policy;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Policy/PolicyMenuBlade/~/overview
+azp;azurepreview;Azure Preview Portal;;Azure;https://preview.portal.azure.com/
+azprice;price;Azure Price Calculator;;Azure;https://azure.microsoft.com/pricing/calculator/
+arg;arge;Azure Resource Graph Explorer;;Azure;https://portal.azure.com/#view/HubsExtension/ArgQueryBlade?
+azpim;;Azure Resources PIM;;Azure;https://portal.azure.com/#view/Microsoft_Azure_PIMCommon/CommonMenuBlade/~/azurerbac
+azhealth;;Azure Service Health;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Health/ServiceIssuesBlade?
+azsynapse;;Azure Synapse Analytics;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Synapse%2Fworkspaces?
+synapse;;Azure Synapse Studio;;Azure;https://web.azuresynapse.net/
+azumc;;Azure Update Management Center;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Automation/UpdateCenterMenuBlade/~/overview?
+azavd;avd;Azure Virtual Desktop;;Azure;https://portal.azure.com/#view/Microsoft_Azure_WVD/WvdManagerMenuBlade/~/overview
+azwb;;Azure Workbooks;;Azure;https://portal.azure.com/?feature.msaljs=true#view/HubsExtension/BrowseResource/resourceType/microsoft.insights%2Fworkbooks
+azbackup;;Backup Center;;Azure;https://portal.azure.com/#view/Microsoft_Azure_DataProtection/BackupCenterMenuBlade/~/overview
+azcontainer;;Container Instances;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerInstance%2FcontainerGroups
+azacr;;Container Registries;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerRegistry%2Fregistries
+cosmos;;CosmosDB Explorer;;Azure;https://cosmos.azure.com
+azcost;;Cost Management + Billing;;Azure;https://portal.azure.com/#view/Microsoft_Azure_GTM/ModernBillingMenuBlade/~/BillingAccounts
+azdcr;;Data Collection Rules;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Insights%2FdataCollectionRules
+azkusto;adx;Data Explorer;;Azure;https://dataexplorer.azure.com/
+azadf;;Data factories;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.DataFactory%2FdataFactories
+azpgfs;;DB for PostgreSQL flexible servers;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.DBforPostgreSQL%2FflexibleServers?
+azpgh;;DB for PostgreSQL Hyperscale (Citus);;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.DBforPostgreSQL%2FserverGroupsv2?
+azpg;;DB for PostgreSQL servers;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.DBforPostgreSQL%2Fservers?
+azdisks;;Disks;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2Fdisks
+azfn;;Function App;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fsites/kind/functionapp
+azhelp;;Help + support;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Support/HelpAndSupportBlade/~/overview
+azkv;kv;Key Vault;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.KeyVault%2Fvaults
+azaks;;Kubernetes services;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerService%2FmanagedClusters
+azlb;lb;Load balancing;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Network/LoadBalancingHubMenuBlade/~/overview
+azloganalytics;la;Log Analytics;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.OperationalInsights%2Fworkspaces
+azdefender;;Microsoft Defender for Cloud;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Security/SecurityMenuBlade/~/0
+azmonitor;;Monitor;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/~/overview
+aznsg;;Network security groups;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FNetworkSecurityGroups
+aznwatch;netwatch;Network Watcher;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Network/NetworkWatcherMenuBlade/~/overview?
+azpgaa;;PostgreSQL servers - Azure Arc;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.AzureArcData%2FpostgresInstances?
+azpip;;Public IP Addresses;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FPublicIpAddresses
+puudg;purviewudg|purview;Purview Unified Data Governance;Azure Purview portal;Azure;https://web.purview.azure.com
+avdweb;;Remote Desktop Web Client;;Azure;https://client.wvd.microsoft.com/arm/webclient/index.html
+azrg;;Resource groups;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResourceGroups?
+azroutes;;Route tables;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FrouteTables
+azvmss;;Scale Sets;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Compute%2FvirtualMachineScaleSets?
+azsentinel;sentinel;Sentinel;;Azure;https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade?
+azhybridcompute;;Servers - Azure Arc;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.HybridCompute%2Fmachines
+azservicebus;bus;Service Bus;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ServiceBus%2Fnamespaces
+azsd;;Shared dashboards;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Portal%2Fdashboards?
+azsqldb;;SQL databases;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Sql%2Fservers%2Fdatabases
+azsqlep;;SQL elastic pools;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Sql%2Fservers%2Felasticpools
+azsqlmi;sqlmi;SQL managed instance;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Sql%2FmanagedInstances
+azsql;;SQL servers;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Sql%2Fservers
+azssh;;SSH Keys;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2FsshPublicKeys
+azsa;storage;Storage accounts;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Storage%2FStorageAccounts
+azsubs;;Subscriptions;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Billing/SubscriptionsBlade?
+aztemp;;Templates;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.Gallery%2Fmyareas%2Fgalleryitems?
+print;upc;Universal Print Console;Azure;Azure;https://portal.azure.com/#view/Universal_Print/MainMenuBlade/~/Printers?#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade?
+azvm;;Virtual machines;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Compute%2FVirtualMachines
+azvn;vnet;Virtual networks;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FvirtualNetworks
+azwaf;waf;Web Application Firewall policies;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FFrontDoorWebApplicationFirewallPolicies
+deactions;;Action centre;;Defender;https://security.microsoft.com/action-center
+decacat;;Cloud app catalog;;Defender;https://security.microsoft.com/cloudapps/app-catalog
+detallow;;Defender Tenant Allow/Block List;;Defender;https://security.microsoft.com/tenantAllowBlockList
+dedevices;;Device Inventory;;Defender;https://security.microsoft.com/machines
+deexplorer;;Explorer;;Defender;https://security.microsoft.com/threatexplorer
+dehunting;dehunt;Hunting;;Defender;https://security.microsoft.com/v2/advanced-hunting
+deusers;deidentities;Identities;;Defender;https://security.microsoft.com/cloudapps/users-and-accounts
+deincidents;deinc;Incidents;;Defender;https://security.microsoft.com/incidents
+deinvestigations;;Investigations;;Defender;https://security.microsoft.com/airinvestigation
+decaoauth;;Manage OAuth apps;;Defender;https://security.microsoft.com/cloudapps/oauth-apps
+defender;def|security;Microsoft 365 Defender;;Defender;https://security.microsoft.com
+deca;;Microsoft Defender for Cloud Apps;;Defender;https://portal.cloudappsecurity.com/
+dess;;Microsoft Secure Score;;Defender;https://security.microsoft.com/securescore
+deqre;deq;Quarantined Emails;;Defender;https://security.microsoft.com/quarantine
+dere;;Restricted entities;;Defender;https://security.microsoft.com/restrictedentities
+deti;;Threat Intelligence;;Defender;https://ti.defender.microsoft.com
+;;Additional Security Information;;Enduser;https://account.activedirectory.windowsazure.com
+;;App Passwords;;Enduser;https://account.activedirectory.windowsazure.com/AppPasswords.aspx
+;;Bing Image Creator;;Enduser;https://www.bing.com/create
+;;Bookings;;Enduser;https://outlook.office.com/bookings
+;;Calendar;;Enduser;https://outlook.office.com/calendar
+;;Change Password;;Enduser;https://account.activedirectory.windowsazure.com/ChangePassword.aspx
+;;Cloud Voicemail;;Enduser;https://admin1a.online.lync.com/lscp/usp/voicemail/
+;;Compliance;;Enduser;https://compliance.microsoft.com
+;;Converged MFA & SSPR Portal;;Enduser;https://aka.ms/mysecurityinfo/
+;;Copilot For Microsoft 365;;Enduser;https://www.microsoft365.com/chat/
+;;Copilot Lab;;Enduser;https://copilot.cloud.microsoft/
+;;Cortana;;Enduser;https://cortana.office.com
+;;Customer Voice;;Enduser;https://customervoice.microsoft.com/
+;;Delve;;Enduser;https://delve.office.com
+;;Device Login - Microsoft account or MSA (Personal Account);;Enduser;https://microsoft.com/link
+;;Device Login - Work or School Account;;Enduser;https://microsoft.com/devicelogin
+;;Excel;;Enduser;https://www.office.com/launch/excel
+;;Exchange Control Panel (Personal);;Enduser;https://outlook.office.com/ecp/
+;;Fabric;;Enduser;https://fabric.microsoft.com
+;;Forms;;Enduser;https://www.office.com/launch/forms
+;;Kaizala Web;;Enduser;https://web.kaiza.la
+;;Loop;;Enduser;https://loop.cloud.microsoft
+;;Mesh;;Enduser;https://mesh.cloud.microsoft
+;;MFA Setup;;Enduser;https://account.activedirectory.windowsazure.com/proofup.aspx
+;;Microsoft AppSource;;Enduser;https://store.office.com/redirect.aspx
+;;Microsoft Azure Information Protection - Track Documents;;Enduser;https://track.azurerms.com/
+;;Microsoft Copilot;;Enduser;https://www.bing.com/chat
+;;Microsoft Copilot;;Enduser;https://copilot.microsoft.com/
+;;Microsoft Create - Free Templates;;Enduser;https://create.microsoft.com/
+;;Microsoft Designer;;Enduser;https://designer.microsoft.com/
+;;Microsoft Family Safety;;Enduser;https://account.microsoft.com/family/
+;;Microsoft Intune Web Company Portal;;Enduser;https://portal.manage.microsoft.com/
+;;My Access;;Enduser;https://myaccess.microsoft.com
+;;My Account;;Enduser;https://account.microsoft.com
+;;My Account;;Enduser;https://myaccount.microsoft.com
+;;My Apps;;Enduser;https://account.activedirectory.windowsazure.com
+;;My Groups;;Enduser;https://account.activedirectory.windowsazure.com/r#/groups
+;;My Sign-Ins;;Enduser;https://mysignins.microsoft.com
+;;My Staff;;Enduser;https://mystaff.microsoft.com/
+;;Office 365 Apps;;Enduser;https://www.office.com/apps
+;;Office 365 Security & Compliance - Quarantined;;Enduser;https://security.microsoft.com/quarantine
+;;OneDrive;;Enduser;https://portal.office.com/onedrive
+;;OneNote;;Enduser;https://www.office.com/launch/onenote
+;;Outlook;;Enduser;https://outlook.office.com
+;;People;;Enduser;https://outlook.office.com/people
+;;Planner;;Enduser;https://tasks.office.com
+;;Power Apps;;Enduser;https://make.powerapps.com
+;;Power Automate;;Enduser;https://make.powerautomate.com/
+;;Power BI;;Enduser;https://app.powerbi.com
+;;Power Pages;;Enduser;https://make.powerpages.microsoft.com
+;;PowerPoint;;Enduser;https://www.office.com/launch/powerpoint
+;;Project;;Enduser;https://project.microsoft.com
+;;Security;;Enduser;https://security.microsoft.com
+;;Self Service Password Reset / Forgot Password;;Enduser;https://passwordreset.microsoftonline.com
+;;Self Service Password Reset Setup;;Enduser;https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup
+;;SharePoint;;Enduser;https://login.microsoftonline.com/login.srf?wa=wsignin1.0&wreply=https://www.office.com/launch/sharepoint%3F&LoginOptions=1
+;;Stream;;Enduser;https://web.microsoftstream.com
+;;Sway;;Enduser;https://sway.cloud.microsoft
+;;Teams;;Enduser;https://teams.microsoft.com/v2/
+;;To-Do;;Enduser;https://to-do.office.com
+;;Visio;;Enduser;https://www.office.com/launch/visio
+;;Viva Engage;;Enduser;https://engage.cloud.microsoft
+;;Viva Goals;;Enduser;https://goals.cloud.microsoft
+;;Viva Home;;Enduser;https://viva.cloud.microsoft
+;;Viva Insights;;Enduser;https://insights.cloud.microsoft
+;;Viva Learning;;Enduser;https://learning.cloud.microsoft
+;;Viva Pulse;;Enduser;https://pulse.cloud.microsoft
+;;Viva Skills;;Enduser;https://skills.cloud.microsoft
+;;Whiteboard;;Enduser;https://whiteboard.microsoft.com
+;;Windows 365;;Enduser;https://windows365.microsoft.com
+;;Windows Virtual Desktop Web Client (ARM);;Enduser;https://rdweb.wvd.microsoft.com/arm/webclient
+;;Windows Virtual Desktop Web Client (Old) ;;Enduser;https://rdweb.wvd.microsoft.com/webclient
+;;Word;;Enduser;https://www.office.com/launch/word
+;;Yammer;;Enduser;https://www.yammer.com
+ensynclog;adsynclog;AAD Connect - Sync errors;aadconnect;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_ADHybridHealth/AadHealthMenuBlade/~/SyncErros/Microsoft_Azure_ADHybridHealth/AadHealthMenuBlade
+enar;adreviews|adar;Access reviews;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_ERM/DashboardBlade/~/Controls
+enadfslog;adadfslog;ADFS services;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_ADHybridHealth/AadHealthMenuBlade/~/AdfsServicesList
+enappreg;adappreg;App registrations;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade/quickStartType~/null/sourceType/Microsoft_AAD_IAM
+enac;adac;Authentication context;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/AuthenticationContext
+enauth;adauth;Authentication methods;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AdminAuthMethods
+enauthactivity;adauthmethodsactivity|authactivity;Authentication methods activity;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AuthMethodsActivity/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade?
+enauthstrength;adauthstrength;Authentication strengths;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AuthStrengths/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade?
+enelm;adelm;Azure AD Entitlement Management;elm;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_ERM/DashboardBlade/~/elmEntitlement
+enidp;adidp;Azure AD Identity Protection;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/IdentityProtectionMenuBlade/~/Overview
+eninvite;adinvite;Azure B2B Invitations;b2b;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/UserCreateBlade/initialMode~/1/b2cEnabled~/false
+enca;adca;Conditional Access;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/Policies?
+enconsent;adconsent;Consent and permissions;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/ConsentPoliciesMenuBlade/~/UserSettings
+enctas;adctas|adxtap|enxtap;Cross-tenant access settings;external;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/CrossTenantAccessSettings/menuId/CrossTenantAccessSettings
+dl;;Device login;;Entra;https://microsoft.com/devicelogin
+endevicesettings;addevicesettings;Device settings;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/DeviceSettings/menuId/Devices/Microsoft_AAD_Devices/DevicesMenuBlade
+endevices;addevices;Devices;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/Devices/menuId/Devices
+enapps;adentapp|adapp|adapps;Enterprise applications;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/~/AppAppsPreview
+engcch;;Entra Admins Centre;;Entra;https://entra.microsoft.us/
+enguests;adguests|adext;External Identities;guests;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/Settings/menuId/ExternalIdentitiesGettingStarted
+engroups;adgroups;Groups;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups/menuId/AllGroups
+enlaps;adlaps;LAPS;LAPS;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/LocalAdminPassword/menuId/Overview
+enlegacymfa;adlegacymfa;Legacy MFA;;Entra;https://account.activedirectory.windowsazure.com/UserManagement/MfaSettings.aspx
+enlicense;adlicense;Licenses;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/LicensesMenuBlade/~/Products
+enerror;aderror;Login error lookup;;Entra;https://login.microsoftonline.com/error
+l;;Login page;;Entra;https://login.microsoftonline.com/
+enmfaunblock;admfaunblock;MFA unblock;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/MultifactorAuthenticationMenuBlade/~/BlockedUsers/fromProviders~/false
+en;ad|aad|entra;Microsoft Entra;;Entra;https://entra.microsoft.com
+azad;;Microsoft Entra (Azure Portal);;Entra;https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview?
+ensspr;enpassword|adpassword|adsspr;Password reset;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/PasswordResetMenuBlade/~/Properties
+enpim;adpim|pim;PIM;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/CommonMenuBlade/~/quickStart
+enpimz;adpimz|adpimaz;PIM for Azure resources;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/CommonMenuBlade/~/azurerbac?
+enpimg;adpimg;PIM for Groups;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadgroup?
+enpimr;adpimr;PIM for Roles;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles?
+enpa;adpa;Protected actions;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/RolesManagementMenuBlade/~/ProtectedActions
+enroles;adroles;Roles and administrators;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/RolesManagementMenuBlade/~/AllRoles
+enscore;adscore;Secure score;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/SecurityMenuBlade/~/IdentitySecureScore/menuId/IdentitySecureScore
+ensecurity;adsecurity;Security;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/SecurityMenuBlade/~/GettingStarted/menuId/SecurityCenter
+ensign;adsign|adlogs|enlogs;Sign-in logs;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/SignInEventsV3Blade/timeRangeType/last24hours/showApplicationSignIns~/true
+ensupport;adsupport;Support;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_Support/NewSupportRequestV3Blade/callerName/ActiveDirectory/issueType/technical
+enusers;adusers;Users;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/AllUsers/menuId/AllUsers
+aka;;AkaSearch;;General;https://akaSearch.net
+vlsc;;Volume Licensing Service Center;;General;https://www.microsoft.com/Licensing/servicecenter
+inandroid;;Android;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesAndroidMenu/~/overview
+inappconfig;;App configuration policies;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsMenu/~/appConfig
+inapps;;Apps;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsMenu/~/overview
+incompliance;;Compliance policies;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesComplianceMenu/~/policies
+inconfig;;Configuration profiles;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/configurationProfiles
+indevices;;Devices;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/overview
+inwdu;;Driver updates for Windows 10;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/windowsDriverUpdate?#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/windows10UpdateRings?=
+inedu;;Education;;Intune;https://intuneeducation.portal.azure.com
+inenroll;;Enroll devices;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesEnrollmentMenu/~/windowsEnrollment
+inwfu;;Feature updates for Windows;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/featureUpdateDeployments
+ingroups;;Groups;;Intune;https://intune.microsoft.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups
+in;intune|endpoint;Intune;;Intune;https://intune.microsoft.com
+inios;;iOS/iPad devices;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesIosMenu/~/iosDevices
+inmacos;;macOS devices;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMacOsMenu/~/macOsDevices
+inprorem;;Proactive Remediations;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/remediations?#view/Microsoft_Intune_Enrollment/UXAnalyticsMenu/~/proactiveRemediations?=
+inscripts;;Scripts;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/powershell
+insecurity;insec;Security;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/overview
+intenant;intadmin;Tenant admin;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/TenantAdminMenu/~/tenantStatus
+introubleshoot;;Troubleshooting;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/SupportMenu/~/troubleshooting
+inusers;;Users;;Intune;https://intune.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/AllUsers
+inap;inautodev|inadev;Windows Autopilot devices;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/AutopilotDevices.ReactView/filterOnManualRemediationRequired~/false
+inwin;;Windows devices;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesWindowsMenu/~/windowsDevices
+inwur;;Windows Update Rings;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/windows10UpdateRings?
+;;Applied Skills Certification Poster;;Learn;https://aka.ms/AppliedSkillsPoster
+;;Certification Poster - Become Microsoft Certified;;Learn;https://aka.ms/CertificationsPoster
+;;Cloud Skills Challenge - 30 Days to Learn It;;Learn;https://aka.ms/30-days-to-learn-it
+;;ExpertZone;;Learn;https://expertzone.microsoft.com/
+appliedskills;;Microsoft Applied Skills;;Learn;https://learn.microsoft.com/credentials/browse/?credential_types=applied%20skills
+;;Microsoft Certifications;;Learn;https://learn.microsoft.com/credentials/browse/?credential_types=certification
+;;Microsoft Exam Sandbox;;Learn;https://go.microsoft.com/fwlink/?linkid=2226877
+;;Microsoft Exam test;;Learn;https://aka.ms/examtest
+;;Microsoft Learn Blog;;Learn;https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog
+;;Microsoft Learn Cloud Games;;Learn;https://learn.microsoft.com/training/cloud-games
+;;Microsoft Learn Exam Readiness Zone;;Learn;https://learn.microsoft.com/shows/exam-readiness-zone/
+;;Microsoft Learn On Demand Instructor-led Training Series;;Learn;https://learn.microsoft.com/shows/on-demand-instructor-led-training-series/
+Learnprofile;;Microsoft Learn Profile;;Learn;https://aka.ms/LearnProfile
+;;Microsoft Shows;;Learn;https://learn.microsoft.com/shows/
+;;Microsoft Virtual Training Days;;Learn;https://www.microsoft.com/en-ca/sites/microsoft-training-days
+;;Practice Assessments for Microsoft Certifications;;Learn;https://learn.microsoft.com/credentials/certifications/practice-assessments-for-microsoft-certifications
+docs;;Technical documentation;;Learn;https://learn.microsoft.com/docs/
+training;;Training;;Learn;https://learn.microsoft.com/training/
+cdx;;Customer Digital Experiences (Demo);;Microsoft 365;https://cdx.transform.microsoft.com
+ex;exo|exchange;Exchange;;Microsoft 365;https://admin.exchange.microsoft.com
+ge;;Graph Explorer;;Microsoft 365;https://developer.microsoft.com/en-us/graph/graph-explorer
+lighthouse;;Lighthouse;;Microsoft 365;https://lighthouse.microsoft.com/
+mc;;Message Center;;Microsoft 365;https://admin.microsoft.com/#/MessageCenter
+admin;;Microsoft 365 Admin;;Microsoft 365;https://admin.microsoft.com
+m365apps;;Microsoft 365 Apps admin center;;Microsoft 365;https://config.office.com/officeSettings
+lcs;;Microsoft Dynamics Lifecycle Services;;Microsoft 365;https://lcs.dynamics.com/v2
+forms;frm;Microsoft Forms;;Microsoft 365;https://forms.office.com/
+loop;lp;Microsoft Loop;;Microsoft 365;https://loop.microsoft.com/
+oct;;Office Customization Tool;;Microsoft 365;https://config.office.com/deploymentsettings
+one;onedrive;OneDrive;;Microsoft 365;https://admin.onedrive.com
+mail;outlook;Outlook;;Microsoft 365;https://outlook.office365.com/mail/
+pa;pflow;Power Automate;;Microsoft 365;https://make.powerautomate.com
+pbi;powerbi;Power BI;;Microsoft 365;https://app.powerbi.com/admin-portal
+pbidod;;Power BI DoD;;Microsoft 365;https://app.mil.powerbigov.us/
+pbigcc;;Power BI GCC;;Microsoft 365;https://app.powerbigov.us/
+pbigcch;;Power BI GCC High;;Microsoft 365;https://app.high.powerbigov.us/
+pp;ppa|power;Power Platform;;Microsoft 365;https://admin.powerplatform.microsoft.com
+ppdod;;Power Platform DoD;;Microsoft 365;https://admin.appsplatform.us/
+ppgcc;;Power Platform GCC;;Microsoft 365;https://gcc.admin.powerplatform.microsoft.us
+ppgcch;;Power Platform GCC High;;Microsoft 365;https://high.admin.powerplatform.microsoft.us/
+powerapps;;PowerApps;;Microsoft 365;https://make.powerapps.com/
+pappsdod;;PowerApps DoD;;Microsoft 365;https://make.apps.appsplatform.us/
+pappsgcc;;PowerApps GCC;;Microsoft 365;https://make.gov.powerapps.us/
+pappsgcch;;PowerApps GCC High;;Microsoft 365;https://make.high.powerapps.us/
+pflowdod;;PowerAutomate DoD;;Microsoft 365;https://flow.appsplatform.us/
+pflowgcc;;PowerAutomate GCC;;Microsoft 365;https://make.gov.powerautomate.us/
+pflowgcch;;PowerAutomate GCC High;;Microsoft 365;https://high.flow.microsoft.us/
+ppagegcc;;PowerPages GCC;;Microsoft 365;https://make.gov.powerpages.microsoft.us/
+ppagegcch;;PowerPages GCC High;;Microsoft 365;https://make.high.powerpages.microsoft.us/
+puactexp;;Purview Activity Explorer;;Microsoft 365;https://compliance.microsoft.com/dataclassification/activityexplorer
+pucloudgov;;Purview App Governance;;Microsoft 365;https://compliance.microsoft.com/cloudapps/app-governance
+puaudit;;Purview Audit;Microsoft 365 Advanced Audit;Microsoft 365;https://compliance.microsoft.com/auditlogsearch
+pucomms;;Purview Communication Compliance;Microsoft 365 Communication Compliance;Microsoft 365;https://compliance.microsoft.com/supervisoryreview
+pucmgr;decm;Purview Compliance manager;Microsoft Compliance Manager;Microsoft 365;https://compliance.microsoft.com/compliancemanager
+pucontentex;;Purview Content Explorer;;Microsoft 365;https://compliance.microsoft.com/dataclassification/contentexplorer
+pucontentse;;Purview Content Search;;Microsoft 365;https://compliance.microsoft.com/contentsearchv2
+puclassifiers;;Purview Data Classification;;Microsoft 365;https://compliance.microsoft.com/dataclassificationclassifiers
+pudlm;;Purview Data Lifecycle Management;Microsoft Information Governance;Microsoft 365;https://compliance.microsoft.com/informationgovernance
+pudlp;dlp;Purview Data Loss Prevention;Microsoft Endpoint DLP;Microsoft 365;https://compliance.microsoft.com/datalossprevention
+puedisc;ediscovery;Purview eDiscovery;Office 365 Advanced eDiscovery;Microsoft 365;https://compliance.microsoft.com/advancedediscovery
+puinfoprot;;Purview Information Protection;Microsoft Information Protection;Microsoft 365;https://compliance.microsoft.com/informationprotection
+puirm;;Purview Insider Risk Management;Microsoft 365 Insider Risk Management;Microsoft 365;https://compliance.microsoft.com/insiderriskmgmt
+puperms;;Purview Permissions manager;;Microsoft 365;https://compliance.microsoft.com/permissions
+puprivaprm;;Purview Priva Privacy Risk Management;;Microsoft 365;https://compliance.microsoft.com/privacymgmtoverview
+puprivasrr;;Purview Priva Subject Rights Requests;;Microsoft 365;https://compliance.microsoft.com/privacymgmtsrm
+purecmon;;Purview Records Management;Records Management in Microsoft 365;Microsoft 365;https://compliance.microsoft.com/recordsmanagement
+pusit;;Purview Sensitive Info Types;;Microsoft 365;https://compliance.microsoft.com/dataclassificationclassifiers?viewid=sensitiveinfotypes
+sp;spo|sharepoint;SharePoint;;Microsoft 365;https://admin.microsoft.com/sharepoint
+teams;team;Teams;;Microsoft 365;https://admin.teams.microsoft.com/
+teamsrooms;;Teams Rooms Pro Management;;Microsoft 365;https://portal.rooms.microsoft.com/
+teamsweb;;Teams Web Client;;Microsoft 365;https://teams.microsoft.com
+macvlsc;mackeys;Volume Licensing Keys;;Microsoft 365;https://admin.microsoft.com/Adminportal/Home#/subscriptions/vlnew/downloadsandkeys
+win365;cloudpc;Windows 365;Windows 365 Cloud PC;Microsoft 365;https://windows365.microsoft.com/
+yam;yammer;Yammer;;Microsoft 365;https://www.yammer.com/office365/admin
+myaccess;;My access;;My Pages;https://myaccess.microsoft.com
+myaccount;;My account;;My Pages;https://myaccount.microsoft.com
+myapps;myapp;My apps;;My Pages;https://myapps.microsoft.com
+mygroups;mygroup;My groups;;My Pages;https://account.activedirectory.windowsazure.com/r#/groups
+mysec;mysecurity|mysecurityinfo;My security info;my sign ins;My Pages;https://mysignins.microsoft.com/security-info
+mystaff;;My staff;;My Pages;https://mystaff.microsoft.com
+myvs;;Visual Studio Subscriptions;;My Pages;https://my.visualstudio.com/
+actionpack;;Microsoft Action Pack;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/workspace/maps
+partner;;Microsoft Partner Center;;PartnerCenter;https://partner.microsoft.com/dashboard
+modernworkent;;Solutions Partner ModernWork Enterprise;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/program/solutionspartner/solutionareas/modern?track=Enterprise
+modernworksmb;;Solutions Partner ModernWork SMB;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/program/solutionspartner/solutionareas/modern?track=SMB
+solutionoverview;;Solutions Partner Overview;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/program/solutionspartner/solutionareas/overview
+;;Microsoft Certified: Azure Fundamentals;AZ-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-fundamentals/
+;;AZ-900 Azure Fundamentals Exam;AZ-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-900/
+;;AZ-900 Study Guide;AZ-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-900
+;;AZ-900 Azure Fundamentals Course;AZ-900;Learn-cert;https://learn.microsoft.com/training/courses/az-900t00
+;;Microsoft Certified: Azure Administrator Associate;AZ-104;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-administrator/
+;;AZ-104 Azure Administrator Associate Exam;AZ-104;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-104/
+;;AZ-104 Study Guide;AZ-104;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-104
+;;AZ-104 Azure Administrator Associate Course;AZ-104;Learn-cert;https://learn.microsoft.com/training/courses/az-104t00
+;;Microsoft Certified: Azure Solutions Architect Expert;AZ-305;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-solutions-architect/
+;;AZ-305: Designing Microsoft Azure Infrastructure Solutions Exam;AZ-305;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-305/
+;;AZ-305 Study Guide;AZ-305;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-305
+;;AZ-305: Designing Microsoft Azure Infrastructure Solutions Course;AZ-305;Learn-cert;https://learn.microsoft.com/training/courses/az-305t00
+;;Microsoft Certified: Azure Network Engineer Associate;AZ-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-network-engineer-associate/
+;;AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Exam;AZ-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-700/
+;;AZ-700 Study Guide;AZ-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-700
+;;AZ-700: Designing and Implementing Microsoft Azure Networking Solutions Course;AZ-700;Learn-cert;https://learn.microsoft.com/training/courses/az-700t00
+;;Microsoft Certified: Windows Server Hybrid Administrator Associate;AZ-800;Learn-cert;https://learn.microsoft.com/credentials/certifications/windows-server-hybrid-administrator/
+;;AZ-800: Administering Windows Server Hybrid Core Infrastructure Exam;AZ-800;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-800/
+;;AZ-800 Study Guide;AZ-800;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-800
+;;AZ-800: Administering Windows Server Hybrid Core Infrastructure Course;AZ-800;Learn-cert;https://learn.microsoft.com/training/courses/az-800t00
+;;AZ-801: Configuring Windows Server Hybrid Advanced Services Exam;AZ-801;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-801/
+;;AZ-801 Study Guide;AZ-801;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-801
+;;AZ-801: Configuring Windows Server Hybrid Advanced Services Course;AZ-801;Learn-cert;https://learn.microsoft.com/training/courses/az-801t00
+;;Microsoft Certified: Azure for SAP Workloads Specialty;AZ-120;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-for-sap-workloads-specialty/
+;;AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Exam;AZ-120;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-120/
+;;AZ-120 Study Guide;AZ-120;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-120
+;;AZ-120: Planning and Administering Microsoft Azure for SAP Workloads Course;AZ-120;Learn-cert;https://learn.microsoft.com/training/courses/az-120t00
+;;Microsoft Certified: Azure Virtual Desktop Specialty;AZ-140;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-virtual-desktop-specialty/
+;;AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop Exam;AZ-140;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-140/
+;;AZ-140 Study Guide;AZ-140;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-140
+;;AZ-140: Planning and Administering Microsoft Azure for SAP Workloads Course Course;AZ-140;Learn-cert;https://learn.microsoft.com/training/courses/az-140t00
+;;Microsoft Certified: Azure AI Fundamentals;AI-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-virtual-desktop-specialty/
+;;AI-900: Microsoft Azure AI Fundamentals Exam;AI-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ai-900/
+;;AI-900 Study Guide;AI-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-900
+;;AI-900: Microsoft Azure AI Fundamentals Course;AI-900;Learn-cert;https://learn.microsoft.com/training/courses/ai-900t00
+;;Microsoft Certified: Azure AI Engineer Associate;AI-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-ai-engineer
+;;AI-102: Designing and Implementing a Microsoft Azure AI Solution Exam;AI-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ai-102/
+;;AI-102 Study Guide;AI-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-102
+;;AI-102: Designing and Implementing a Microsoft Azure AI Solution Course;AI-102;Learn-cert;https://learn.microsoft.com/training/courses/ai-102t00
+;;Microsoft Certified: Azure Data Fundamentals;DP-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-data-fundamentals
+;;DP-900: Microsoft Azure Data Fundamentals Exam;DP-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-900/
+;;DP-900 Study Guide;DP-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-900
+;;DP-900: Microsoft Azure Data Fundamentals Course;DP-900;Learn-cert;https://learn.microsoft.com/training/courses/dp-900t00
+;;Microsoft Certified: Azure Data Scientist Associate;DP-100;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-data-scientist
+;;DP-100: Designing and Implementing a Data Science Solution on Azure Exam;DP-100;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-100/
+;;DP-100 Study Guide;DP-100;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-100
+;;DP-100: Designing and Implementing a Data Science Solution on Azure Course;DP-100;Learn-cert;https://learn.microsoft.com/training/paths/work-data-azure-machine-learning/
+;;Microsoft Certified: Azure Data Engineer Associate;DP-203;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-data-engineer
+;;DP-203: Data Engineering on Microsoft Azure Exam;DP-203;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-203/
+;;DP-203 Study Guide;DP-203;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-203
+;;DP-203: Data Engineering on Microsoft Azure Course;DP-203;Learn-cert;https://learn.microsoft.com/training/courses/dp-203t00
+;;Microsoft Certified: Azure Database Administrator Associate;DP-300;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-database-administrator-associate
+;;DP-300: Administering Microsoft Azure SQL Solutions Exam;DP-300;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-300/
+;;DP-300 Study Guide;DP-300;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-300
+;;DP-300: Administering Microsoft Azure SQL Solutions Course;DP-300;Learn-cert;https://learn.microsoft.com/training/courses/dp-300t00
+;;Microsoft Certified: Azure Enterprise Data Analyst Associate;DP-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-enterprise-data-analyst-associate
+;;DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI exam;DP-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-500/
+;;DP-500 Study Guide;DP-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-500
+;;DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI Course;DP-500;Learn-cert;https://learn.microsoft.com/training/courses/dp-500t00
+;;Microsoft Certified: Fabric Analytics Engineer Associate;DP-600;Learn-cert;https://learn.microsoft.com/credentials/certifications/fabric-analytics-engineer-associate
+;;DP-600: Implementing Analytics Solutions Using Microsoft Fabric Exam;DP-600;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-600/
+;;DP-600 Study Guide;DP-600;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-600
+;;DP-600: Implementing Analytics Solutions Using Microsoft Fabric Course;DP-600;Learn-cert;https://learn.microsoft.com/training/courses/dp-600t00
+;;Microsoft Certified: Azure Cosmos DB Developer Specialty;DP-420;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-cosmos-db-developer-specialty
+;;DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB Exam;DP-420;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/dp-420/
+;;DP-420 Study Guide;DP-420;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-420
+;;DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB Course;DP-420;Learn-cert;https://learn.microsoft.com/training/courses/dp-420t00
+;;Microsoft Certified: Azure Developer Associate;AZ-204;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-developer
+;;AZ-204: Developing Solutions for Microsoft Azure Exam;AZ-204;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-204/
+;;AZ-204 Study Guide;AZ-204;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-204
+;;AZ-204: Developing Solutions for Microsoft Azure Course;AZ-204;Learn-cert;https://learn.microsoft.com/training/courses/az-204t00
+;;Microsoft Certified: DevOps Engineer Expert;AZ-400;Learn-cert;https://learn.microsoft.com/credentials/certifications/devops-engineer
+;;AZ-400: Designing and Implementing Microsoft DevOps Solutions Exam;AZ-400;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-400/
+;;AZ-400 Study Guide;AZ-400;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-400
+;;AZ-400: Designing and Implementing Microsoft DevOps Solutions Course;AZ-400;Learn-cert;https://learn.microsoft.com/training/courses/az-400t00
+;;Microsoft 365 Certified: Fundamentals;MS-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/microsoft-365-fundamentals
+;;MS-900: Microsoft 365 Fundamentals Exam;MS-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ms-900/
+;;MS-900 Study Guide;MS-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-900
+;;MS-900: Microsoft 365 Fundamentals Course;MS-900;Learn-cert;https://learn.microsoft.com/training/courses/ms-900t01
+;;Microsoft 365 Certified: Endpoint Administrator Associate;MD-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/m365-endpoint-administrator
+;;MD-102: Endpoint Administrator Exam;MD-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/md-102/
+;;MD-102 Study Guide;MD-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/md-102
+;;MD-102: Endpoint Administrators Course;MD-102;Learn-cert;https://learn.microsoft.com/training/courses/md-102t00
+;;Microsoft 365 Certified: Administrator Expert;MS-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/m365-administrator-expert
+;;MS-102: Microsoft 365 Administrator Exam;MS-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ms-102/
+;;MS-102 Study Guide;MS-102;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-102
+;;MS-102: Microsoft 365 Administrator Course;MS-102;Learn-cert;https://learn.microsoft.com/training/courses/ms-102t00
+;;Microsoft 365 Certified: Teams Administrator Associate;MS-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/m365-teams-administrator-associate/
+;;MS-700: Managing Microsoft Teams Exam;MS-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ms-700/
+;;MS-700 Study Guide;MS-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-700
+;;MS-700: Managing Microsoft Teams Course;MS-700;Learn-cert;https://learn.microsoft.com/training/courses/ms-700t00
+;;Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate;MS-721;Learn-cert;https://learn.microsoft.com/credentials/certifications/m365-collaboration-communications-systems-engineer/
+;;MS-721: Collaboration Communications Systems Engineer Exam;MS-721;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/ms-721/
+;;MS-721 Study Guide;MS-721;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/ms-721
+;;MS-721: Collaboration Communications Systems Engineer Course;MS-721;Learn-cert;https://learn.microsoft.com/training/courses/ms-721t00
+;;Microsoft Certified: Information Protection and Compliance Administrator Associate;PL-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-fundamentals/
+;;PL-900: Microsoft Power Platform Fundamentals Exam;PL-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-900/
+;;PL-900 Study Guide;PL-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-900
+;;PL-900: Microsoft Power Platform Fundamentals Course;PL-900;Learn-cert;https://learn.microsoft.com/training/courses/pl-900t00
+;;Microsoft Certified: Power Platform App Maker Associate;PL-100;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-app-maker/
+;;PL-100: Microsoft Power Platform App Make Exam;PL-100;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-100/
+;;PL-100 Study Guide;PL-100;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-100
+;;PL-100: Microsoft Power Platform App Make Course;PL-100;Learn-cert;https://learn.microsoft.com/training/courses/pl-100t00
+;;Microsoft Certified: Power Platform Functional Consultant Associate;PL-200;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-functional-consultant-associate/
+;;PL-200: Microsoft Power Platform Functional Consultant Exam;PL-200;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-200/
+;;PL-200 Study Guide;PL-200;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-200
+;;PL-200: Microsoft Power Platform Functional Consultant Course;PL-200;Learn-cert;https://learn.microsoft.com/training/courses/pl-200t00
+;;Microsoft Certified: Power BI Data Analyst Associate;PL-300;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-bi-data-analyst-associate/
+;;PL-300: Microsoft Power BI Data Analyst Exam;PL-300;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-300/
+;;PL-300 Study Guide;PL-300;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-300
+;;PL-300: Microsoft Power BI Data Analyst Course;PL-300;Learn-cert;https://learn.microsoft.com/training/courses/pl-300t00
+;;Microsoft Certified: Power Platform Developer Associate;PL-400;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-developer-associate/
+;;PL-400: Microsoft Power Platform Developer Associate Exam;PL-400;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-400/
+;;PL-400 Study Guide;PL-400;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-400
+;;PL-400: Microsoft Power Platform Developer Associate Course;PL-400;Learn-cert;https://learn.microsoft.com/training/courses/pl-400t00
+;;Microsoft Certified: Power Automate RPA Developer Associate;PL-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-automate-rpa-developer-associate/
+;;PL-500: Microsoft Power Automate RPA Developer Exam;PL-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-500/
+;;PL-500 Study Guide;PL-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-500
+;;PL-500: Microsoft Power Automate RPA Developer Course;PL-500;Learn-cert;https://learn.microsoft.com/training/courses/pl-500t00
+;;Microsoft Certified: Power Platform Solution Architect Expert;PL-600;Learn-cert;https://learn.microsoft.com/credentials/certifications/power-platform-solution-architect-expert/
+;;PL-600: Microsoft Power Platform Solution Architect Exam;PL-600;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/pl-600/
+;;PL-600 Study Guide;PL-600;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-600
+;;PL-600: Microsoft Power Platform Solution Architect Course;PL-600;Learn-cert;https://learn.microsoft.com/training/courses/pl-600t00
+;;Microsoft Certified: Dynamics 365 Fundamentals (CRM);MB-910;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm/
+;;MB-910: Microsoft Dynamics 365 Fundamentals (CRM) Exam;MB-910;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-910/
+;;MB-910 Study Guide;MB-910;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-910
+;;MB-910: Microsoft Dynamics 365 Fundamentals (CRM) Course;MB-910;Learn-cert;https://learn.microsoft.com/training/courses/mb-910t00
+;;Microsoft Certified: Dynamics 365 Fundamentals (ERP);MB-920;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-fundamentals-finance-and-operations-apps-erp/
+;;MB-920: Microsoft Dynamics 365 Fundamentals (ERP) Exam;MB-920;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-920/
+;;MB-920 Study Guide;MB-920;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-920
+;;MB-920: Microsoft Dynamics 365 Fundamentals (ERP) Course;MB-920;Learn-cert;https://learn.microsoft.com/training/courses/mb-920t00
+;;Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate;MB-210;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-sales/
+;;MB-210: Microsoft Dynamics 365 Sales Functional Consultant Exam;MB-210;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-210/
+;;MB-210 Study Guide;MB-210;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-210
+;;MB-210: Microsoft Dynamics 365 Sales Functional Consultant Course;MB-210;Learn-cert;https://learn.microsoft.com/training/courses/mb-210t00
+;;Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate;MB-240;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-field-service/
+;;MB-240: Microsoft Dynamics 365 Field Service Functional Consultant Exam;MB-240;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-240/
+;;MB-240 Study Guide;MB-240;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-240
+;;MB-240: Microsoft Dynamics 365 Field Service Functional Consultant Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-240t00
+;;Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate;MB-230;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-customer-service/
+;;MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant Exam;MB-230;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-230/
+;;MB-230 Study Guide;MB-230;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-230
+;;MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant Course;MB-230;Learn-cert;https://learn.microsoft.com/training/courses/mb-230t00
+;;Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate;MB-330;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-supply-chain-management/
+;;MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Exam;MB-330;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-330/
+;;MB-330 Study Guide;MB-330;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-330
+;;MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Course;MB-330;Learn-cert;https://learn.microsoft.com/training/courses/mb-330t00
+;;Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate;MB-310;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-financials/
+;;MB-310: Microsoft Dynamics 365 Finance Functional Consultant Exam;MB-310;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-310/
+;;MB-310 Study Guide;MB-310;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-310
+;;MB-310: Microsoft Dynamics 365 Finance Functional Consultant Course;MB-310;Learn-cert;https://learn.microsoft.com/training/courses/mb-310t00
+;;Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate;MB-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-finance-and-operations-apps-developer-associate/
+;;MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer Exam;MB-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-500/
+;;MB-500 Study Guide;MB-500;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-500
+;;MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer Course;MB-500;Learn-cert;https://learn.microsoft.com/training/courses/mb-500t00
+;;Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Expert;MB-335;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-supply-chain-management-functional-consultant-expert/
+;;MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert Exam;MB-335;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-335/
+;;MB-335 Study Guide;MB-335;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-335
+;;MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert Course;MB-335;Learn-cert;https://learn.microsoft.com/training/courses/mb-335t00
+;;Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate;MB-800;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-business-central-functional-consultant-associate/
+;;MB-800: Microsoft Dynamics 365 Business Central Functional Consultant Associate Exam;MB-800;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-800/
+;;MB-800 Study Guide;MB-800;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-800
+;;MB-800: Microsoft Dynamics 365 Business Central Functional Consultant Associate Course;MB-800;Learn-cert;https://learn.microsoft.com/training/courses/mb-800t00
+;;Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert;MB-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-finance-and-operations-apps-solution-architect-expert/
+;;MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Exam;MB-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-700/
+;;MB-700 Study Guide;MB-700;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-700
+;;MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Course;MB-700;Learn-cert;https://learn.microsoft.com/training/courses/mb-700t00
+;;Microsoft Certified: Dynamics 365 Business Central Developer Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-business-central-developer-associate/
+;;MB-820: Microsoft Dynamics 365 Business Central Developer Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-820/
+;;MB-820 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-820
+;;MB-820: Microsoft Dynamics 365 Business Central Developer Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-820t00
+;;Microsoft Certified: Dynamics 365 Customer Insights (Journeys) Functional Consultant Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-customer-insights-journeys-functional-consultant/
+;;MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-220/
+;;MB-220 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-220
+;;MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-220t00
+;;Microsoft Certified: Dynamics 365 Customer Insights (Data) Specialty;;Learn-cert;https://learn.microsoft.com/credentials/certifications/d365-customer-insights-data-specialty/
+;;MB-260: Microsoft Dynamics 365 Customer Insights (Data) Specialist Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/mb-260/
+;;MB-260 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-260
+;;MB-260: Microsoft Dynamics 365 Customer Insights (Data) Specialist Course;;Learn-cert;https://learn.microsoft.com/training/courses/mb-260t00
+;;Microsoft Certified: Security;;Learn-cert; Compliance
+;;SC-900: Microsoft Security;;Learn-cert; Compliance
+;;SC-900 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-900
+;;SC-900: Microsoft Security;;Learn-cert; Compliance
+;;Microsoft Certified: Security;;Learn-cert; Compliance
+;;AZ-500: Microsoft Azure Security Technologies Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-500/
+;;AZ-500 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-500
+;;AZ-500: Microsoft Azure Security Technologies Course;;Learn-cert;https://learn.microsoft.com/training/courses/az-500t00
+;;Microsoft Certified: Cybersecurity Architect Expert;;Learn-cert;https://learn.microsoft.com/credentials/certifications/cybersecurity-architect-expert
+;;SC-100: Microsoft Cybersecurity Architect Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/sc-100/
+;;SC-100 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-100
+;;SC-100: Microsoft Cybersecurity Architect Course;;Learn-cert;https://learn.microsoft.com/training/courses/sc-100t00
+;;Microsoft Certified: Cybersecurity Architect Expert;;Learn-cert;https://learn.microsoft.com/credentials/certifications/security-operations-analyst
+;;SC-200: Microsoft Security Operations Analyst Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/sc-200/
+;;SC-200 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-200
+;;SC-200: Microsoft Security Operations Analyst Course;;Learn-cert;https://learn.microsoft.com/training/courses/sc-200t00
+;;Microsoft Certified: Identity and Access Administrator Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/identity-and-access-administrator
+;;SC-300: Microsoft Identity and Access Administrator Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/sc-300/
+;;SC-300 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-300
+;;SC-300: Microsoft Identity and Access Administrator Course;;Learn-cert;https://learn.microsoft.com/training/courses/sc-300t00
+;;Microsoft Certified: Information Protection and Compliance Administrator Associate;;Learn-cert;https://learn.microsoft.com/credentials/certifications/information-protection-and-compliance-administrator/
+;;SC-400: Administering Information Protection and Compliance in Microsoft 365 Exam;;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/sc-400/
+;;SC-400 Study Guide;;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-400
+;;SC-400: Administering Information Protection and Compliance in Microsoft 365 Course;;Learn-cert;https://learn.microsoft.com/training/courses/sc-400t00
+;;Microsoft Office Specialist: Word Associate (Microsoft 365 Apps);;Learn-cert;https://learn.microsoft.com/en-us/credentials/certifications/mos-word-associate-m365-apps/
+;;MO-110: Microsoft Word (Microsoft 365 Apps) Exam;;Learn-cert;https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-110/
+;;MO-110 Exam Skills Outline;;Learn-cert;https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5dvir
+;;Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps);;Learn-cert;https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-associate-m365-apps/
+;;MO-210: Microsoft Excel (Microsoft 365 Apps) Exam;;Learn-cert;https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-110/
+;;MO-210 Exam Skills Outline;;Learn-cert;https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5axcj
+;;Microsoft Office Specialist: Word Expert (Microsoft 365 Apps);;Learn-cert;https://learn.microsoft.com/en-us/credentials/certifications/mos-powerpoint-associate-m365-apps/
+;;MO-310: Microsoft PowerPoint (Microsoft 365 Apps) Exam;;Learn-cert;https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-310/
+;;MO-310 Exam Skills Outline;;Learn-cert;https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWWHBt
+;;Microsoft Office Specialist: Outlook Expert (Microsoft 365 Apps);;Learn-cert;https://learn.microsoft.com/en-us/credentials/certifications/mos-powerpoint-associate-m365-apps/
+;;MO-410: Microsoft Outlook (Microsoft 365 Apps) Exam;;Learn-cert;https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-410/
+;;MO-410 Exam Skills Outline;;Learn-cert;https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/tbc
+;;https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-associate-m365-apps/);;Learn-cert;https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-expert-m365-apps/
+;;Microsoft Office Specialist: Word Expert (Microsoft 365 Apps);;Learn-cert;https://learn.microsoft.com/en-us/credentials/certifications/mos-word-expert-m365-apps/
+;;MO-111: Microsoft Word Expert (Microsoft 365 Apps) Exam;;Learn-cert;https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-111/
+;;MO-111 Exam Skills Outline;;Learn-cert;https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW16Vea
+;;Microsoft Office Specialist: Word Expert (Microsoft 365 Apps);;Learn-cert;https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-expert-m365-apps/
+;;MO-211: Microsoft Excel Expert (Microsoft 365 Apps) Exam;;Learn-cert;https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-211/
+;;MO-211 Exam Skills Outline;;Learn-cert;https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW10j3G
+;;Microsoft Office Specialist: Expert (Microsoft 365 Apps);;Learn-cert;https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-expert-m365-apps/
+;;Microsoft Azure Network Security Ninja;;Ninja;http://aka.ms/aznetsecninja
+;;Microsoft Purview Compliance Manager Ninja;;Ninja;http://aka.ms/compliancemanagerninja
+;;Microsoft Purview Communication Compliance Ninja;;Ninja;https://aka.ms/communicationcomplianceninja
+;;Microsoft Purview eDiscovery Ninja;;Ninja;https://aka.ms/ediscoveryninja
+;;Microsoft Purview Information Protection Ninja;;Ninja;https://aka.ms/MIPNinja
+;;Microsoft Purview Data Loss Prevention Ninja;;Ninja;https://aka.ms/DLPNinja
+;;Microsoft Purview Insider Risk Management Ninja;;Ninja;https://aka.ms/insiderriskninja
+;;Microsoft 365 Defender Ninja;;Ninja;https://aka.ms/m365dninja
+;;Microsoft 365 Defender for Cloud Ninja;;Ninja;http://aka.ms/ascninja
+;;Microsoft 365 Defender for IoT Ninja;;Ninja;https://aka.ms/d4iotninja
+;;Microsoft Defender Experts Ninja Hub;;Ninja;http://aka.ms/DefenderExpertsNinjaHub
+;;Microsoft Defender for Cloud Apps Ninja;;Ninja;http://aka.ms/mcasninja
+;;Microsoft Defender for Endpoint Ninja;;Ninja;https://aka.ms/mdeninja
+;;Microsoft Defender for Identity Ninja;;Ninja;https://aka.ms/MDINinja
+;;Microsoft Defender for Office 365 Ninja;;Ninja;https://aka.ms/MDONinja
+;;Microsoft Defender Threat Intelligence Ninja;;Ninja;https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965
+;;Microsoft Sentinel Ninja;;Ninja;https://aka.ms/sentinelninja
+;;Microsoft Sentinel for MSSP Ninja;;Ninja;http://aka.ms/azsentinelmssp
+;;Microsoft Sentinel Notebooks Ninja;;Ninja;https://aka.ms/MDONinja
+;;Microsoft Sentinel Automation Ninja;;Ninja;https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377
+;;Ninja Show;;Ninja;https://aka.ms/NinjaShow
+;;AADInternals Tenant information OSINT;;Other;https://aadinternals.com/osint/
+;;Apple Business Manager;;Other;https://business.apple.com
+;;Apple School Manager;;Other;https://school.apple.com
+;;Azure Charts;;Other;https://azurecharts.com/
+;;Azure Diagrams;;Other;https://azurediagrams.com/
+;;Azure Governance change tracker;;Other;https://www.azadvertizer.net
+;;ChangeWindows;;Other;https://changewindows.org/
+;;Conditional Access Documenter - idPowerToys;;Other;https://idpowertoys.merill.net/ca
+;;Defender for Endpoint Blog and KQL-Tools;;Blog;https://m365internals.com
+;;Get Security Done;;Other;https://dcaddick.github.io/gsd_public/
+;;IntuneMaps;;Other;https://intunemaps.com/
+;;KQL Search;;Other;https://www.kqlsearch.com/
+;;Managed Google Play store;;Other;https://play.google.com/work
+;;Message Header Analyzer;;Other;https://mha.azurewebsites.net
+;;Microsoft 365 Maps - Licensing Diagrams;;Other;https://m365maps.com/
+;;Microsoft Acronyms Glossary;;Other;https://tpm.ms/TLA
+;;Microsoft Mac Downloads;;Other;https://macadmins.software/
+;;Microsoft Token Analysis Tool;;Other;https://jwt.ms/
+;;Microsoft WDAC Wizard;;Other;https://webapp-wdac-wizard.azurewebsites.net/
+;;MSShells.net PowerShell modules for Microsoft 365 / Azure;;Other;https://msshells.net/
+;;Office 365 ATP Safe Links Decoder;;Other;https://o365atp.com
+;;Online link generator for Microsoft Store;;Other;https://store.rg-adguard.net/
+;;Regular Expressions 101;;Other;https://regex101.com
+;;Tenant Availability Check;;Other;https://o365.rocks
+;;Twitter - Microsoft 365 Status Page;;Other;https://twitter.com/MSFT365Status
+;;Valimail DMARC Monitor;;Other;https://use.valimail.com/ms-dmarc-monitor.html
+;;What is my Microsoft Azure and Office 365 tenant ID ?;;Other;https://www.whatismytenantid.com
+;;Where's My Tenant ?;;Other;https://gettenantpartitionweb.azurewebsites.net/
+;;M365PSProfile;;Other;https://www.powershellgallery.com/packages/M365PSProfile/0.5.0
+;;Microsoft Security;;Learn;https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm
+;;Microsoft Exam Updates;;Nieuws;https://intunedin.net/
+;;John Savill's Technical Training;;Blogs;https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ
+;;Microsoft Mechanics;;Blogs;https://www.youtube.com/@MSFTMechanics
+;;Kusto Detective Agency;;Learn;https://detective.kusto.io/
+;;Must Learn KQL;;Learn;https://github.com/rod-trent/MustLearnKQL
+;;Intune Training;;Blogs;https://www.youtube.com/@IntuneTraining
+;;Microsoft Security Community;;Blogs;https://www.youtube.com/@MicrosoftSecurityCommunity
+;;Entra.News;;Nieuws;https://entra.news/
+;;ITOpsTalk;;Blogs;https://www.youtube.com/@ITOpsTalk
+;;For Cloud's Sake;;Blogs;https://open.spotify.com/show/7vrlCD9cC5Ws1yCJWSCcdr
+;;Modern Nerdplace;;Blogs;https://open.spotify.com/show/6BplO9t7XhNoduLgFSVqAV
+;Rudy Ooms;Call4Cloud;;Blogs;https://call4cloud.nl/
+;Pater Daalmans;Modern Management Blog;;Blogs;https://configmgrblog.com/
+;Joost Gelijsteen;Just about the Modern Workplace;;Blogs;https://joostgelijsteen.com/
+;;What's new in Microsoft Intune;;Nieuws;https://learn.microsoft.com/en-us/mem/intune/fundamentals/whats-new
+;;Copilot for Microsoft 365 News;;Nieuws;https://techcommunity.microsoft.com/t5/copilot-for-microsoft-365/bg-p/Microsoft365CopilotBlog
+;;Kpn Partner Network Release Radio;;Blogs;https://open.spotify.com/playlist/0LW0ILqwXdSRCLMjZLTq7u?si=c38f3848245840cb
+;;People Work Technology Podcast;;Blogs;https://open.spotify.com/show/6sb9a6U4A6I9rIVjTK6vHZ?si=e381fb009a87447e
+;Fabio van der Burg;vdBurg.it;;Blogs;https://vdburg.it/#microsoft-blog
+;Peter van der Woude;All about Microsoft Intune;;Blogs;https://www.petervanderwoude.n
+;;Winstall -  the winget repository;;Other;https://winstall.app/
+;Myron Helgering;Microsoft Security Blog;;Blogs;https://myronhelgering.com/
+;;IT Bro's podcast;;Blogs;https://itbros.nl/
+;Jeroen Burgerhout;Jeroen BurgerHout blog;;Blogs;https://www.burgerhout.org
+;;Azure Updates;;Nieuws;https://azure.microsoft.com/en-us/updates/
+;;Microsoft365-roadmap;;Nieuws;https://www.microsoft.com/nl-nl/microsoft-365/roadmap
+;;TechCommunity;;Nieuws;https://techcommunity.microsoft.com/
+;;Microsoft Events;;Nieuws;https://cloudpartners.transform.microsoft.com/events?tab=on-demand-webinars
+;;Partner Center Announcements;;Nieuws;https://learn.microsoft.com/en-us/partner-center/announcements/
+;Gregor Reimling;Blog Reimling;;Blogs;https://reimling.eu/
+;;Irma;KPN;Other;https://irma.routit.nl/
+;;OneBase;KPN;Other;https://onebase.io/
+;;SuperVision;KPN;Other;https://onebase.io/mijn-bedrijf/werkplek/supervision/
+;;Benefits;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/marketing
+;;Benefits | Azure credits;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/azure
+;;Benefits | Cloud services;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/cloud
+;;Benefits | Software;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/software
+;;Benefits | Developer tools;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/visualstudio
+;;Benefits | Technical support & consultation;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/technicalsupport
+;;Benefits | Technical pre-sales & deployment;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/technicalpresales
+;;Benefits | Marketing benefits;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/marketing
+;;Customer List;;PartnerCenter;https://partner.microsoft.com/en-us/dashboard/commerce2/customers/list
+;;Insights;;PartnerCenter;https://partner.microsoft.com/en-us/dashboard/insights/analytics/overview
+;;Membership;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/workspace/overview
+;;Referrals;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/referrals/v3/cosell
+;;Benefits Azure Credits;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/azure
+;;testje om te zien of het werkt;;Other;https://testje.nl
