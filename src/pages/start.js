@@ -2,8 +2,8 @@ import React from "react";
 import Translate, { translate } from "@docusaurus/Translate";
 import Layout from "@theme/Layout";
 import { CommandsTable } from "@site/src/components/CommandsTable";
-import { commands } from "@site/src/tableHome/commands.table";
 import { columns } from "@site/src/tableHome/columns.table";
+import commandsData from '/static/commands.json';
 
 export default function Start() {
   return (
@@ -18,7 +18,7 @@ export default function Start() {
               </h1>
             </div>
             <div className="col col--offset-0">
-              <CommandsTable columns={columns} data={commands} applyFilter="" />
+              <CommandsTable columns={columns} data={commandsData} applyFilter="" />
             </div>
           </div>
         </main>
