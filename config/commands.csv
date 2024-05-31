@@ -643,3 +643,4 @@ solutionoverview;;Solutions Partner Overview;;PartnerCenter;https://partner.micr
 ;;Referrals;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/referrals/v3/cosell
 ;;Benefits Azure Credits;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/azure
 dkim;;Dkim blade;dkim;Other;https://security.microsoft.com/dkimv2
+eaacr;;Admin consent requests;Enterprise applications | Admin consent requests;Entra;https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/~/AccessRequests
