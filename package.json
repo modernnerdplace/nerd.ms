@@ -1,5 +1,5 @@
 {
-  "name": "linkjes",
+  "name": "nerd.ms",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -17,7 +17,9 @@
     "@docusaurus/core": "3.3.2",
     "@docusaurus/preset-classic": "3.3.2",
     "@mdx-js/react": "^3.0.0",
+    "autoprefixer": "^10.4.19",
     "clsx": "^2.0.0",
+    "csv": "^6.3.9",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
