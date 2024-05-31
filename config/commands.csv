@@ -81,8 +81,6 @@ azcs;;Azure Content Safety;;Azure;https://contentsafety.cognitive.azure.com/
 azwb;;Azure Workbooks;;Azure;https://portal.azure.com/?feature.msaljs=true#view/HubsExtension/BrowseResource/resourceType/microsoft.insights%2Fworkbooks
 azroutes;;Route tables;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FrouteTables
 ;;Defender for Endpoint Blog and KQL-Tools;;Blogs;https://m365internals.com
-;;Intune Training;;Blogs;https://www.youtube.com/@IntuneTraining
-;;ITOpsTalk;;Blogs;https://www.youtube.com/@ITOpsTalk
 ;Rudy Ooms;Call4Cloud;;Blogs;https://call4cloud.nl/
 ;Peter Daalmans;Modern Management Blog;;Blogs;https://configmgrblog.com/
 ;Joost Gelijsteen;Just about the Modern Workplace;;Blogs;https://joostgelijsteen.com/
@@ -535,6 +533,8 @@ pusit;;Purview Sensitive Info Types;;Purview;https://compliance.microsoft.com/da
 puclassifiers;;Purview Data Classification;;Purview;https://compliance.microsoft.com/dataclassificationclassifiers
 sp;spo|sharepoint;SharePoint;;SharePoint;https://admin.microsoft.com/sharepoint
 teams;team;Teams;;Teams;https://admin.teams.microsoft.com/
+;;Intune Training;;Blogs;https://www.youtube.com/@IntuneTraining
+;;ITOpsTalk;;Blogs;https://www.youtube.com/@ITOpsTalk
 ;;John Savill's Technical Training;;Videos;https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ
 ;;Microsoft Mechanics;;Videos;https://www.youtube.com/@MSFTMechanics
 ;;Microsoft Security Community;;Videos;https://www.youtube.com/@MicrosoftSecurityCommunity
