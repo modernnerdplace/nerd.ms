@@ -75,7 +75,7 @@ export const columns = [
     className: "commands-data-table right",
     Cell: ({ cell: { value }, row: { original } }) => (
       <a href={`https://${value}.cmd.ms`} target="blank" rel="noreferrer noopener">
-        <b>{value}</b>.nerd.ms
+        <b>{value}</b>.cmd.ms
       </a>
     ),
   },
