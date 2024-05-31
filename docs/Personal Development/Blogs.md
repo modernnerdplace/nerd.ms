@@ -12,8 +12,7 @@ import { columns } from "@site/src/tableHome/columns.table";
 import Icon from '/static/img/m365-header.svg';
 import commands from '/static/commands.json';
 
-#  🧲 Blogs
-
+#  🧲 Blogs 
 <CommandsTable
 applyFilter = 'Blogs'
 columns={columns}

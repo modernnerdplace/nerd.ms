@@ -12,7 +12,7 @@ import { columns } from "@site/src/tableHome/columns.table";
 import Icon from '/static/img/m365-header.svg';
 import commands from '/static/commands.json';
 
-#  🎙️ Podcasts
+#  🎙️ Podcasts 
 
 <CommandsTable
 applyFilter = 'Blogs'
