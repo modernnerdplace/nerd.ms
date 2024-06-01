@@ -81,6 +81,7 @@ azcs;;Azure Content Safety;;Azure;https://contentsafety.cognitive.azure.com/
 azwb;;Azure Workbooks;;Azure;https://portal.azure.com/?feature.msaljs=true#view/HubsExtension/BrowseResource/resourceType/microsoft.insights%2Fworkbooks
 azroutes;;Route tables;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FrouteTables
 ;;Defender for Endpoint Blog and KQL-Tools;;Blogs;https://m365internals.com
+;Stephan van Rooij;Coding Stephan;;Blogs;https://svrooij.io
 ;Rudy Ooms;Call4Cloud;;Blogs;https://call4cloud.nl/
 ;Peter Daalmans;Modern Management Blog;;Blogs;https://configmgrblog.com/
 ;Joost Gelijsteen;Just about the Modern Workplace;;Blogs;https://joostgelijsteen.com/
@@ -566,6 +567,7 @@ teams;team;Teams;;Teams;https://admin.teams.microsoft.com/
 ;;What is my Microsoft Azure and Office 365 tenant ID ?;;Other;https://www.whatismytenantid.com
 ;;Where's My Tenant ?;;Other;https://gettenantpartitionweb.azurewebsites.net/
 ;;M365PSProfile;;Other;https://www.powershellgallery.com/packages/M365PSProfile/0.5.0
+;;WinTuner;;Other;https://wintuner.app
 ;;Winstall -  the winget repository;;Other;https://winstall.app/
 ;;Irma;KPN;Other;https://irma.routit.nl/
 ;;OneBase;KPN;Other;https://onebase.io/
