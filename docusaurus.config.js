@@ -105,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Boyd Heeres',
-                href: 'https://www.linkedin.com/in/boyd-heeres-7463b15b',
+                href: 'https://www.linkedin.com/in/boyd-heeres',
               }, 
               {
                 label: 'Ceriel Roland',
