@@ -574,9 +574,9 @@ teams;team;Teams;;Teams;https://admin.teams.microsoft.com/
 ;;OneBase;KPN;Other;https://onebase.io/
 ;;SuperVision;KPN;Other;https://onebase.io/mijn-bedrijf/werkplek/supervision/
 dkim;;Dkim blade;dkim;Other;https://security.microsoft.com/dkimv2
-;;MX-Toolbox;Exchange;other;https://mxtoolbox.com/SuperTool.aspx
-;;SPF Flattening;Exchange;other;https://easydmarc.com/tools/spf-lookup
-;;ViewDNS;Exchange;other;https://viewdns.info/dnsrecord/
+;;MX-Toolbox;Exchange;Other;https://mxtoolbox.com/SuperTool.aspx
+;;SPF Flattening;Exchange;Other;https://easydmarc.com/tools/spf-lookup
+;;ViewDNS;Exchange;Other;https://viewdns.info/dnsrecord/
 aka;;AkaSearch;;General;https://akaSearch.net
 vlsc;;Volume Licensing Service Center;;General;https://www.microsoft.com/Licensing/servicecenter
 ;;Additional Security Information;;Enduser;https://account.activedirectory.windowsazure.com
