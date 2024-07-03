@@ -1,4 +1,5 @@
 command;alias;description;keywords;category;url
+gratis;;Lennart Dreves;Gratis;Other;https://lennart.gratis
 az;azure;Azure;;Azure;https://portal.azure.com
 azp;azurepreview;Azure Preview Portal;;Azure;https://preview.portal.azure.com/
 azsentinel;sentinel;Sentinel;;Azure;https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade?
