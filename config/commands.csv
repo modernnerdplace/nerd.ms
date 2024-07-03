@@ -84,6 +84,7 @@ azroutes;;Route tables;;Azure;https://portal.azure.com/#view/HubsExtension/Brows
 ;Stephan van Rooij;Coding Stephan;;Blogs;https://svrooij.io
 ;Rudy Ooms;Call4Cloud;;Blogs;https://call4cloud.nl/
 ;Peter Daalmans;Modern Management Blog;;Blogs;https://configmgrblog.com/
+;Paul van Boerdonk;Paul van Boerdonk;;Blogs;https://paulvanboerdonk.com
 ;Joost Gelijsteen;Just about the Modern Workplace;;Blogs;https://joostgelijsteen.com/
 ;Fabio van der Burg;vdBurg.it;;Blogs;https://vdburg.it/#microsoft-blog
 ;Peter van der Woude;All about Microsoft Intune;;Blogs;https://www.petervanderwoude.n
@@ -178,6 +179,7 @@ inwdu;;Driver updates for Windows 10;;Intune;https://intune.microsoft.com/#view/
 ;;Applied Skills Certification Poster;;Learn;https://aka.ms/AppliedSkillsPoster
 ;;Certification Poster - Become Microsoft Certified;;Learn;https://aka.ms/CertificationsPoster
 ;;Cloud Skills Challenge - 30 Days to Learn It;;Learn;https://aka.ms/30-days-to-learn-it
+;;Docs SuperVision;;Learn;https://docs.supervision.nl
 ;;ExpertZone;;Learn;https://expertzone.microsoft.com/
 appliedskills;;Microsoft Applied Skills;;Learn;https://learn.microsoft.com/credentials/browse/?credential_types=applied%20skills
 ;;Microsoft Certifications;;Learn;https://learn.microsoft.com/credentials/browse/?credential_types=certification
