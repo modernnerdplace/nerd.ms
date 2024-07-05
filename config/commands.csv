@@ -1,5 +1,4 @@
 command;alias;description;keywords;category;url
-gratis;;Lennart Dreves;Gratis;Other;https://lennart.gratis
 az;azure;Azure;;Azure;https://portal.azure.com
 azp;azurepreview;Azure Preview Portal;;Azure;https://preview.portal.azure.com/
 azsentinel;sentinel;Sentinel;;Azure;https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade?
@@ -556,6 +555,7 @@ teams;team;Teams;;Teams;https://admin.teams.microsoft.com/
 ;;Get Security Done;;Other;https://dcaddick.github.io/gsd_public/
 ;;IntuneMaps;;Other;https://intunemaps.com/
 ;;KQL Search;;Other;https://www.kqlsearch.com/
+gratis;;Lennart Dreves;Gratis;Other;https://lennart.gratis
 ;;Managed Google Play store;;Other;https://play.google.com/work
 ;;Message Header Analyzer;;Other;https://mha.azurewebsites.net
 ;;Microsoft 365 Maps - Licensing Diagrams;;Other;https://m365maps.com/
