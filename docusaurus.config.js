@@ -89,7 +89,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Mede mogelijk gemaakt door',
+            title: 'Mogelijk gemaakt door',
             items: [
               {
                 label: 'vdBurg.it',
@@ -101,7 +101,7 @@ const config = {
               },
             ],
           }, {
-            title: 'Donateurs',
+            title: 'Sponsoren',
             items: [
               {
                 label: 'Boyd Heeres',
