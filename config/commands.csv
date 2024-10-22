@@ -614,6 +614,7 @@ vlsc;;Volume Licensing Service Center;;General;https://www.microsoft.com/Licensi
 ;;Microsoft Azure Information Protection - Track Documents;;Enduser;https://track.azurerms.com/
 ;;Microsoft Copilot;;Enduser;https://www.bing.com/chat
 ;;Microsoft Copilot;;Enduser;https://copilot.microsoft.com/
+;;Microsoft Copilot Studio;;Enduser;https://copilotstudio.microsoft.com/
 ;;Microsoft Create - Free Templates;;Enduser;https://create.microsoft.com/
 ;;Microsoft Designer;;Enduser;https://designer.microsoft.com/
 ;;Microsoft Family Safety;;Enduser;https://account.microsoft.com/family/
@@ -660,3 +661,6 @@ vlsc;;Volume Licensing Service Center;;General;https://www.microsoft.com/Licensi
 ;;Windows Virtual Desktop Web Client (Old) ;;Enduser;https://rdweb.wvd.microsoft.com/webclient
 ;;Word;;Enduser;https://www.office.com/launch/word
 ;;Yammer;;Enduser;https://www.yammer.com/
+
+
+
