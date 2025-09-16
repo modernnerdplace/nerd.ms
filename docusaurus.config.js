@@ -1,6 +1,4 @@
 // @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 const lightCodeTheme = require('prism-react-renderer').themes.github;
@@ -12,7 +10,7 @@ const config = {
   tagline: 'Nerds are smart',
   favicon: 'img/favicon.ico',
 
-  // Productie URL van de website
+  // Productie-URL (custom domain)
   url: 'https://nerd.ms',
   // Voor custom domain is baseUrl gewoon '/'
   baseUrl: '/',
@@ -39,7 +37,6 @@ const config = {
           sidebarCollapsible: false,
           routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: './sidebars.js',
-          // Edit this page links
           editUrl: 'https://github.com/modernnerdplace/nerd.ms/edit/main/',
         },
         blog: {
@@ -59,18 +56,14 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Nerd.ms',
-        logo: {
-          alt: 'Nerd.ms Logo',
-          src: 'img/logo.jpg',
-        },
+        logo: { alt: 'Nerd.ms Logo', src: 'img/logo.jpg' },
         items: [
           {
             type: 'html',
             position: 'right',
             className: 'header-pizza-link',
-            'aria-label': 'pizza',
             value:
-              '<a href="https://buymeacoffee.com/nerdfluencer" target="_blank" rel="noopener noreferrer"><img src="https://img.buymeacoffee.com/button-api/?text=Support a Nerd&emoji=🤓&slug=nerdfluencer&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a Nerd" /></a>',
+              '<a href="https://buymeacoffee.com/nerdfluencer" target="_blank" rel="noopener noreferrer" aria-label="Support a Nerd (opens in a new tab)"><img src="https://img.buymeacoffee.com/button-api/?text=Support a Nerd&emoji=🤓&slug=nerdfluencer&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a Nerd" /></a>',
           },
         ],
       },
