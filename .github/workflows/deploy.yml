@@ -5,13 +5,11 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
-# Nodig om naar gh-pages te kunnen schrijven
 permissions:
   contents: write
   pages: write
   id-token: write
 
-# voorkom parallelle deploys
 concurrency:
   group: "pages"
   cancel-in-progress: true
@@ -37,8 +35,13 @@ jobs:
       - name: Build site
         run: npm run build
 
-      # Optie A (aanrader): docusaurus deploy — gebruikt config.organizationName/projectName/deploymentBranch
+      - name: Configure git identity
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+
       - name: Deploy via Docusaurus
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIT_USER: ${{ github.actor }}
         run: npx docusaurus deploy

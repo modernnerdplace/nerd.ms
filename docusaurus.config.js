@@ -14,6 +14,7 @@ const config = {
   url: 'https://nerd.ms',
   // Voor custom domain is baseUrl gewoon '/'
   baseUrl: '/',
+  trailingSlash: true,
 
   // GitHub Pages deployment config
   organizationName: 'modernnerdplace', // GitHub org/user (lowercase)
@@ -22,6 +23,7 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  
 
   i18n: {
     defaultLocale: 'en',
