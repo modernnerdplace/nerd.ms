@@ -118,7 +118,8 @@ engroups;adgroups;Groups;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_
 enusers;adusers;Users;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/AllUsers/menuId/AllUsers
 endevices;addevices;Devices;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/Devices/menuId/Devices
 endevicesettings;addevicesettings;Device settings;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/DeviceSettings/menuId/Devices/Microsoft_AAD_Devices/DevicesMenuBlade
-enguests;adguests|adext;External Identities;guests;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/Settings/menuId/ExternalIdentitiesGettingStarted
+enguests;adguests|adext;External Identities;guests;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/Settings/menuId/ExternalIdentitiesGettingStarted
+Company Branding;User Experiences;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/CompanyBrandingOverview.ReactView
 enca;adca;Conditional Access;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/Policies?
 enctas;adctas|adxtap|enxtap;Cross-tenant access settings;external;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/CrossTenantAccessSettings/menuId/CrossTenantAccessSettings
 enadfslog;adadfslog;ADFS services;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_ADHybridHealth/AadHealthMenuBlade/~/AdfsServicesList
