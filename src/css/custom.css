@@ -159,3 +159,49 @@ img[class^="cat-"], img[class*=" cat-"] {
 .commands-toolbar .searchbox {
   width: 100%;
 }
+
+/* ── Navbar "Support a Nerd" pill ───────────────────── */
+.header-pizza-link {
+  display: inline-flex;
+  align-items: center;
+}
+.support-nerd-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.85rem;
+  border-radius: 999px;
+  background: var(--ifm-color-primary);
+  color: #fff !important;
+  font-weight: 600;
+  font-size: 0.9rem;
+  line-height: 1;
+  text-decoration: none !important;
+  border: 1px solid color-mix(in srgb, var(--ifm-color-primary-darker) 60%, transparent);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+  transition: background-color 0.15s, transform 0.15s, box-shadow 0.15s;
+  white-space: nowrap;
+}
+.support-nerd-btn:hover,
+.support-nerd-btn:focus-visible {
+  background: var(--ifm-color-primary-dark);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px color-mix(in srgb, var(--ifm-color-primary) 35%, transparent);
+  color: #fff !important;
+}
+.support-nerd-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+}
+.support-nerd-btn__emoji {
+  font-size: 1.05rem;
+  line-height: 1;
+}
+@media (max-width: 640px) {
+  .support-nerd-btn__label {
+    display: none;
+  }
+  .support-nerd-btn {
+    padding: 0.4rem 0.55rem;
+  }
+}

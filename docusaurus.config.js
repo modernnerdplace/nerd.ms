@@ -68,7 +68,7 @@ const config = {
             position: 'right',
             className: 'header-pizza-link',
             value:
-              '<a href="https://buymeacoffee.com/nerdfluencer" target="_blank" rel="noopener noreferrer" aria-label="Support a Nerd (opens in a new tab)"><img src="https://img.buymeacoffee.com/button-api/?text=Support a Nerd&emoji=🤓&slug=nerdfluencer&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a Nerd" /></a>',
+              '<a class="support-nerd-btn" href="https://buymeacoffee.com/nerdfluencer" target="_blank" rel="noopener noreferrer" aria-label="Support a Nerd (opens in a new tab)"><span class="support-nerd-btn__emoji" aria-hidden="true">🤓</span><span class="support-nerd-btn__label">Support a Nerd</span></a>',
           },
         ],
       },
