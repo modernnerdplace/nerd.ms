@@ -95,7 +95,7 @@ deca;;Microsoft Defender for Cloud Apps;;Defender;https://portal.cloudappsecurit
 dess;;Microsoft Secure Score;;Defender;https://security.microsoft.com/securescore
 deqre;deq;Quarantined Emails;;Defender;https://security.microsoft.com/quarantine
 dere;;Restricted entities;;Defender;https://security.microsoft.com/restrictedentities
-deti;;Threat Intelligence;;Defender;https://ti.defender.microsoft.com
+deti;;Threat Intelligence;;Defender;https://security.microsoft.com/intel-explorer?referrer=MDTI_STANDALONE_REDIRECT
 ;;Additional Security Information;;Enduser;https://account.activedirectory.windowsazure.com
 ;;App Passwords;;Enduser;https://account.activedirectory.windowsazure.com/AppPasswords.aspx
 ;;Bing Image Creator;;Enduser;https://www.bing.com/create
@@ -149,7 +149,7 @@ deti;;Threat Intelligence;;Defender;https://ti.defender.microsoft.com
 ;;PowerPoint;;Enduser;https://www.office.com/launch/powerpoint
 ;;Project;;Enduser;https://project.microsoft.com
 ;;Security;;Enduser;https://security.microsoft.com
-;;Self Service Password Reset / Forgot Password;;Enduser;https://passwordreset.microsoftonline.com
+;mypw;Self Service Password Reset / Forgot Password;;Enduser;https://passwordreset.microsoftonline.com
 ;;Self Service Password Reset Setup;;Enduser;https://account.activedirectory.windowsazure.com/PasswordReset/Register.aspx?regref=ssprsetup
 ;;SharePoint;;Enduser;https://login.microsoftonline.com/login.srf?wa=wsignin1.0&wreply=https://www.office.com/launch/sharepoint%3F&LoginOptions=1
 ;;Stream;;Enduser;https://web.microsoftstream.com
@@ -201,7 +201,7 @@ en;ad|aad|entra;Microsoft Entra;;Entra;https://entra.microsoft.com
 azad;;Microsoft Entra (Azure Portal);;Entra;https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview?
 ensspr;enpassword|adpassword|adsspr;Password reset;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/PasswordResetMenuBlade/~/Properties
 enpim;adpim|pim;PIM;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/CommonMenuBlade/~/quickStart
-enpimz;adpimz|adpimaz;PIM for Azure resources;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/CommonMenuBlade/~/azurerbac?
+enpimz;adpimz|adpimaz;PIM for Azure resources;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/azurerbac?
 enpimg;adpimg;PIM for Groups;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadgroup?
 enpimr;adpimr;PIM for Roles;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles?
 enpa;adpa;Protected actions;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/RolesManagementMenuBlade/~/ProtectedActions
@@ -217,7 +217,7 @@ inandroid;;Android;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_D
 inappconfig;;App configuration policies;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsMenu/~/appConfig
 inapps;;Apps;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/AppsMenu/~/overview
 incompliance;;Compliance policies;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesComplianceMenu/~/policies
-inconfig;;Configuration profiles;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/configurationProfiles
+inconfig;;Configuration profiles;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/configuration
 indevices;;Devices;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/overview
 inwdu;;Driver updates for Windows 10;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/windowsDriverUpdate?#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/windows10UpdateRings?=
 inedu;;Education;;Intune;https://intuneeducation.portal.azure.com
@@ -228,7 +228,7 @@ in;intune|endpoint;Intune;;Intune;https://intune.microsoft.com
 inios;;iOS/iPad devices;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesIosMenu/~/iosDevices
 inmacos;;macOS devices;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMacOsMenu/~/macOsDevices
 inprorem;;Proactive Remediations;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/remediations?#view/Microsoft_Intune_Enrollment/UXAnalyticsMenu/~/proactiveRemediations?=
-inscripts;;Scripts;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/powershell
+inscripts;;Scripts;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/DevicesMenu/~/scripts
 insecurity;insec;Security;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/overview
 intenant;intadmin;Tenant admin;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/TenantAdminMenu/~/tenantStatus
 introubleshoot;;Troubleshooting;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/SupportMenu/~/troubleshooting
@@ -255,11 +255,11 @@ Learnprofile;;Microsoft Learn Profile;;Learn;https://aka.ms/LearnProfile
 docs;;Technical documentation;;Learn;https://learn.microsoft.com/docs/
 training;;Training;;Learn;https://learn.microsoft.com/training/
 cdx;;Customer Digital Experiences (Demo);;Microsoft 365;https://cdx.transform.microsoft.com
-ex;exo|exchange;Exchange;;Microsoft 365;https://admin.exchange.microsoft.com
+ex;exo|exchange;Exchange;;Microsoft 365;https://admin.cloud.microsoft/exchange
 ge;;Graph Explorer;;Microsoft 365;https://developer.microsoft.com/en-us/graph/graph-explorer
-lighthouse;;Lighthouse;;Microsoft 365;https://lighthouse.microsoft.com/
+lighthouse;lh;Lighthouse;;Microsoft 365;https://lighthouse.microsoft.com/
 mc;;Message Center;;Microsoft 365;https://admin.microsoft.com/#/MessageCenter
-admin;;Microsoft 365 Admin;;Microsoft 365;https://admin.microsoft.com
+admin;;Microsoft 365 Admin;;Microsoft 365;https://admin.cloud.microsoft
 m365apps;;Microsoft 365 Apps admin center;;Microsoft 365;https://config.office.com/officeSettings
 lcs;;Microsoft Dynamics Lifecycle Services;;Microsoft 365;https://lcs.dynamics.com/v2
 forms;frm;Microsoft Forms;;Microsoft 365;https://forms.office.com/
@@ -270,39 +270,39 @@ mail;outlook;Outlook;;Microsoft 365;https://outlook.office365.com/mail/
 pa;pflow;Power Automate;;Microsoft 365;https://make.powerautomate.com
 pbi;powerbi;Power BI;;Microsoft 365;https://app.powerbi.com/admin-portal
 pbidod;;Power BI DoD;;Microsoft 365;https://app.mil.powerbigov.us/
-pbigcc;;Power BI GCC;;Microsoft 365;https://app.powerbigov.us/
+pbigcc;pbig;Power BI GCC;;Microsoft 365;https://app.powerbigov.us/
 pbigcch;;Power BI GCC High;;Microsoft 365;https://app.high.powerbigov.us/
 pp;ppa|power;Power Platform;;Microsoft 365;https://admin.powerplatform.microsoft.com
 ppdod;;Power Platform DoD;;Microsoft 365;https://admin.appsplatform.us/
-ppgcc;;Power Platform GCC;;Microsoft 365;https://gcc.admin.powerplatform.microsoft.us
-ppgcch;;Power Platform GCC High;;Microsoft 365;https://high.admin.powerplatform.microsoft.us/
+ppgcc;ppg;Power Platform GCC;;Microsoft 365;https://gcc.admin.powerplatform.microsoft.us
+ppgcch;ppgh;Power Platform GCC High;;Microsoft 365;https://high.admin.powerplatform.microsoft.us/
 powerapps;;PowerApps;;Microsoft 365;https://make.powerapps.com/
 pappsdod;;PowerApps DoD;;Microsoft 365;https://make.apps.appsplatform.us/
-pappsgcc;;PowerApps GCC;;Microsoft 365;https://make.gov.powerapps.us/
+pappsgcc;pappsg;PowerApps GCC;;Microsoft 365;https://make.gov.powerapps.us/
 pappsgcch;;PowerApps GCC High;;Microsoft 365;https://make.high.powerapps.us/
 pflowdod;;PowerAutomate DoD;;Microsoft 365;https://flow.appsplatform.us/
-pflowgcc;;PowerAutomate GCC;;Microsoft 365;https://make.gov.powerautomate.us/
+pflowgcc;pag;PowerAutomate GCC;;Microsoft 365;https://make.gov.powerautomate.us/
 pflowgcch;;PowerAutomate GCC High;;Microsoft 365;https://high.flow.microsoft.us/
-ppagegcc;;PowerPages GCC;;Microsoft 365;https://make.gov.powerpages.microsoft.us/
-ppagegcch;;PowerPages GCC High;;Microsoft 365;https://make.high.powerpages.microsoft.us/
-puactexp;;Purview Activity Explorer;;Microsoft 365;https://compliance.microsoft.com/dataclassification/activityexplorer
-pucloudgov;;Purview App Governance;;Microsoft 365;https://compliance.microsoft.com/cloudapps/app-governance
-puaudit;;Purview Audit;Microsoft 365 Advanced Audit;Microsoft 365;https://compliance.microsoft.com/auditlogsearch
-pucomms;;Purview Communication Compliance;Microsoft 365 Communication Compliance;Microsoft 365;https://compliance.microsoft.com/supervisoryreview
-pucmgr;decm;Purview Compliance manager;Microsoft Compliance Manager;Microsoft 365;https://compliance.microsoft.com/compliancemanager
-pucontentex;;Purview Content Explorer;;Microsoft 365;https://compliance.microsoft.com/dataclassification/contentexplorer
-pucontentse;;Purview Content Search;;Microsoft 365;https://compliance.microsoft.com/contentsearchv2
-puclassifiers;;Purview Data Classification;;Microsoft 365;https://compliance.microsoft.com/dataclassificationclassifiers
-pudlm;;Purview Data Lifecycle Management;Microsoft Information Governance;Microsoft 365;https://compliance.microsoft.com/informationgovernance
-pudlp;dlp;Purview Data Loss Prevention;Microsoft Endpoint DLP;Microsoft 365;https://compliance.microsoft.com/datalossprevention
-puedisc;ediscovery;Purview eDiscovery;Office 365 Advanced eDiscovery;Microsoft 365;https://compliance.microsoft.com/advancedediscovery
-puinfoprot;;Purview Information Protection;Microsoft Information Protection;Microsoft 365;https://compliance.microsoft.com/informationprotection
-puirm;;Purview Insider Risk Management;Microsoft 365 Insider Risk Management;Microsoft 365;https://compliance.microsoft.com/insiderriskmgmt
-puperms;;Purview Permissions manager;;Microsoft 365;https://compliance.microsoft.com/permissions
-puprivaprm;;Purview Priva Privacy Risk Management;;Microsoft 365;https://compliance.microsoft.com/privacymgmtoverview
-puprivasrr;;Purview Priva Subject Rights Requests;;Microsoft 365;https://compliance.microsoft.com/privacymgmtsrm
-purecmon;;Purview Records Management;Records Management in Microsoft 365;Microsoft 365;https://compliance.microsoft.com/recordsmanagement
-pusit;;Purview Sensitive Info Types;;Microsoft 365;https://compliance.microsoft.com/dataclassificationclassifiers?viewid=sensitiveinfotypes
+ppagegcc;ppageg;PowerPages GCC;;Microsoft 365;https://make.gov.powerpages.microsoft.us/
+ppagegcch;ppagegh;PowerPages GCC High;;Microsoft 365;https://make.high.powerpages.microsoft.us/
+puactexp;;Purview Activity Explorer;;Microsoft 365;https://purview.microsoft.com/informationprotection/dataclassification/activityexplorer
+pucloudgov;;Purview App Governance;;Microsoft 365;https://purview.microsoft.com/cloudapps/app-governance
+puaudit;;Purview Audit;Microsoft 365 Advanced Audit;Microsoft 365;https://purview.microsoft.com/audit/auditsearch
+pucomms;;Purview Communication Compliance;Microsoft 365 Communication Compliance;Microsoft 365;https://purview.microsoft.com/cc
+pucmgr;decm;Purview Compliance manager;Microsoft Compliance Manager;Microsoft 365;https://purview.microsoft.com/compliancemanager
+pucontentex;;Purview Content Explorer;;Microsoft 365;https://purview.microsoft.com/informationprotection/dataclassification/contentexplorer
+pucontentse;;Purview Content Search;;Microsoft 365;https://purview.microsoft.com/ediscovery/contentsearchv2
+puclassifiers;;Purview Data Classification;;Microsoft 365;https://purview.microsoft.com/cc/dataclassification/multicloudsensitiveinfotypes
+pudlm;;Purview Data Lifecycle Management;Microsoft Information Governance;Microsoft 365;https://purview.microsoft.com/datalifecyclemanagement
+pudlp;dlp;Purview Data Loss Prevention;Microsoft Endpoint DLP;Microsoft 365;https://purview.microsoft.com/datalossprevention
+puedisc;ediscovery;Purview eDiscovery;Office 365 Advanced eDiscovery;Microsoft 365;https://purview.microsoft.com/ediscovery/advancedediscovery
+puinfoprot;;Purview Information Protection;Microsoft Information Protection;Microsoft 365;https://purview.microsoft.com/informationprotection
+puirm;;Purview Insider Risk Management;Microsoft 365 Insider Risk Management;Microsoft 365;https://purview.microsoft.com/insiderriskmgmt
+puperms;;Purview Permissions manager;;Microsoft 365;https://purview.microsoft.com/settings/purviewpermissions
+puprivaprm;;Purview Priva Privacy Risk Management;;Microsoft 365;https://purview.microsoft.com/priva/prm
+puprivasrr;;Purview Priva Subject Rights Requests;;Microsoft 365;https://purview.microsoft.com/priva/dsr/governance/main/privacydsr/privacy/overview
+purecmon;;Purview Records Management;Records Management in Microsoft 365;Microsoft 365;https://purview.microsoft.com/recordsmanagement
+pusit;;Purview Sensitive Info Types;;Microsoft 365;https://purview.microsoft.com/cc/dataclassification/multicloudsensitiveinfotypes
 sp;spo|sharepoint;SharePoint;;Microsoft 365;https://admin.microsoft.com/sharepoint
 teams;team;Teams;;Microsoft 365;https://admin.teams.microsoft.com/
 teamsrooms;;Teams Rooms Pro Management;;Microsoft 365;https://portal.rooms.microsoft.com/
@@ -313,8 +313,8 @@ yam;yammer;Yammer;;Microsoft 365;https://www.yammer.com/office365/admin
 myaccess;;My access;;My Pages;https://myaccess.microsoft.com
 myaccount;;My account;;My Pages;https://myaccount.microsoft.com
 myapps;myapp;My apps;;My Pages;https://myapps.microsoft.com
-mygroups;mygroup;My groups;;My Pages;https://account.activedirectory.windowsazure.com/r#/groups
-mysec;mysecurity|mysecurityinfo;My security info;my sign ins;My Pages;https://mysignins.microsoft.com/security-info
+mygroups;mygroup;My groups;;My Pages;https://myaccount.microsoft.com/groups
+mysec;mysecurity|mysecurityinfo|mymfa;My security info;my sign ins;My Pages;https://mysignins.microsoft.com/security-info
 mystaff;;My staff;;My Pages;https://mystaff.microsoft.com
 myvs;;Visual Studio Subscriptions;;My Pages;https://my.visualstudio.com/
 actionpack;;Microsoft Action Pack;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/workspace/maps
@@ -629,3 +629,128 @@ solutionoverview;;Solutions Partner Overview;;PartnerCenter;https://partner.micr
 ;;Irma;KPN;Other;https://irma.routit.nl/
 ;;OneBase;KPN;Other;https://onebase.io/
 ;;SuperVision;KPN;Other;https://onebase.io/mijn-bedrijf/werkplek/supervision/
+argg;argeg;Azure Resource Graph Explorer for GCC High;;Azure;https://portal.azure.us/#view/HubsExtension/ArgQueryBlade?
+avs;;Azure VMware Solution;;Azure;https://portal.azure.com/#browse/Microsoft.AVS%2FprivateClouds
+azbcc;bcc;Business Continuity Center;;Azure;https://portal.azure.com/#view/Microsoft_Azure_BCDRCenter/AbcCenterMenuBlade/~/overview
+azcarbon;azsustainability;Carbon optimization - Emission Trends;;Azure;https://portal.azure.com/#view/HubsExtension/AssetMenuBlade/~/EmissionTrendsId/assetName/Sustainability/extensionName/Microsoft_Azure_Sustainability
+azdns;;DNS zones;;Azure;https://portal.azure.com/#browse/Microsoft.Network%2FdnsZones
+azg;;Azure for GCC High;;Azure;https://portal.azure.us
+azguestconfig;azguest;Azure Guest Assignments;;Azure;https://portal.azure.com/#browse/Microsoft.Compute%2FvirtualMachines%2Fproviders%2FguestConfigurationAssignments
+azrm;;Azure Resource Manager Blade;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Resources/ResourceManagerBlade/~/overview
+azsentinelg;sentinelg;Sentinel for GCC high;;Azure;https://portal.azure.us/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade?
+azsnap;;Disk Snapshots;;Azure;https://portal.azure.com/#browse/Microsoft.Compute%2Fsnapshots
+engage;;Engage Center;;Azure;https://engagecenter.microsoft.com
+puudgg;purviewudgg|purviewg;Purview Unified Data Governance for GCC High;;Azure;https://web.purview.azure.us
+deactionsg;;Action Centre for GCC High;;Defender;https://security.microsoft.us/action-center
+deamp;deamv2|antimalware|antimalwarepolicies;Anti-malware policies;;Defender;https://security.microsoft.com/antimalwarev2
+deap;antiphishing|antiphish|phish;Anti-Phishing policies;;Defender;https://security.microsoft.com/antiphishing
+deasp;antispam|antispampolicies;Anti-spam policies;;Defender;https://security.microsoft.com/antispam
+deasrreport;asrreport|asrmdereport;Reports - Attack Surface Reduction Rules;;Defender;https://security.microsoft.com/asr
+deast;;Attack simulation training;;Defender;https://security.microsoft.com/attacksimulator
+deastrep;;Attack Simulation Training Reports;;Defender;https://security.microsoft.com/attacksimulationreport
+dedevcontrol;devcontrolreport;Reports - Device Control;;Defender;https://security.microsoft.com/devicecontrol
+dedevhealth;devicehealth;Reports - Device Health;;Defender;https://security.microsoft.com/devicehealth
+dedkim;dkim;DKIM Email Authentication Settings;;Defender;https://security.microsoft.com/dkimv2
+dedwnrep;derepdownload;Reports - Email & Collaboration - Reports for download;;Defender;https://security.microsoft.com/ReportsForDownload
+deemailcoll;;Reports - Email & Collaboration;;Defender;https://security.microsoft.com/emailandcollabreport
+deexplorerg;;Explorer for GCC High;;Defender;https://security.microsoft.us/threatexplorer
+defenderg;defg|securityg;Microsoft 365 Defender for GCC High;;Defender;https://security.microsoft.us
+defwreport;firewallreport;Reports - Firewall;;Defender;https://security.microsoft.com/firewall
+dehuntingg;dehuntg;Hunting for GCC High;;Defender;https://security.microsoft.us/v2/advanced-hunting
+deidrepmgmt;;Identities - Report management;;Defender;https://security.microsoft.com/identities-reports
+deincidentsg;deincg;Incidents for GCC High;;Defender;https://security.microsoft.us/incidents
+deinvestigationsg;;Investigations for GCC High;;Defender;https://security.microsoft.us/airinvestigation
+demcasreports;demcasrep;Cloud Apps - Exported Reports;;Defender;https://security.microsoft.com/cloudapps/exported-reports
+demdeadvfeats;;Advanced features;;Defender;https://security.microsoft.com/securitysettings/endpoints/integration
+demdeafe;;Automation Folder Exclusions;;Defender;https://security.microsoft.com/securitysettings/endpoints/folder_exclusions
+demdeau;;Automation Uploads;;Defender;https://security.microsoft.com/securitysettings/endpoints/advanced
+demdedevgrps;;Device Groups;;Defender;https://security.microsoft.com/securitysettings/endpoints/machine_groups
+demdeier;;Isolation Exclusion Rules;;Defender;https://security.microsoft.com/securitysettings/endpoints/isolation_exclusions
+demdeinperms;;Intune Permissions;;Defender;https://security.microsoft.com/securitysettings/endpoints/intune_permissions
+demdelibrary;;Library Management;;Defender;https://security.microsoft.com/securitysettings/endpoints/libraryManagement
+demdelicenses;;Licenses;;Defender;https://security.microsoft.com/securitysettings/endpoints/licenses
+demdemailalerts;;e-Mail Notifications - Alerts;;Defender;https://security.microsoft.com/securitysettings/endpoints/email_notifications
+demdemailvulns;;e-Mail Notifications - Vulnerabilities;;Defender;https://security.microsoft.com/securitysettings/endpoints/email_notifications?childviewid=vulnerabilities
+demdeoffboard;;Offboarding;;Defender;https://security.microsoft.com/securitysettings/endpoints/offboarding
+demdeonboard;;Onboarding;;Defender;https://security.microsoft.com/securitysettings/endpoints/onboarding
+demdepmi;;Process Memory Indicators;;Defender;https://security.microsoft.com/securitysettings/endpoints/system_exclusions
+demderoles;;Roles;;Defender;https://security.microsoft.com/securitysettings/endpoints/user_roles
+demdesettings;;Endpoints;;Defender;https://security.microsoft.com/securitysettings/endpoints
+demdessm;;Security setting management;;Defender;https://security.microsoft.com/securitysettings/endpoints/configuration_management2
+demdeticerts;;Indicators - Certificates;;Defender;https://security.microsoft.com/securitysettings/endpoints/custom_ti_indicators?childviewid=certificate
+demdetifiles;;Indicators - Files;;Defender;https://security.microsoft.com/securitysettings/endpoints/custom_ti_indicators?childviewid=files
+demdetiip;;Indicators - IPs;;Defender;https://security.microsoft.com/securitysettings/endpoints/custom_ti_indicators?childviewid=ip
+demdetiurls;;Indicators - URLs/Domains;;Defender;https://security.microsoft.com/securitysettings/endpoints/custom_ti_indicators?childviewid=url
+demdewcf;;Web Content Filtering;;Defender;https://security.microsoft.com/securitysettings/endpoints/web_content_filtering_policy
+demonsum;monthlysum;Reports - Monthly security summary;;Defender;https://security.microsoft.com/value-report
+deqp;quarantinepolicies;Quarantine policies;;Defender;https://security.microsoft.com/quarantinePolicies
+dereg;;Restricted Entities for GCC High;;Defender;https://security.microsoft.us/restrictedentities
+dereport;;Defender reports;;Defender;https://security.microsoft.com/securityreports
+derepquery;queryresources;Reports - Query resources;;Defender;https://security.microsoft.com/advanced-hunting/quotareport
+desap;safeattachments|desav2;Safe attachments policies;;Defender;https://security.microsoft.com/safeattachmentv2
+deschedules;;Reports - Email & Collaboration - Manage schedules;;Defender;https://security.microsoft.com/ManageSubscription
+desecreport;securityreport;Reports - Security report;;Defender;https://security.microsoft.com/reports
+desettings;;Defender - Settings;;Defender;https://security.microsoft.com/securitysettings
+deslp;safelinks|deslv2;Safe links policies;;Defender;https://security.microsoft.com/safelinksv2
+detp;threatpolicy|threatpolicies;Threat policies;;Defender;https://security.microsoft.com/threatpolicy
+devulnreport;;Reports - Vulnerable Devices;;Defender;https://security.microsoft.com/mde-reports/vulnerability
+dewebprotect;;Reports - Web Protection;;Defender;https://security.microsoft.com/webprotection
+scp;cfs;Security Copilot;;Defender;https://securitycopilot.microsoft.com
+azadg;;Microsoft Entra (Azure Portal) for GCC High;;Entra;https://portal.azure.us/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview?
+enagentid;;Agent ID;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_RegisteredApps/AllAgents.MenuView/~/overview
+encloudsync;;Entra Cloud Sync Configuration;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_Connect_Provisioning/CloudSyncMenuBlade/~/CloudSyncConfigurations
+endom;;Domain names;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/DomainsManagementMenuBlade/~/CustomDomainNames
+eng;adg|aadg|entrag;Microsoft Entra for GCC High;;Entra;https://entra.microsoft.us
+ennew;;What's new;;Entra;https://entra.microsoft.com/#blade/Microsoft_AAD_IAM/ChangeManagementHubList.ReactView?
+enpumfa;enlegacymfa|adlegacymfa;Legacy MFA;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/MultifactorAuthenticationConfig.ReactView/tabId/users
+enusrsettings;enusersettings;User settings;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/UserSettings/menuId/UserSettings
+inantivirus;insecav;Security - Antivirus;;Intune;https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/antivirus
+inasr;insecasr;Security - ASR;;Intune;https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/asr
+inedr;insecedr;Security - Enpoint detection and Response;;Intune;https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/edr
+infirewall;insecfw;Security - Firewall;;Intune;https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/firewall
+ing;intuneg;Intune for GCC high;;Intune;https://intune.microsoft.us
+cp;;Copilot;;Microsoft 365;https://copilot.microsoft.com
+cpd;;Copilot Dashboard;;Microsoft 365;https://analysis.insights.cloud.microsoft
+domains;domain;Domains;;Microsoft 365;https://admin.cloud.microsoft/#/Domains
+edge;;Edge Configuration Overview;;Microsoft 365;https://admin.cloud.microsoft#/edge
+edgeconfig;;Edge Configuration Profiles;;Microsoft 365;https://admin.microsoft.com/?source=applauncher#/Edge/PolicyConfiguration
+exmailflowrep;mailflowreports;Exchange mail flow reports;;Microsoft 365;https://security.microsoft.com/ExchangeMailFlowReport
+exmt;extrace;Exchange Message Trace;;Microsoft 365;https://admin.cloud.microsoft/exchange#/messagetrace
+exrules;exmailflow;Exchange Mail Flow Rules;;Microsoft 365;https://admin.cloud.microsoft/exchange#/transportrules
+fabric;;Fabric;;Microsoft 365;https://app.powerbi.com/home?experience=fabric-developer
+lhbsl;;Baselines Lighthouse;;Microsoft 365;https://lighthouse.microsoft.com/#view/Microsoft_Intune_MTM/Blueprints.ReactView
+lhdi;;Deployment Insights Lighthouse;;Microsoft 365;https://lighthouse.microsoft.com/#view/Microsoft_Intune_MTM/MultiTenantDeploymentReport.ReactView
+lhtnt;;Tenants Lighthouse;;Microsoft 365;https://lighthouse.microsoft.com/#view/Microsoft_Intune_MTM/Tenants.ReactView
+mailg;outlookg;Outlook for GCC High;;Microsoft 365;https://outlook.office365.us/mail/
+mmig;;Microsoft Migration Manager 365;;Microsoft 365;https://admin.cloud.microsoft/?entry=SPAC#/featureexplorer/collections/migrations
+mshealth;;Microsoft 365 Service health;;Microsoft 365;https://admin.microsoft.com/#/servicehealth
+musers;;Active Users;;Microsoft 365;https://admin.microsoft.com/#/users
+oneg;onedriveg;OneDrive for GCC High;;Microsoft 365;https://admin.onedrive.us
+pagh;pflowgh;Power Automate for GCC High;;Microsoft 365;https://make.high.powerautomate.us
+pappg;;Power Apps for GCC High;;Microsoft 365;https://make.high.powerapps.us
+pbigh;powerbigh;Power BI for GCC High;;Microsoft 365;https://app.high.powerbigov.us
+places;place;Places Admin;;Microsoft 365;https://places.cloud.microsoft/places/admin/space-management/
+planner;;Planner;;Microsoft 365;https://planner.cloud.microsoft
+sds;;School Data Sync;;Microsoft 365;https://sds.edu.cloud.microsoft
+syntex;;Syntex;;Microsoft 365;https://admin.cloud.microsoft/#/syntex
+teamsg;teamg;Teams Admin for GCC High;;Microsoft 365;https://admin.gov.teams.microsoft.us/
+tenants;tnts;All Tenants;;Microsoft 365;https://admin.microsoft.com/Adminportal/Home?#/tenants
+mysubscriptions;;My Office/365 subscriptions;;My Pages;https://portal.office.com/account/#subscriptions
+pu;purview;Microsoft Purview;;Purview;https://purview.microsoft.com/
+puactexpg;;Purview Activity Explorer for GCC High;;Purview;https://purview.microsoft.us/dataclassification/activityexplorer
+puauditg;;Purview Audit for GCC High;;Purview;https://purview.microsoft.com/auditlogsearch
+puclassifiersg;;Purview Data Classification for GCC High;;Purview;https://purview.microsoft.us/dataclassificationclassifiers
+pucmgrg;decmg;Purview Compliance manager for GCC High;;Purview;https://purview.microsoft.us/compliancemanager
+pucommsg;;Purview Communication Compliance for GCC High;;Purview;https://purview.microsoft.us/supervisoryreview
+pucontentexg;;Purview Content Explorer for GCC High;;Purview;https://purview.microsoft.us/dataclassification/contentexplorer
+pucontentseg;;Purview Content Search for GCC High;;Purview;https://purview.microsoft.us/contentsearchv2
+pudlmg;;Purview Data Lifecycle Management for GCC High;;Purview;https://purview.microsoft.us/informationgovernance
+pudlpg;dlpg;Purview Data Loss Prevention for GCC High;;Purview;https://purview.microsoft.us/datalossprevention
+puediscg;ediscoveryg;Purview eDiscovery for GCC High;;Purview;https://purview.microsoft.us/advancedediscovery
+puinfoprotg;;Purview Information Protection for GCC High;;Purview;https://purview.microsoft.us/informationprotection
+puirmg;;Purview Insider Risk Management for GCC High;;Purview;https://purview.microsoft.us/insiderriskmgmt
+pupermsg;;Purview Permissions manager for GCC High;;Purview;https://purview.microsoft.us/permissions
+puprivaprmg;;Purview Priva Privacy Risk Management for GCC High;;Purview;https://purview.microsoft.us/privacymgmtoverview
+puprivasrrg;;Purview Priva Subject Rights Requests for GCC High;;Purview;https://purview.microsoft.us/privacymgmtsrm
+purecmong;;Purview Records Management for GCC High;;Purview;https://purview.microsoft.us/recordsmanagement
+pusitg;;Purview Sensitive Info Types for GCC High;;Purview;https://purview.microsoft.us/dataclassificationclassifiers?viewid=sensitiveinfotypes

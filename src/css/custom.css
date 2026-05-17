@@ -118,6 +118,18 @@ li > a.menu__link {
   content:url('/static/img/general.svg');
 }
 
+.cat-purview {
+  content:url('/static/img/general.svg');
+}
+
+.cat-enduser {
+  content:url('/static/img/general.svg');
+}
+
+.cat-partnercenter {
+  content:url('/static/img/m365.svg');
+}
+
 .header-nerd-link {
   width: 230px; 
  
