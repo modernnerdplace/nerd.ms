@@ -255,7 +255,7 @@ Learnprofile;;Microsoft Learn Profile;;Learn;https://aka.ms/LearnProfile
 docs;;Technical documentation;;Learn;https://learn.microsoft.com/docs/
 training;;Training;;Learn;https://learn.microsoft.com/training/
 cdx;;Customer Digital Experiences (Demo);;Microsoft 365;https://cdx.transform.microsoft.com
-ex;exo|exchange;Exchange;;Microsoft 365;https://admin.cloud.microsoft/exchange
+ex;exo|exchange;Exchange;;Exchange;https://admin.cloud.microsoft/exchange
 ge;;Graph Explorer;;Microsoft 365;https://developer.microsoft.com/en-us/graph/graph-explorer
 lighthouse;lh;Lighthouse;;Microsoft 365;https://lighthouse.microsoft.com/
 mc;;Message Center;;Microsoft 365;https://admin.microsoft.com/#/MessageCenter
@@ -714,9 +714,9 @@ cpd;;Copilot Dashboard;;Microsoft 365;https://analysis.insights.cloud.microsoft
 domains;domain;Domains;;Microsoft 365;https://admin.cloud.microsoft/#/Domains
 edge;;Edge Configuration Overview;;Microsoft 365;https://admin.cloud.microsoft#/edge
 edgeconfig;;Edge Configuration Profiles;;Microsoft 365;https://admin.microsoft.com/?source=applauncher#/Edge/PolicyConfiguration
-exmailflowrep;mailflowreports;Exchange mail flow reports;;Microsoft 365;https://security.microsoft.com/ExchangeMailFlowReport
-exmt;extrace;Exchange Message Trace;;Microsoft 365;https://admin.cloud.microsoft/exchange#/messagetrace
-exrules;exmailflow;Exchange Mail Flow Rules;;Microsoft 365;https://admin.cloud.microsoft/exchange#/transportrules
+exmailflowrep;mailflowreports;Exchange mail flow reports;;Exchange;https://security.microsoft.com/ExchangeMailFlowReport
+exmt;extrace;Exchange Message Trace;;Exchange;https://admin.cloud.microsoft/exchange#/messagetrace
+exrules;exmailflow;Exchange Mail Flow Rules;;Exchange;https://admin.cloud.microsoft/exchange#/transportrules
 fabric;;Fabric;;Microsoft 365;https://app.powerbi.com/home?experience=fabric-developer
 lhbsl;;Baselines Lighthouse;;Microsoft 365;https://lighthouse.microsoft.com/#view/Microsoft_Intune_MTM/Blueprints.ReactView
 lhdi;;Deployment Insights Lighthouse;;Microsoft 365;https://lighthouse.microsoft.com/#view/Microsoft_Intune_MTM/MultiTenantDeploymentReport.ReactView
@@ -754,3 +754,6 @@ puprivaprmg;;Purview Priva Privacy Risk Management for GCC High;;Purview;https:/
 puprivasrrg;;Purview Priva Subject Rights Requests for GCC High;;Purview;https://purview.microsoft.us/privacymgmtsrm
 purecmong;;Purview Records Management for GCC High;;Purview;https://purview.microsoft.us/recordsmanagement
 pusitg;;Purview Sensitive Info Types for GCC High;;Purview;https://purview.microsoft.us/dataclassificationclassifiers?viewid=sensitiveinfotypes
+eaacr;;Admin consent requests;Enterprise applications | Admin consent requests;Entra;https://aad.portal.azure.com/#view/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/~/AccessRequests
+make;mpa;Make Power Apps;;Microsoft 365;https://make.powerapps.com
+gratis;;Lennart Dreves;Gratis;Other;https://lennart.gratis

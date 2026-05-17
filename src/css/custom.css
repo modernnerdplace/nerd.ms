@@ -130,6 +130,10 @@ li > a.menu__link {
   content:url('/static/img/m365.svg');
 }
 
+.cat-exchange {
+  content:url('/static/img/m365.svg');
+}
+
 .header-nerd-link {
   width: 230px; 
  

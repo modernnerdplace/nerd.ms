@@ -1,7 +1,4 @@
 // @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 const lightCodeTheme = require('prism-react-renderer').themes.github;
@@ -13,16 +10,16 @@ const config = {
   tagline: 'Nerds are smart',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
+  // Productie-URL (custom domain)
   url: 'https://nerd.ms',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  // Voor custom domain is baseUrl gewoon '/'
   baseUrl: '/',
+  trailingSlash: true,
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ModernNerdplace', // Usually your GitHub org/user name.
-  projectName: 'nerd.ms', // Usually your repo name.
+  // GitHub Pages deployment config
+  organizationName: 'modernnerdplace', // GitHub org/user (lowercase)
+  projectName: 'nerd.ms',              // repo-naam
+  deploymentBranch: 'gh-pages',        // target branch voor Pages deployments
 
   onBrokenLinks: 'throw',
   markdown: {
@@ -31,9 +28,6 @@ const config = {
     },
   },
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -45,20 +39,14 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarCollapsible: true,
+          sidebarCollapsible: false,
           routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/modernnerdplace/nerd.ms',
+          editUrl: 'https://github.com/modernnerdplace/nerd.ms/edit/main/',
         },
         blog: {
           showReadingTime: false,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/modernnerdplace/nerd.ms/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -70,51 +58,35 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Nerd.ms',
-        logo: {
-          alt: 'Nerd.ms Logo',
-          src: 'img/logo.jpg',
-        },
+        logo: { alt: 'Nerd.ms Logo', src: 'img/logo.jpg' },
         items: [
           {
-            href: 'https://buymeacoffee.com/nerdfluencer',
-            className: 'header-pizza-link',
-            'aria-label': 'pizza',
+            type: 'html',
             position: 'right',
-            html: '<img src="https://img.buymeacoffee.com/button-api/?text=Support a Nerd&emoji=🤓&slug=nerdfluencer&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a Nerd" />',
-          }
-         
+            className: 'header-pizza-link',
+            value:
+              '<a href="https://buymeacoffee.com/nerdfluencer" target="_blank" rel="noopener noreferrer" aria-label="Support a Nerd (opens in a new tab)"><img src="https://img.buymeacoffee.com/button-api/?text=Support a Nerd&emoji=🤓&slug=nerdfluencer&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a Nerd" /></a>',
+          },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Mede mogelijk gemaakt door',
+            title: 'Mogelijk gemaakt door',
             items: [
-              {
-                label: 'vdBurg.it',
-                to: 'https://vdBurg.it',
-              },
-              {
-                label: 'Fabio van der Burg',
-                to: 'https://vdBurg.it',
-              },
+              { label: 'vdBurg.it', to: 'https://vdBurg.it' },
+              { label: 'Fabio van der Burg', to: 'https://vdBurg.it' },
             ],
-          }, {
-            title: 'Donateurs',
+          },
+          {
+            title: 'Sponsoren',
             items: [
-              {
-                label: 'Boyd Heeres',
-                href: '#',
-              }, 
-              {
-                label: 'Ceriel Roland',
-                href: '#',
-              },
+              { label: 'Boyd Heeres', href: 'https://www.linkedin.com/in/boyd-heeres' },
+              { label: 'Ceriel Roland', href: 'https://www.linkedin.com/in/cerielroland' },
             ],
           },
           {
@@ -124,21 +96,11 @@ const config = {
                 label: 'Spotify',
                 href: 'https://open.spotify.com/show/6BplO9t7XhNoduLgFSVqAV?si=dca8654696064929&nd=1&dlsi=a2f7f6b0b2eb4916',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/modernnerdplace',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/99HTc9JBca',
-              },
-              {
-                label: 'Meetup',
-                href: 'https://www.meetup.com/modern-nerdplace/',
-              },
+              { label: 'GitHub', href: 'https://github.com/modernnerdplace' },
+              { label: 'Discord', href: 'https://discord.gg/99HTc9JBca' },
+              { label: 'Meetup', href: 'https://www.meetup.com/modern-nerdplace/' },
             ],
           },
-         
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Nerd.ms.`,
       },
@@ -146,20 +108,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      plugins: [
-        async function myPlugin(context, options) {
-          return {
-            name: "docusaurus-tailwindcss",
-            configurePostCss(postcssOptions) {
-              // Appends TailwindCSS and AutoPrefixer.
-              postcssOptions.plugins.push(require("tailwindcss"));
-              postcssOptions.plugins.push(require("autoprefixer"));
-              return postcssOptions;
-            },
-          };
-        },
-      ],
     }),
 };
 
-export default config; 
+export default config;

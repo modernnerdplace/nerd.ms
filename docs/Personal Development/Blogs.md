@@ -1,5 +1,5 @@
 ---
-title: 🧲 Blogs Podcasts Videos
+title: 🧲 Blogs
 sidebar_class_name: posts
 hide_table_of_contents: true
 custom_edit_url: null
@@ -12,8 +12,7 @@ import { columns } from "@site/src/tableHome/columns.table";
 import Icon from '/static/img/m365-header.svg';
 import commands from '/static/commands.json';
 
-#  🧲 Blogs Podcasts Videos
-
+#  🧲 Blogs 
 <CommandsTable
 applyFilter = 'Blogs'
 columns={columns}
