@@ -1,176 +1,180 @@
 import React from "react";
 import {
-  useTable,
-  useSortBy,
-  useGlobalFilter,
-  useAsyncDebounce,
-  useFilters,
-} from "react-table";
-import "regenerator-runtime";
-import { CommandsTable } from ".";
+  flexRender,
+  getCoreRowModel,
+  getFacetedRowModel,
+  getFacetedUniqueValues,
+  getFilteredRowModel,
+  getSortedRowModel,
+  useReactTable,
+} from "@tanstack/react-table";
 import "./style.css";
 import { SortIcon, SortDownIcon, SortUpIcon } from "../../shared/icons";
 
-// create a default prop getter
-const defaultPropGetter = () => ({});
-
-// our commands specific react-table
 const CommandsDataTable = ({
   columns,
   data,
-  applyFilter = '',
-  columnsToHide = [''],
-  getHeaderProps = defaultPropGetter,
-  getColumnProps = defaultPropGetter,
+  applyFilter = "",
+  columnsToHide = [""],
 }) => {
-  const {
-    getTableProps,
-    getTableBodyProps,
-    headerGroups,
-    rows,
-    prepareRow,
-    state, // new
-    preGlobalFilteredRows, // new
-    setGlobalFilter, // new
-  } = useTable(
-    {
-      columns,
-      data,
-      applyFilter,
-      columnsToHide,
-       initialState: { 
-        hiddenColumns: columnsToHide.concat(['keywords']),
-        filters: [
-          {
-            id: 'category',
-            value: applyFilter
-          }
-        ]
-      },
-    },
-    useFilters,
-    useGlobalFilter,
-    useSortBy,
+  const [globalFilter, setGlobalFilter] = React.useState("");
+  const [columnFilters, setColumnFilters] = React.useState(
+    applyFilter ? [{ id: "category", value: applyFilter }] : []
   );
 
-  // Render the UI for your table
+  const columnVisibility = React.useMemo(() => {
+    const hidden = ["keywords", ...columnsToHide].filter(Boolean);
+    return Object.fromEntries(hidden.map((id) => [id, false]));
+  }, [columnsToHide]);
+
+  const table = useReactTable({
+    data,
+    columns,
+    state: { globalFilter, columnFilters, columnVisibility },
+    onGlobalFilterChange: setGlobalFilter,
+    onColumnFiltersChange: setColumnFilters,
+    getCoreRowModel: getCoreRowModel(),
+    getSortedRowModel: getSortedRowModel(),
+    getFilteredRowModel: getFilteredRowModel(),
+    getFacetedRowModel: getFacetedRowModel(),
+    getFacetedUniqueValues: getFacetedUniqueValues(),
+  });
+
   return (
     <>
       <div className="flex gap-x-2">
-          {headerGroups.map((headerGroup) =>
-            headerGroup.headers.map((column) =>
-              column.Filter && applyFilter.length === 0 ? (
-                <div key={column.id}>{column.render("Filter")}</div>
-              ) : null
-            )
-          )
-          }
+        {applyFilter.length === 0 && (
+          <CategoryFilter column={table.getColumn("category")} />
+        )}
         <GlobalFilter
-          preGlobalFilteredRows={preGlobalFilteredRows}
-          globalFilter={state.globalFilter}
-          setGlobalFilter={setGlobalFilter}
+          value={globalFilter}
+          onChange={setGlobalFilter}
           applyFilter={applyFilter}
         />
       </div>
 
-          <div className="py-2 ">
-            <div className="overflow-x-auto">
-              <table
-                {...getTableProps()}
-                className="min-w-full divide-y divide-gray-200 table-fixed"
-              >
-                <thead className="">
-                  {headerGroups.map((headerGroup) => (
-                    <tr {...headerGroup.getHeaderGroupProps()}>
-                      {headerGroup.headers.map((column) => (
-                        // Add the sorting props to control sorting. For this example
-                        // we can add them into the header props
-                        <th
-                          scope="col"
-                          className="group px-6 py-2 text-left text-xs font-medium uppercase tracking-wider"
-                          {...column.getHeaderProps(
-                            column.getSortByToggleProps()
-                          )}
-                        >
-                          <div className="flex items-center justify-between">
-                            {column.render("Header")}
-                            {/* Add a sort direction indicator */}
-                            <span>
-                              {column.isSorted ? (
-                                column.isSortedDesc ? (
-                                  <SortDownIcon className="w-4 h-4 text-gray-400" />
-                                ) : (
-                                  <SortUpIcon className="w-4 h-4 text-gray-400" />
-                                )
-                              ) : (
-                                <SortIcon className="w-4 h-4 text-gray-400 opacity-0 group-hover:opacity-100" />
-                              )}
-                            </span>
-                          </div>
-                        </th>
-                      ))}
-                    </tr>
-                  ))}
-                </thead>
-                <tbody
-                  {...getTableBodyProps()}
-                  className="divide-y divide-gray-200"
-                >
-                  {rows.map((row, i) => {
-                    // new
-                    prepareRow(row);
+      <div className="py-2 ">
+        <div className="overflow-x-auto">
+          <table className="min-w-full divide-y divide-gray-200 table-fixed">
+            <thead>
+              {table.getHeaderGroups().map((headerGroup) => (
+                <tr key={headerGroup.id}>
+                  {headerGroup.headers.map((header) => {
+                    const sorted = header.column.getIsSorted();
+                    const canSort = header.column.getCanSort();
                     return (
-                      <tr 
-                        class="hover:bg-gray-50 dark:hover:bg-gray-600"
-                        {...row.getRowProps()}>
-                        {row.cells.map((cell) => {
-                          return (
-                            <td
-                              {...cell.getCellProps({
-                                className: cell.column.className
-                              })}                              
-                            >
-                              {cell.render("Cell")}
-                            </td>
-                          );
-                        })}
-                      </tr>
+                      <th
+                        key={header.id}
+                        scope="col"
+                        className="group px-6 py-2 text-left text-xs font-medium uppercase tracking-wider"
+                        onClick={
+                          canSort
+                            ? header.column.getToggleSortingHandler()
+                            : undefined
+                        }
+                        style={{ cursor: canSort ? "pointer" : "default" }}
+                      >
+                        <div className="flex items-center justify-between">
+                          {header.isPlaceholder
+                            ? null
+                            : flexRender(
+                                header.column.columnDef.header,
+                                header.getContext()
+                              )}
+                          <span>
+                            {sorted === "desc" ? (
+                              <SortDownIcon className="w-4 h-4 text-gray-400" />
+                            ) : sorted === "asc" ? (
+                              <SortUpIcon className="w-4 h-4 text-gray-400" />
+                            ) : (
+                              <SortIcon className="w-4 h-4 text-gray-400 opacity-0 group-hover:opacity-100" />
+                            )}
+                          </span>
+                        </div>
+                      </th>
                     );
                   })}
-                </tbody>
-              </table>
-            </div>
+                </tr>
+              ))}
+            </thead>
+            <tbody className="divide-y divide-gray-200">
+              {table.getRowModel().rows.map((row) => (
+                <tr
+                  key={row.id}
+                  className="hover:bg-gray-50 dark:hover:bg-gray-600"
+                >
+                  {row.getVisibleCells().map((cell) => (
+                    <td
+                      key={cell.id}
+                      className={cell.column.columnDef.meta?.className}
+                    >
+                      {flexRender(
+                        cell.column.columnDef.cell,
+                        cell.getContext()
+                      )}
+                    </td>
+                  ))}
+                </tr>
+              ))}
+            </tbody>
+          </table>
         </div>
+      </div>
     </>
   );
 };
 
-function GlobalFilter({
-  preGlobalFilteredRows,
-  globalFilter,
-  setGlobalFilter,
-  applyFilter,
-}) {
-  const count = preGlobalFilteredRows.length;
-  const [value, setValue] = React.useState(globalFilter);
-  const onChange = useAsyncDebounce((value) => {
-    setGlobalFilter(value || undefined);
-  }, 1);
+function GlobalFilter({ value, onChange, applyFilter }) {
+  const [local, setLocal] = React.useState(value ?? "");
+
+  React.useEffect(() => {
+    const id = setTimeout(() => onChange(local || ""), 200);
+    return () => clearTimeout(id);
+  }, [local, onChange]);
 
   return (
-    <label className={`flex items-baseline w-96 ${applyFilter.length === 0 ? "gap-x-2" : ""}`} >
+    <label
+      className={`flex items-baseline w-96 ${
+        applyFilter.length === 0 ? "gap-x-2" : ""
+      }`}
+    >
       <span></span>
       <input
         type="text"
         autoFocus
-        class="mt-1 block w-full rounded-md border-gray-300  focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:bg-zinc-800 dark:border-gray-700 searchbox"
-        value={value || ""}
-        onChange={(e) => {
-          setValue(e.target.value);
-          onChange(e.target.value);
-        }}
-        placeholder={`Search commands...`}
+        className="mt-1 block w-full rounded-md border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:bg-zinc-800 dark:border-gray-700 searchbox"
+        value={local}
+        onChange={(e) => setLocal(e.target.value)}
+        placeholder="Search commands..."
       />
+    </label>
+  );
+}
+
+function CategoryFilter({ column }) {
+  if (!column) return null;
+
+  const options = Array.from(column.getFacetedUniqueValues().keys())
+    .filter((v) => v !== undefined && v !== "")
+    .sort();
+
+  return (
+    <label className="flex gap-x-2 items-baseline">
+      <select
+        className="mt-1 block rounded-md border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:bg-zinc-800 dark:border-gray-700"
+        aria-label="Select category"
+        name={column.id}
+        id={column.id}
+        value={column.getFilterValue() ?? ""}
+        onChange={(e) => column.setFilterValue(e.target.value || undefined)}
+      >
+        <option value="">All Microsoft Portals</option>
+        {options.map((option, i) => (
+          <option key={i} value={option}>
+            {option}
+          </option>
+        ))}
+      </select>
     </label>
   );
 }
