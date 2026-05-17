@@ -90,6 +90,12 @@ const config = {
             ],
           },
           {
+            title: 'Partners',
+            items: [
+              { label: 'Golden Master', href: 'https://goldenmaster.cloud' },
+            ],
+          },
+          {
             title: 'Community',
             items: [
               {
@@ -102,7 +108,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Nerd.ms.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Nerd.ms · In samenwerking met <a href="https://goldenmaster.cloud" target="_blank" rel="noopener noreferrer">Golden Master</a>`,
       },
       prism: {
         theme: lightCodeTheme,

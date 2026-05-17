@@ -205,3 +205,15 @@ img[class^="cat-"], img[class*=" cat-"] {
     padding: 0.4rem 0.55rem;
   }
 }
+
+/* ── Footer copyright partner link ─────────────────── */
+.footer__copyright a {
+  color: var(--ifm-color-primary-lightest);
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.15s;
+}
+.footer__copyright a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
