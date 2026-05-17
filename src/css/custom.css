@@ -42,6 +42,8 @@ li > a.menu__link {
   justify-content: flex-start;
 }
 
+/* Only pages whose title doesn't already start with an emoji get an SVG icon.
+   Adding an icon here on top of an emoji title would render two icons in the sidebar. */
 .azure a::before,
 .azuread a::before,
 .entraid a::before,
@@ -49,10 +51,6 @@ li > a.menu__link {
 .m365 a::before,
 .mypages a::before,
 .defender a::before,
-.posts a::before,
-.partnercenter a::before,
-.Enduser a::before,
-.Exchange a::before,
 .purview a::before {
   padding-right: 0.5rem;
   width: 1.25rem;
@@ -61,18 +59,14 @@ li > a.menu__link {
   vertical-align: -0.25rem;
 }
 
-.azure a::before        { content: url(/static/img/azure.svg); }
-.azuread a::before      { content: url(/static/img/azuread.svg); }
-.entraid a::before      { content: url(/static/img/entraid.svg); }
-.intune a::before       { content: url(/static/img/intune.svg); }
-.m365 a::before         { content: url(/static/img/m365.svg); }
-.mypages a::before      { content: url(/static/img/mypages.svg); }
-.defender a::before     { content: url(/static/img/defender.svg); }
-.posts a::before        { content: url(/static/img/general.svg); }
-.partnercenter a::before{ content: url(/static/img/m365.svg); }
-.Enduser a::before      { content: url(/static/img/general.svg); }
-.Exchange a::before     { content: url(/static/img/m365.svg); }
-.purview a::before      { content: url(/static/img/general.svg); }
+.azure a::before    { content: url(/static/img/azure.svg); }
+.azuread a::before  { content: url(/static/img/azuread.svg); }
+.entraid a::before  { content: url(/static/img/entraid.svg); }
+.intune a::before   { content: url(/static/img/intune.svg); }
+.m365 a::before     { content: url(/static/img/m365.svg); }
+.mypages a::before  { content: url(/static/img/mypages.svg); }
+.defender a::before { content: url(/static/img/defender.svg); }
+.purview a::before  { content: url(/static/img/general.svg); }
 
 /* ── Category icon column in the table ────────────── */
 img[class^="cat-"], img[class*=" cat-"] {
