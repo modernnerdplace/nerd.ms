@@ -2,25 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.searchbox {
-  --tw-shadow: 0 0 #012eb7;
-  appearance: none;
-  background-color: #0000;
-  border-width: 1px;
-  font-size: 1rem;
-  line-height: 1.5rem;
-  padding: .5rem .75rem;  
-}
-.searchbox:focus-visible{
-  outline:  #b4d0fd;
-}
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
@@ -31,9 +12,14 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  --nerd-toolbar-bg: #f8fafc;
+  --nerd-toolbar-border: #e2e8f0;
+  --nerd-input-bg: #ffffff;
+  --nerd-row-stripe: #f8fafc;
+  --nerd-row-hover: #eef2ff;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
@@ -43,99 +29,139 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+  --nerd-toolbar-bg: #1f2937;
+  --nerd-toolbar-border: #374151;
+  --nerd-input-bg: #111827;
+  --nerd-row-stripe: rgba(255, 255, 255, 0.02);
+  --nerd-row-hover: rgba(99, 102, 241, 0.12);
 }
 
-
-/* Override non-category links to be horizonally compact */
+/* ── Sidebar item icons ────────────────────────────── */
 li > a.menu__link {
   justify-content: flex-start;
 }
 
-.azure a::before {
+.azure a::before,
+.azuread a::before,
+.entraid a::before,
+.intune a::before,
+.m365 a::before,
+.mypages a::before,
+.defender a::before,
+.posts a::before,
+.partnercenter a::before,
+.Enduser a::before,
+.Exchange a::before,
+.purview a::before {
   padding-right: 0.5rem;
-  content: url(/static/img/azure.svg);
+  width: 1.25rem;
+  height: 1.25rem;
+  display: inline-block;
+  vertical-align: -0.25rem;
 }
 
-.azuread a::before {
-  padding-right: 0.5rem;
-  content: url(/static/img/azuread.svg);
+.azure a::before        { content: url(/static/img/azure.svg); }
+.azuread a::before      { content: url(/static/img/azuread.svg); }
+.entraid a::before      { content: url(/static/img/entraid.svg); }
+.intune a::before       { content: url(/static/img/intune.svg); }
+.m365 a::before         { content: url(/static/img/m365.svg); }
+.mypages a::before      { content: url(/static/img/mypages.svg); }
+.defender a::before     { content: url(/static/img/defender.svg); }
+.posts a::before        { content: url(/static/img/general.svg); }
+.partnercenter a::before{ content: url(/static/img/m365.svg); }
+.Enduser a::before      { content: url(/static/img/general.svg); }
+.Exchange a::before     { content: url(/static/img/m365.svg); }
+.purview a::before      { content: url(/static/img/general.svg); }
+
+/* ── Category icon column in the table ────────────── */
+img[class^="cat-"], img[class*=" cat-"] {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  display: inline-block;
 }
 
-.entraid a::before {
-  padding-right: 0.5rem;
-  content: url(/static/img/entraid.svg);
+.cat-azure                   { content: url('/static/img/azure.svg'); }
+.cat-azure-active-directory  { content: url('/static/img/azuread.svg'); }
+.cat-entra                   { content: url('/static/img/entraid.svg'); }
+.cat-intune                  { content: url('/static/img/intune.svg'); }
+.cat-microsoft-365           { content: url('/static/img/m365.svg'); }
+.cat-my-pages                { content: url('/static/img/mypages.svg'); }
+.cat-defender                { content: url('/static/img/defender.svg'); }
+.cat-general                 { content: url('/static/img/general.svg'); }
+.cat-purview                 { content: url('/static/img/general.svg'); }
+.cat-enduser                 { content: url('/static/img/general.svg'); }
+.cat-partnercenter           { content: url('/static/img/m365.svg'); }
+.cat-exchange                { content: url('/static/img/m365.svg'); }
+.cat-blogs,
+.cat-blog,
+.cat-nieuws,
+.cat-ninja,
+.cat-learn,
+.cat-learn-cert,
+.cat-other                   { content: url('/static/img/general.svg'); }
+
+/* ── Search input + category dropdown ──────────────── */
+.searchbox {
+  appearance: none;
+  background-color: var(--nerd-input-bg);
+  border: 1px solid var(--nerd-toolbar-border);
+  border-radius: 0.5rem;
+  font-size: 0.95rem;
+  line-height: 1.5rem;
+  padding: 0.55rem 0.85rem;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.searchbox::placeholder {
+  color: #94a3b8;
+}
+.searchbox:focus,
+.searchbox:focus-visible {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--ifm-color-primary) 25%, transparent);
 }
 
-.intune a::before {
-  padding-right: 0.5rem;
-  content: url(/static/img/intune.svg);
+.category-filter {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-color: var(--nerd-input-bg);
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='%2364748b'%3e%3cpath fill-rule='evenodd' d='M5.23 7.21a.75.75 0 011.06.02L10 11.06l3.71-3.83a.75.75 0 111.08 1.04l-4.25 4.39a.75.75 0 01-1.08 0L5.21 8.27a.75.75 0 01.02-1.06z' clip-rule='evenodd'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 0.6rem center;
+  background-size: 1.1rem;
+  border: 1px solid var(--nerd-toolbar-border);
+  border-radius: 0.5rem;
+  padding: 0.55rem 2.25rem 0.55rem 0.85rem;
+  font-size: 0.95rem;
+  line-height: 1.5rem;
+  cursor: pointer;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.category-filter:focus,
+.category-filter:focus-visible {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--ifm-color-primary) 25%, transparent);
 }
 
-.m365 a::before {
-  padding-right: 0.5rem;
-  content: url(/static/img/m365.svg);
+.commands-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  padding: 0.85rem;
+  background: var(--nerd-toolbar-bg);
+  border: 1px solid var(--nerd-toolbar-border);
+  border-radius: 0.75rem;
+  margin-bottom: 1rem;
 }
-
-.mypages a::before {
-  padding-right: 0.5rem;
-  content: url(/static/img/mypages.svg);
+.commands-toolbar > * {
+  flex: 1 1 220px;
+  min-width: 200px;
 }
-
-.defender a::before {
-  padding-right: 0.5rem;
-  content: url(/static/img/defender.svg);
-}
-
-.cat-azure {
-  content:url('/static/img/azure.svg');
-}
-
-.cat-azure-active-directory {
-  content:url('/static/img/azuread.svg');
-}
-
-.cat-entra {
-  content:url('/static/img/entraid.svg');
-}
-
-.cat-intune {
-  content:url('/static/img/intune.svg');
-}
-
-.cat-microsoft-365 {
-  content:url('/static/img/m365.svg');
-}
-
-.cat-my-pages {
-  content:url('/static/img/mypages.svg');
-}
-
-.cat-defender {
-  content:url('/static/img/defender.svg');
-}
-
-.cat-general {
-  content:url('/static/img/general.svg');
-}
-
-.cat-purview {
-  content:url('/static/img/general.svg');
-}
-
-.cat-enduser {
-  content:url('/static/img/general.svg');
-}
-
-.cat-partnercenter {
-  content:url('/static/img/m365.svg');
-}
-
-.cat-exchange {
-  content:url('/static/img/m365.svg');
-}
-
-.header-nerd-link {
-  width: 230px; 
- 
-  
+.commands-toolbar .searchbox {
+  width: 100%;
 }

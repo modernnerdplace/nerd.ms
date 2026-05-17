@@ -42,20 +42,16 @@ const CommandsDataTable = ({
 
   return (
     <>
-      <div className="flex gap-x-2">
+      <div className="commands-toolbar">
+        <GlobalFilter value={globalFilter} onChange={setGlobalFilter} />
         {applyFilter.length === 0 && (
           <CategoryFilter column={table.getColumn("category")} />
         )}
-        <GlobalFilter
-          value={globalFilter}
-          onChange={setGlobalFilter}
-          applyFilter={applyFilter}
-        />
       </div>
 
-      <div className="py-2 ">
+      <div className="commands-table-wrapper">
         <div className="overflow-x-auto">
-          <table className="min-w-full divide-y divide-gray-200 table-fixed">
+          <table className="commands-table">
             <thead>
               {table.getHeaderGroups().map((headerGroup) => (
                 <tr key={headerGroup.id}>
@@ -66,7 +62,6 @@ const CommandsDataTable = ({
                       <th
                         key={header.id}
                         scope="col"
-                        className="group px-6 py-2 text-left text-xs font-medium uppercase tracking-wider"
                         onClick={
                           canSort
                             ? header.column.getToggleSortingHandler()
@@ -81,15 +76,17 @@ const CommandsDataTable = ({
                                 header.column.columnDef.header,
                                 header.getContext()
                               )}
-                          <span>
-                            {sorted === "desc" ? (
-                              <SortDownIcon className="w-4 h-4 text-gray-400" />
-                            ) : sorted === "asc" ? (
-                              <SortUpIcon className="w-4 h-4 text-gray-400" />
-                            ) : (
-                              <SortIcon className="w-4 h-4 text-gray-400 opacity-0 group-hover:opacity-100" />
-                            )}
-                          </span>
+                          {canSort && (
+                            <span>
+                              {sorted === "desc" ? (
+                                <SortDownIcon className="sort-indicator active" />
+                              ) : sorted === "asc" ? (
+                                <SortUpIcon className="sort-indicator active" />
+                              ) : (
+                                <SortIcon className="sort-indicator" />
+                              )}
+                            </span>
+                          )}
                         </div>
                       </th>
                     );
@@ -97,23 +94,24 @@ const CommandsDataTable = ({
                 </tr>
               ))}
             </thead>
-            <tbody className="divide-y divide-gray-200">
+            <tbody>
               {table.getRowModel().rows.map((row) => (
-                <tr
-                  key={row.id}
-                  className="hover:bg-gray-50 dark:hover:bg-gray-600"
-                >
-                  {row.getVisibleCells().map((cell) => (
-                    <td
-                      key={cell.id}
-                      className={cell.column.columnDef.meta?.className}
-                    >
-                      {flexRender(
-                        cell.column.columnDef.cell,
-                        cell.getContext()
-                      )}
-                    </td>
-                  ))}
+                <tr key={row.id}>
+                  {row.getVisibleCells().map((cell) => {
+                    const baseClass = cell.column.columnDef.meta?.className ?? "";
+                    const colClass = `col-${cell.column.id}`;
+                    return (
+                      <td
+                        key={cell.id}
+                        className={`${baseClass} ${colClass}`.trim()}
+                      >
+                        {flexRender(
+                          cell.column.columnDef.cell,
+                          cell.getContext()
+                        )}
+                      </td>
+                    );
+                  })}
                 </tr>
               ))}
             </tbody>
@@ -124,7 +122,7 @@ const CommandsDataTable = ({
   );
 };
 
-function GlobalFilter({ value, onChange, applyFilter }) {
+function GlobalFilter({ value, onChange }) {
   const [local, setLocal] = React.useState(value ?? "");
 
   React.useEffect(() => {
@@ -133,21 +131,15 @@ function GlobalFilter({ value, onChange, applyFilter }) {
   }, [local, onChange]);
 
   return (
-    <label
-      className={`flex items-baseline w-96 ${
-        applyFilter.length === 0 ? "gap-x-2" : ""
-      }`}
-    >
-      <span></span>
-      <input
-        type="text"
-        autoFocus
-        className="mt-1 block w-full rounded-md border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:bg-zinc-800 dark:border-gray-700 searchbox"
-        value={local}
-        onChange={(e) => setLocal(e.target.value)}
-        placeholder="Search commands..."
-      />
-    </label>
+    <input
+      type="text"
+      autoFocus
+      className="searchbox"
+      value={local}
+      onChange={(e) => setLocal(e.target.value)}
+      placeholder="Zoek een command, omschrijving, URL…"
+      aria-label="Zoek commands"
+    />
   );
 }
 
@@ -159,23 +151,21 @@ function CategoryFilter({ column }) {
     .sort();
 
   return (
-    <label className="flex gap-x-2 items-baseline">
-      <select
-        className="mt-1 block rounded-md border-gray-300 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 dark:bg-zinc-800 dark:border-gray-700"
-        aria-label="Select category"
-        name={column.id}
-        id={column.id}
-        value={column.getFilterValue() ?? ""}
-        onChange={(e) => column.setFilterValue(e.target.value || undefined)}
-      >
-        <option value="">All Microsoft Portals</option>
-        {options.map((option, i) => (
-          <option key={i} value={option}>
-            {option}
-          </option>
-        ))}
-      </select>
-    </label>
+    <select
+      className="category-filter"
+      aria-label="Filter op categorie"
+      name={column.id}
+      id={column.id}
+      value={column.getFilterValue() ?? ""}
+      onChange={(e) => column.setFilterValue(e.target.value || undefined)}
+    >
+      <option value="">Alle categorieën</option>
+      {options.map((option, i) => (
+        <option key={i} value={option}>
+          {option}
+        </option>
+      ))}
+    </select>
   );
 }
 

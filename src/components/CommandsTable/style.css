@@ -1,19 +1,87 @@
-.commands-data-table.left {
-  text-align: left;
-}
-
-.commands-data-table.right {
-  text-align: right;
-}
-
-.commands-data-table, .commands-data-table.center {
-  text-align: center;
-}
+.commands-data-table.left   { text-align: left; }
+.commands-data-table.right  { text-align: right; }
+.commands-data-table,
+.commands-data-table.center { text-align: center; }
 
 .col-url {
-  white-space: nowrap; 
-  text-overflow:ellipsis; 
+  white-space: nowrap;
+  text-overflow: ellipsis;
   overflow: hidden;
   max-width: 400px;
   width: 80%;
+}
+
+.commands-table-wrapper {
+  border: 1px solid var(--nerd-toolbar-border);
+  border-radius: 0.75rem;
+  overflow: hidden;
+  background: var(--nerd-input-bg);
+}
+
+.commands-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.commands-table thead th {
+  background: var(--nerd-toolbar-bg);
+  border-bottom: 1px solid var(--nerd-toolbar-border);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #475569;
+  padding: 0.65rem 1rem;
+  user-select: none;
+  white-space: nowrap;
+}
+[data-theme='dark'] .commands-table thead th {
+  color: #cbd5e1;
+}
+
+.commands-table tbody td {
+  padding: 0.55rem 1rem;
+  border-bottom: 1px solid var(--nerd-toolbar-border);
+  vertical-align: middle;
+}
+
+.commands-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.commands-table tbody tr:nth-child(even) td {
+  background: var(--nerd-row-stripe);
+}
+
+.commands-table tbody tr:hover td {
+  background: var(--nerd-row-hover);
+}
+
+.commands-table .sort-indicator {
+  width: 0.9rem;
+  height: 0.9rem;
+  margin-left: 0.4rem;
+  color: #94a3b8;
+  opacity: 0.5;
+  transition: opacity 0.15s, color 0.15s;
+}
+.commands-table th:hover .sort-indicator,
+.commands-table .sort-indicator.active {
+  opacity: 1;
+  color: var(--ifm-color-primary);
+}
+
+.commands-table .col-command a {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.commands-table .col-url a {
+  color: #64748b;
+  font-size: 0.85rem;
+}
+[data-theme='dark'] .commands-table .col-url a {
+  color: #94a3b8;
 }
