@@ -87,6 +87,8 @@ img[class^="cat-"], img[class*=" cat-"] {
 .cat-purview                 { content: url('/static/img/general.svg'); }
 .cat-enduser                 { content: url('/static/img/general.svg'); }
 .cat-partnercenter           { content: url('/static/img/m365.svg'); }
+.cat-power-platform          { content: url('/static/img/general.svg'); }
+.cat-development             { content: url('/static/img/general.svg'); }
 .cat-exchange                { content: url('/static/img/m365.svg'); }
 .cat-blogs,
 .cat-blog,

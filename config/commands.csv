@@ -80,12 +80,12 @@ azoai;openai;Azure OpenAI Studio;;Azure;https://oai.azure.com/portal
 azcs;;Azure Content Safety;;Azure;https://contentsafety.cognitive.azure.com/
 azwb;;Azure Workbooks;;Azure;https://portal.azure.com/?feature.msaljs=true#view/HubsExtension/BrowseResource/resourceType/microsoft.insights%2Fworkbooks
 azroutes;;Route tables;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FrouteTables
-;;Defender for Endpoint Blog and KQL-Tools;;Blog;https://m365internals.com
+;;Defender for Endpoint Blog and KQL-Tools;;Blogs;https://m365internals.com
 ;Rudy Ooms;Call4Cloud;;Blogs;https://call4cloud.nl/
 ;Pater Daalmans;Modern Management Blog;;Blogs;https://configmgrblog.com/
 ;Joost Gelijsteen;Just about the Modern Workplace;;Blogs;https://joostgelijsteen.com/
 ;Fabio van der Burg;vdBurg.it;;Blogs;https://vdburg.it/#microsoft-blog
-;Peter van der Woude;All about Microsoft Intune;;Blogs;https://www.petervanderwoude.n
+;Peter van der Woude;All about Microsoft Intune;;Blogs;https://petervanderwoude.nl/
 ;Myron Helgering;Microsoft Security Blog;;Blogs;https://myronhelgering.com/
 ;Jeroen Burgerhout;Jeroen BurgerHout blog;;Blogs;https://www.burgerhout.org
 ;Gregor Reimling;Blog Reimling;;Blogs;https://reimling.eu/
@@ -185,7 +185,7 @@ appliedskills;;Microsoft Applied Skills;;Learn;https://learn.microsoft.com/crede
 ;;Microsoft Learn Cloud Games;;Learn;https://learn.microsoft.com/training/cloud-games
 ;;Microsoft Learn Exam Readiness Zone;;Learn;https://learn.microsoft.com/shows/exam-readiness-zone/
 ;;Microsoft Learn On Demand Instructor-led Training Series;;Learn;https://learn.microsoft.com/shows/on-demand-instructor-led-training-series/
-Learnprofile;;Microsoft Learn Profile;;Learn;https://aka.ms/LearnProfile
+Learnprofile;;Microsoft Learn Profile;;Learn;https://learn.microsoft.com/users/me/
 ;;Microsoft Shows;;Learn;https://learn.microsoft.com/shows/
 ;;Microsoft Virtual Training Days;;Learn;https://www.microsoft.com/en-ca/sites/microsoft-training-days
 ;;Practice Assessments for Microsoft Certifications;;Learn;https://learn.microsoft.com/credentials/certifications/practice-assessments-for-microsoft-certifications
@@ -194,6 +194,46 @@ training;;Training;;Learn;https://learn.microsoft.com/training/
 ;;Microsoft Security;;Learn;https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm
 ;;Kusto Detective Agency;;Learn;https://detective.kusto.io/
 ;;Must Learn KQL;;Learn;https://github.com/rod-trent/MustLearnKQL
+learnbrowse;;Browse all Microsoft Learn training content;training browse catalog courses;Learn;https://learn.microsoft.com/training/browse/
+learnpaths;;Browse Microsoft Learn learning paths;learning path curriculum;Learn;https://learn.microsoft.com/training/browse/?resource_type=learning%20path
+learnmodules;;Browse Microsoft Learn training modules;module lesson unit;Learn;https://learn.microsoft.com/training/modules/
+learnplans;;Microsoft Learn Plans - guided skilling plans;plan skilling roadmap;Learn;https://learn.microsoft.com/plans/
+learnqa;;Microsoft Q&A - technical questions and answers;qna question answer community;Learn;https://learn.microsoft.com/answers/
+learnsandbox;;Microsoft Learn Sandbox FAQ - free Azure sandbox for exercises;sandbox free azure lab;Learn;https://learn.microsoft.com/training/support/faq?pivots=sandbox
+learnorg;;Microsoft Learn for Organizations - team skilling;organization team skilling;Learn;https://learn.microsoft.com/training/organizations/
+learnstudent;;Microsoft Learn Student Hub;student school university;Learn;https://learn.microsoft.com/training/student-hub/
+learneducator;;Microsoft Learn Educator Center;educator teacher classroom;Learn;https://learn.microsoft.com/training/educator-center/
+learnchallenge;;Microsoft Learn Challenges - Cloud Skills Challenge;challenge cloud skills;Learn;https://learn.microsoft.com/training/challenges
+learnlive;;Microsoft Learn Live - live learning sessions;live stream session;Learn;https://learn.microsoft.com/shows/learn-live/
+learnme;;My Microsoft Learn profile;profile achievements xp;Learn;https://learn.microsoft.com/users/me/
+certdash;;My Microsoft credentials dashboard;dashboard my certifications;Learn;https://learn.microsoft.com/users/me/credentials/
+certtranscript;;My Microsoft Certification transcript;transcript history record;Learn;https://learn.microsoft.com/users/me/transcript/
+credentials;;Microsoft Credentials home;credentials certification overview;Learn;https://learn.microsoft.com/credentials/
+browsecreds;;Browse all Microsoft credentials;browse credentials all;Learn;https://learn.microsoft.com/credentials/browse/
+certexams;;Browse all Microsoft certification exams;exam list browse;Learn;https://learn.microsoft.com/credentials/browse/?credential_types=certification&resource_type=examination
+certazure;;Microsoft credentials for Azure;azure certification browse;Learn;https://learn.microsoft.com/credentials/browse/?products=azure
+certm365;;Microsoft credentials for Microsoft 365;m365 office certification;Learn;https://learn.microsoft.com/credentials/browse/?products=microsoft-365
+certsecurity;;Microsoft credentials for Security;security certification browse;Learn;https://learn.microsoft.com/credentials/browse/?products=security
+certadmin;;Microsoft credentials for administrators;administrator role credentials;Learn;https://learn.microsoft.com/credentials/browse/?roles=administrator
+appliedskillshub;;Microsoft Applied Skills overview;applied skills assessment lab;Learn;https://learn.microsoft.com/credentials/applied-skills
+certprocess;;Microsoft Certification process overview;process steps how to certify;Learn;https://learn.microsoft.com/credentials/certifications/certification-process-overview
+certschedule;;Schedule a Microsoft exam through Pearson VUE;schedule book exam pearson vue;Learn;https://learn.microsoft.com/credentials/certifications/schedule-through-pearson-vue
+certonline;;Take a Microsoft exam online with online proctoring;online proctored remote exam;Learn;https://learn.microsoft.com/credentials/certifications/online-exams
+certpolicy;;Microsoft Certification exam policies;policy rules nda reschedule;Learn;https://learn.microsoft.com/credentials/certifications/certification-exam-policies
+certretake;;Microsoft exam retake policy;retake fail again policy;Learn;https://learn.microsoft.com/credentials/support/retake-policy
+certduration;;Microsoft exam duration and exam experience;duration time question types;Learn;https://learn.microsoft.com/credentials/support/exam-duration-exam-experience
+certscore;;Microsoft exam scoring and score reports;score report passing 700;Learn;https://learn.microsoft.com/credentials/certifications/exam-scoring-reports
+certrenew;;Renew your Microsoft Certification for free;renew renewal free assessment;Learn;https://learn.microsoft.com/credentials/certifications/renew-your-microsoft-certification
+certrenewfaq;;Microsoft Certification renewal FAQ;renewal faq expire;Learn;https://learn.microsoft.com/credentials/certifications/renew-your-microsoft-certification-faq
+certbadge;;View use and share your Microsoft certificates and badges;badge share certificate credly;Learn;https://learn.microsoft.com/credentials/certifications/view-use-share-certificates-badges
+credly;;Microsoft Certification badges on Credly;credly badge digital verify;Learn;https://www.credly.com/organizations/microsoft-certification/badges
+certaccom;;Request Microsoft exam accommodations;accommodation extra time esl;Learn;https://learn.microsoft.com/credentials/certifications/request-accommodations
+certhelp;;Microsoft credentials support and help;support help contact credentials;Learn;https://learn.microsoft.com/credentials/support/help
+mct;;Microsoft Certified Trainer (MCT) program;mct trainer program apply;Learn;https://learn.microsoft.com/credentials/certifications/mct-certification
+pearsonvue;;Pearson VUE - Microsoft exam delivery and appointments;pearson vue appointment testing center;Learn;https://www.pearsonvue.com/us/en/microsoft.html
+onvue;;Pearson VUE OnVUE online exam delivery;onvue online proctoring system check;Learn;https://www.pearsonvue.com/us/en/microsoft/onvue.html
+mslabs;;MicrosoftLearning on GitHub - official lab and course repos;github labs courseware instructor;Learn;https://github.com/MicrosoftLearning
+reactor;;Microsoft Reactor - free community events and workshops;reactor events workshop community;Learn;https://developer.microsoft.com/en-us/reactor/
 ;;Microsoft Certified: Azure Fundamentals;AZ-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/azure-fundamentals/
 ;;AZ-900 Azure Fundamentals Exam;AZ-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/az-900/
 ;;AZ-900 Study Guide;AZ-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-900
@@ -636,7 +676,120 @@ puprivasrr;;Purview Priva Subject Rights Requests;;Microsoft 365;https://purview
 purecmon;;Purview Records Management;Records Management in Microsoft 365;Microsoft 365;https://purview.microsoft.com/recordsmanagement
 pusit;;Purview Sensitive Info Types;;Microsoft 365;https://purview.microsoft.com/cc/dataclassification/multicloudsensitiveinfotypes
 actionpack;;Microsoft Action Pack;;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/workspace/maps
+pchome;;Partner Center dashboard home;partner center start;PartnerCenter;https://partner.microsoft.com/dashboard/home
+pcmembership;;Membership workspace overview;mpn membership;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/workspace/overview
+bizapps;;Solutions Partner Business Applications;solution area;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/program/solutionspartner/solutionareas/bizapps
+specializations;;Specializations;advanced specialization;PartnerCenter;https://partner.microsoft.com/dashboard/v2/membership/advancedspecialization
+pcbenefits;;Partner benefits;cloud benefits;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/cloud
+azurecredits;;Azure benefits and credits;monthly azure credits;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/azure
+pctechsupport;;Technical support benefits;support incidents;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/technicalsupport
+pcpresales;;Partner technical presales and deployment services;ptds;PartnerCenter;https://partner.microsoft.com/dashboard/v2/benefits/technicalpresales
+pccustomers;;Customers workspace;csp customer list;PartnerCenter;https://partner.microsoft.com/dashboard/v2/customers/list
+gdap;;Granular delegated admin privileges relationships;gdap gda;PartnerCenter;https://partner.microsoft.com/dashboard/commerce2/granularadminaccess/list
+gdapexpiring;;Expiring granular admin relationships;gdap renewal;PartnerCenter;https://partner.microsoft.com/dashboard/v2/customers/expiringgranularrelationships
+gdapanalytics;;GDAP relationship analytics;;PartnerCenter;https://partner.microsoft.com/dashboard/insights/partnerinsights/gdapanalytics
+indirectresellers;;Indirect resellers;csp indirect provider;PartnerCenter;https://partner.microsoft.com/dashboard/v2/customers/indirectresellers
+pcbilling;;Billing workspace;invoices reconciliation;PartnerCenter;https://partner.microsoft.com/dashboard/billing
+pcpricelist;;CSP price lists;pricing;PartnerCenter;https://partner.microsoft.com/dashboard/pricing/pricelist
+pcearnings;;Earnings workspace;incentive earnings;PartnerCenter;https://partner.microsoft.com/dashboard/earnings/earnings
+pcpayouts;;Payouts incentive payment reports;payment status;PartnerCenter;https://partner.microsoft.com/dashboard/payouts/reports/incentivepayments
+payeeprofile;;Payout and tax profiles;bank tax profile;PartnerCenter;https://partner.microsoft.com/dashboard/payee/profiles/partner/manage
+incentives;;Incentives program enrollment;;PartnerCenter;https://partner.microsoft.com/dashboard/incentives/enrollment/summary
+engagements;;Microsoft Commercial Incentives engagements;mci claims workshops;PartnerCenter;https://partner.microsoft.com/dashboard/incentives/engagements/ux/
+pcinsights;;Insights analytics workspace;;PartnerCenter;https://partner.microsoft.com/dashboard/insights/analytics/overview
+scorecard;;Solutions Partner scorecard and score simulator;partner capability score;PartnerCenter;https://partner.microsoft.com/dashboard/insights/mpninsights/solutionspartner
+downloadshub;;Insights downloads hub;export reports;PartnerCenter;https://partner.microsoft.com/dashboard/insights/analytics/downloadshub
+pcleads;;Referrals leads;co-sell referrals;PartnerCenter;https://partner.microsoft.com/dashboard/referrals/v2/leads
+mpoffers;;Commercial marketplace offers;marketplace publishing;PartnerCenter;https://partner.microsoft.com/dashboard/marketplace-offers/overview
+pcusers;;Users and permissions;user management roles;PartnerCenter;https://partner.microsoft.com/dashboard/account/v3/usermanagement
+pclegalinfo;;Account settings legal info;partner profile mpn id;PartnerCenter;https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo
+pcagreements;;Partner agreements;mpa microsoft partner agreement;PartnerCenter;https://partner.microsoft.com/dashboard/account/v3/settings/agreements
+pcsecurity;;Partner security requirements;mfa secure app model;PartnerCenter;https://partner.microsoft.com/dashboard/v2/security/requirements
+pcticket;;Create a partner support request;partner support ticket;PartnerCenter;https://partner.microsoft.com/dashboard/support/servicerequests/create
+pcsupport;;Partner support;help;PartnerCenter;https://partner.microsoft.com/support?stage=1
+azureexpertmsp;;Azure Expert MSP program;;PartnerCenter;https://partner.microsoft.com/partnership/azure-expert-msp
+solutionspartner;;Solutions Partner designations;;PartnerCenter;https://partner.microsoft.com/partnership/solutions-partner
+cspprogram;;Cloud Solution Provider program;csp;PartnerCenter;https://partner.microsoft.com/partnership/cloud-solution-provider
+partnerincentives;;Partner incentives programs;;PartnerCenter;https://partner.microsoft.com/partnership/partner-incentives
+mci;;Microsoft Commercial Incentives;;PartnerCenter;https://aka.ms/mci
+incentivesguide;;Microsoft Partner Incentives Guide;;PartnerCenter;https://aka.ms/incentivesguide
+pcdocs;;Partner Center documentation;;PartnerCenter;https://learn.microsoft.com/en-us/partner-center/
+pcapi;;Partner Center developer and API documentation;rest api sdk;PartnerCenter;https://learn.microsoft.com/en-us/partner-center/developer/
+gdapdocs;;Granular delegated admin privileges documentation;;PartnerCenter;https://learn.microsoft.com/en-us/partner-center/customers/gdap-introduction
 ;;Modern Nerdplace;;Blogs;https://open.spotify.com/show/6BplO9t7XhNoduLgFSVqAV
+;Niall Brady;windows-noob;;Blogs;https://www.windows-noob.com/
+;Anoop C Nair;HTMD Blog;;Blogs;https://www.anoopcnair.com/
+;Ugur Koc;Intune and security blog;;Blogs;https://ugurkoc.de/
+;Nicola Suter;Nicola Suter blog;;Blogs;https://nicolasuter.ch/
+;Andrew Taylor;Andrew Taylor blog;;Blogs;https://andrewstaylor.com/
+;Sandy Zeng;Sandy Zeng blog;;Blogs;https://sandyzeng.com/
+;Oktay Sari;All Things Cloud;;Blogs;https://allthingscloud.blog/
+;Michael Niehaus;Out of Office Hours;;Blogs;https://oofhours.com/
+;Damien Van Robaeys;System and Deploy;;Blogs;https://www.systanddeploy.com/
+;Martin Bengtsson;imab.dk;;Blogs;https://www.imab.dk/
+;;MSEndpointMgr;;Blogs;https://msendpointmgr.com/
+;Merill Fernando;merill.net;;Blogs;https://merill.net/
+;Daniel Bradley;Our Cloud Network;;Blogs;https://ourcloudnetwork.com/
+;;Practical 365;;Blogs;https://practical365.com/
+;;Microsoft 365 for IT Pros;;Blogs;https://office365itpros.com/
+;Joao Ferreira;Hands on Tek;;Blogs;https://handsontek.net/
+;Thomas Naunheim;Cloud Architekt;;Blogs;https://www.cloud-architekt.net/
+;Fabian Bader;Cloudbrothers;;Blogs;https://cloudbrothers.info/
+;Sami Lamppu;Sami Lamppu blog;;Blogs;https://samilamppu.com/
+;Jeffrey Appel;Microsoft security blog;;Blogs;https://jeffreyappel.nl/
+;Kenneth van Surksum;Modern Workplace blog;;Blogs;https://www.vansurksum.com/
+;Marius Sandbu;msandbu.org;;Blogs;https://msandbu.org/
+;Dirk-jan Mollema;dirkjanm.io;;Blogs;https://dirkjanm.io/
+;Aaron Dinnage;M365 Maps licensing diagrams;;Blogs;https://m365maps.com/
+;Ru Campbell;Microsoft security blog;;Blogs;https://campbell.scot/
+;Alex Verboon;verboon.info;;Blogs;https://www.verboon.info/
+;;T-Minus365;;Blogs;https://tminus365.com/
+;Rod Trent;Rod Trent on Substack;;Blogs;https://rodtrent.substack.com/
+;;SMBtotheCloud;;Blogs;https://smbtothecloud.com/
+;Jos Lieben;Liebensraum;;Blogs;https://lieben.nu/liebensraum/
+;Bas Wijdenes;Bas Wijdenes blog;;Blogs;https://baswijdenes.com/
+;Jan Bakker;janbakker.tech;;Blogs;https://janbakker.tech/
+;Nathan McNulty;Nathan McNulty blog;;Blogs;https://nathanmcnulty.com/
+;Oliver Kieselbach;Modern IT - Cloud - Workplace;intune windows autopilot;Blogs;https://oliverkieselbach.com/
+;Ben Whitmore;byteben;intune configmgr;Blogs;https://byteben.com/
+;Adam Gross;A Square Dozen;intune configmgr;Blogs;https://www.asquaredozen.com/
+;Trevor Jones;SMSAgent;intune configmgr powershell;Blogs;https://smsagent.blog/
+;Jörgen Nilsson;CCMEXEC.COM;intune configmgr;Blogs;https://ccmexec.com/
+;Johan Arwidmark;Deployment Research;windows deployment configmgr;Blogs;https://www.deploymentresearch.com/
+;Florian Salzmann;scloud;intune entra windows 365;Blogs;https://scloud.work/en/
+;Peter Klapwijk;In The Cloud 24-7;intune modern workplace;Blogs;https://www.inthecloud247.com/
+;Sean Bulger;Managed Modern Endpoint;intune endpoint management;Blogs;https://www.modernendpoint.com/
+;Sander Berkouwer;The things that are better left unspoken;entra identity active directory;Blogs;https://dirteam.com/sander/
+;Daniel Chronlund;Daniel Chronlund Tech Blog;entra conditional access security;Blogs;https://danielchronlund.com/
+;Darren Robinson;darrenjrobinson;identity graph powershell;Blogs;https://blog.darrenjrobinson.com/
+;Marius Solbakken;Good Workaround!;entra identity;Blogs;https://goodworkaround.com/
+;Jan Vidar Elven;GoToGuy Blog;entra identity azure;Blogs;https://gotoguy.blog/
+;Bert-Jan Pals;KQL Query;kql defender sentinel;Blogs;https://kqlquery.com/
+;;Microsoft Sentinel 101;sentinel kql;Blogs;https://learnsentinel.blog/
+;Sebastian Flæng Markdanner;Cloudy With a Chance Of Security;entra intune security;Blogs;https://www.chanceofsecurity.com/
+;;Hybrid Brothers;security entra defender;Blogs;https://hybridbrothers.com/
+;Olaf Hartong;Olaf Hartong;defender detection engineering;Blogs;https://olafhartong.nl/
+;;365 by Thijs;security sentinel intune;Blogs;https://365bythijs.be/
+;Thomas Maurer;Thomas Maurer;azure hybrid cloud;Blogs;https://www.thomasmaurer.ch/
+;Didier Van Hoye;Working Hard In IT;azure hyper-v storage;Blogs;https://workinghardinit.work/
+;Wim Matthyssen;My Journey with the Microsoft Hybrid Cloud;azure hybrid powershell;Blogs;https://wmatthyssen.com/
+;;4bes.nl;azure powershell automation;Blogs;https://4bes.nl/
+;Adam Marczak;Marczak.IO;azure;Blogs;https://marczak.io/
+;Sander Rozemuller;Sander Rozemuller;avd intune automation;Blogs;https://rozemuller.com/
+;Michel de Rooij;EighTwOne;exchange powershell;Blogs;https://eightwone.com/
+;Vesa Nopanen;Future Work;teams copilot;Blogs;https://futurework.blog/
+;Elio Struyf;Elio Struyf;sharepoint development;Blogs;https://www.eliostruyf.com/
+;Stephan van Rooij;Coding Stephan;teams graph development;Blogs;https://svrooij.io/
+;;Ctrl+Alt+Azure;podcast azure;Blogs;https://ctrlaltazure.com/
+;;Microsoft Cloud IT Pro Podcast;podcast microsoft 365 azure;Blogs;https://www.msclouditpropodcast.com/
+;;The Microsoft Azure Security Podcast;podcast azure security;Blogs;https://azsecuritypodcast.net/
+;Andy Malone;Andy Malone MVP;youtube microsoft 365 security;Blogs;https://www.youtube.com/@AndyMaloneMVP
+;;Azure Academy;youtube azure;Blogs;https://www.youtube.com/@AzureAcademy
+;Adam Marczak;Adam Marczak - Azure for Everyone;youtube azure;Blogs;https://www.youtube.com/c/Azure4Everyone
+;;Petri IT Knowledgebase;nieuws microsoft cloud;Blogs;https://petri.com/
+;;Azure Weekly;nieuwsbrief azure;Blogs;https://azureweekly.info/
+;;Experts Live Netherlands;community event;Blogs;https://www.expertslive.nl/
+;;Azure Thursday;community event azure;Blogs;https://www.azurethursday.com/
 argg;argeg;Azure Resource Graph Explorer for GCC High;;Azure;https://portal.azure.us/#view/HubsExtension/ArgQueryBlade?
 avs;;Azure VMware Solution;;Azure;https://portal.azure.com/#browse/Microsoft.AVS%2FprivateClouds
 azbcc;bcc;Business Continuity Center;;Azure;https://portal.azure.com/#view/Microsoft_Azure_BCDRCenter/AbcCenterMenuBlade/~/overview
@@ -649,6 +802,31 @@ azsentinelg;sentinelg;Sentinel for GCC high;;Azure;https://portal.azure.us/#blad
 azsnap;;Disk Snapshots;;Azure;https://portal.azure.com/#browse/Microsoft.Compute%2Fsnapshots
 engage;;Engage Center;;Azure;https://engagecenter.microsoft.com
 puudgg;purviewudgg|purviewg;Purview Unified Data Governance for GCC High;;Azure;https://web.purview.azure.us
+sentinel;sentinel;Sentinel;;Azure;https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade?
+sentinelg;sentinelg;Sentinel for GCC high;;Azure;https://portal.azure.us/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade?
+azam;azam;Automanage;;Azure;https://portal.azure.com/#view/Microsoft_Azure_AutoManagedVirtualMachines/AutomanageMenuBlade
+avd;avd;Azure Virtual Desktop;;Azure;https://portal.azure.com/#view/Microsoft_Azure_WVD/WvdManagerMenuBlade/~/overview
+azautomation;azautomation;Azure Automation;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Automation%2FAutomationAccounts
+appinsights;appinsights;Application Insights;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/microsoft.insights%2Fcomponents
+azla;azla;Log Analytics;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.OperationalInsights%2Fworkspaces
+la;la;Log Analytics;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.OperationalInsights%2Fworkspaces
+azweb;azweb;App Services;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Web%2Fsites
+sqlmi;sqlmi;SQL managed instance;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Sql%2FmanagedInstances
+azsustainability;azsustainability;Carbon optimization - Emission Trends;;Azure;https://portal.azure.com/#view/HubsExtension/AssetMenuBlade/~/EmissionTrendsId/assetName/Sustainability/extensionName/Microsoft_Azure_Sustainability
+lb;lb;Load balancing;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Network/LoadBalancingHubMenuBlade/~/overview
+storage;storage;Storage accounts;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Storage%2FStorageAccounts
+vnet;vnet;Virtual networks;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FvirtualNetworks
+azdef;azdef;Microsoft Defender for Cloud;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Security/SecurityMenuBlade/~/0
+kv;kv;Key Vault;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.KeyVault%2Fvaults
+bus;bus;Service Bus;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ServiceBus%2Fnamespaces
+appgw;appgw;Application Gateway;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Network/LoadBalancingHubMenuBlade/~/applicationgateways
+gateway;gateway;Application Gateway;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Network/LoadBalancingHubMenuBlade/~/applicationgateways
+waf;waf;Web Application Firewall policies;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Network%2FFrontDoorWebApplicationFirewallPolicies
+azguest;azguest;Azure Guest Assignments;;Azure;https://portal.azure.com/#browse/Microsoft.Compute%2FvirtualMachines%2Fproviders%2FguestConfigurationAssignments
+azfd;azfd;Azure Front Door and CDN profiles;;Azure;https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/microsoft.cdn%2Fprofiles?
+netwatch;netwatch;Network Watcher;;Azure;https://portal.azure.com/#view/Microsoft_Azure_Network/NetworkWatcherMenuBlade/~/overview?
+upc;upc;Universal Print Console;;Azure;https://portal.azure.com/#view/Universal_Print/MainMenuBlade/~/Printers?#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade?
+bcc;bcc;Business Continuity Center;;Azure;https://portal.azure.com/#view/Microsoft_Azure_BCDRCenter/AbcCenterMenuBlade/~/overview
 deactionsg;;Action Centre for GCC High;;Defender;https://security.microsoft.us/action-center
 deamp;deamv2|antimalware|antimalwarepolicies;Anti-malware policies;;Defender;https://security.microsoft.com/antimalwarev2
 deap;antiphishing|antiphish|phish;Anti-Phishing policies;;Defender;https://security.microsoft.com/antiphishing
@@ -703,6 +881,12 @@ detp;threatpolicy|threatpolicies;Threat policies;;Defender;https://security.micr
 devulnreport;;Reports - Vulnerable Devices;;Defender;https://security.microsoft.com/mde-reports/vulnerability
 dewebprotect;;Reports - Web Protection;;Defender;https://security.microsoft.com/webprotection
 scp;cfs;Security Copilot;;Defender;https://securitycopilot.microsoft.com
+xdrthreathunt;;Threat Hunting;;Defender;https://security.microsoft.com/sentinel/hunting
+xdranalytics;;Analytic Rules;;Defender;https://security.microsoft.com/sentinel/analytics
+xdrwatchlist;;Sentinel Watchlist;;Defender;https://security.microsoft.com/sentinel/watchlist
+th;th;Threat Hunting;;Defender;https://security.microsoft.com/sentinel/hunting
+threathunt;threathunt;Threat Hunting;;Defender;https://security.microsoft.com/sentinel/hunting
+watchlist;watchlist;Sentinel Watchlist;;Defender;https://security.microsoft.com/sentinel/watchlist
 azadg;;Microsoft Entra (Azure Portal) for GCC High;;Entra;https://portal.azure.us/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview?
 enagentid;;Agent ID;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_RegisteredApps/AllAgents.MenuView/~/overview
 encloudsync;;Entra Cloud Sync Configuration;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_Connect_Provisioning/CloudSyncMenuBlade/~/CloudSyncConfigurations
@@ -710,11 +894,67 @@ endom;;Domain names;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/D
 eng;adg|aadg|entrag;Microsoft Entra for GCC High;;Entra;https://entra.microsoft.us
 enpumfa;enlegacymfa|adlegacymfa;Legacy MFA;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/MultifactorAuthenticationConfig.ReactView/tabId/users
 enusrsettings;enusersettings;User settings;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/UserSettings/menuId/UserSettings
+adappreg;adappreg;App registrations;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade/quickStartType~/null/sourceType/Microsoft_AAD_IAM
+adentapp;adentapp;Enterprise applications;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/~/AppAppsPreview
+adapp;adapp;Enterprise applications;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/~/AppAppsPreview
+adapps;adapps;Enterprise applications;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/~/AppAppsPreview
+adgroups;adgroups;Groups;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups/menuId/AllGroups
+adusers;adusers;Users;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/AllUsers/menuId/AllUsers
+addevices;addevices;Devices;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/Devices/menuId/Devices
+addevicesettings;addevicesettings;Device settings;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/DeviceSettings/menuId/Devices/Microsoft_AAD_Devices/DevicesMenuBlade
+adguests;adguests;External Identities;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/Settings/menuId/ExternalIdentitiesGettingStarted
+adext;adext;External Identities;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/Settings/menuId/ExternalIdentitiesGettingStarted
+adca;adca;Conditional Access;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/Policies?
+adctas;adctas;Cross-tenant access settings;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/CrossTenantAccessSettings/menuId/CrossTenantAccessSettings
+adxtap;adxtap;Cross-tenant access settings;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/CrossTenantAccessSettings/menuId/CrossTenantAccessSettings
+enxtap;enxtap;Cross-tenant access settings;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade/~/CrossTenantAccessSettings/menuId/CrossTenantAccessSettings
+adadfslog;adadfslog;ADFS services;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_ADHybridHealth/AadHealthMenuBlade/~/AdfsServicesList
+adauth;adauth;Authentication methods;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AdminAuthMethods
+adconsent;adconsent;Consent and permissions;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/ConsentPoliciesMenuBlade/~/UserSettings
+enusersettings;enusersettings;User settings;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/UserSettings/menuId/UserSettings
+adlegacymfa;adlegacymfa;Legacy MFA;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/MultifactorAuthenticationConfig.ReactView/tabId/users
+adsign;adsign;Sign-in logs;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/SignInEventsV3Blade/timeRangeType/last24hours/showApplicationSignIns~/true
+adlogs;adlogs;Sign-in logs;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/SignInEventsV3Blade/timeRangeType/last24hours/showApplicationSignIns~/true
+enlogs;enlogs;Sign-in logs;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/SignInEventsV3Blade/timeRangeType/last24hours/showApplicationSignIns~/true
+admfaunblock;admfaunblock;MFA unblock;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/MultifactorAuthenticationMenuBlade/~/BlockedUsers/fromProviders~/false
+adpim;adpim;PIM;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/CommonMenuBlade/~/quickStart
+pim;pim;PIM;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/CommonMenuBlade/~/quickStart
+adpimr;adpimr;PIM for Roles;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadmigratedroles?
+adpimg;adpimg;PIM for Groups;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/aadgroup?
+adpimz;adpimz;PIM for Azure resources;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/azurerbac?
+adpimaz;adpimaz;PIM for Azure resources;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_PIMCommon/ActivationMenuBlade/~/azurerbac?
+adreviews;adreviews;Access reviews;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_ERM/DashboardBlade/~/Controls
+adar;adar;Access reviews;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_ERM/DashboardBlade/~/Controls
+adroles;adroles;Roles and administrators;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/RolesManagementMenuBlade/~/AllRoles
+adpa;adpa;Protected actions;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/RolesManagementMenuBlade/~/ProtectedActions
+adac;adac;Authentication context;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/AuthenticationContext
+adscore;adscore;Secure score;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/SecurityMenuBlade/~/IdentitySecureScore/menuId/IdentitySecureScore
+adsecurity;adsecurity;Security;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/SecurityMenuBlade/~/GettingStarted/menuId/SecurityCenter
+enpassword;enpassword;Password reset;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/PasswordResetMenuBlade/~/Properties
+adpassword;adpassword;Password reset;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/PasswordResetMenuBlade/~/Properties
+adsspr;adsspr;Password reset;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/PasswordResetMenuBlade/~/Properties
+adsupport;adsupport;Support;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_Support/NewSupportRequestV3Blade/callerName/ActiveDirectory/issueType/technical
+adsynclog;adsynclog;AAD Connect - Sync errors;;Entra;https://entra.microsoft.com/#view/Microsoft_Azure_ADHybridHealth/AadHealthMenuBlade/~/SyncErros/Microsoft_Azure_ADHybridHealth/AadHealthMenuBlade
+adinvite;adinvite;Azure B2B Invitations;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/UserCreateBlade/initialMode~/1/b2cEnabled~/false
+adelm;adelm;Entra ID Entitlement Management;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_ERM/DashboardBlade/~/elmEntitlement
+adauthstrength;adauthstrength;Authentication strengths;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AuthStrengths/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade?
+adauthmethodsactivity;adauthmethodsactivity;Authentication methods activity;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AuthMethodsActivity/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade?
+authactivity;authactivity;Authentication methods activity;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/~/AuthMethodsActivity/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade?
+adidp;adidp;Entra ID Identity Protection;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_IAM/IdentityProtectionMenuBlade/~/Overview
+adlaps;adlaps;LAPS;;Entra;https://entra.microsoft.com/#view/Microsoft_AAD_Devices/DevicesMenuBlade/~/LocalAdminPassword/menuId/Overview
 inantivirus;insecav;Security - Antivirus;;Intune;https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/antivirus
 inasr;insecasr;Security - ASR;;Intune;https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/asr
 inedr;insecedr;Security - Enpoint detection and Response;;Intune;https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/edr
 infirewall;insecfw;Security - Firewall;;Intune;https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/firewall
 ing;intuneg;Intune for GCC high;;Intune;https://intune.microsoft.us
+insec;insec;Security;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/overview
+intadmin;intadmin;Tenant admin;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_DeviceSettings/TenantAdminMenu/~/tenantStatus
+inautodev;inautodev;Windows Autopilot devices;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/AutopilotDevices.ReactView/filterOnManualRemediationRequired~/false
+inadev;inadev;Windows Autopilot devices;;Intune;https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/AutopilotDevices.ReactView/filterOnManualRemediationRequired~/false
+insecav;insecav;Security - Antivirus;;Intune;https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/antivirus
+insecfw;insecfw;Security - Firewall;;Intune;https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/firewall
+insecedr;insecedr;Security - Enpoint detection and Response;;Intune;https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/edr
+insecasr;insecasr;Security - ASR;;Intune;https://intune.microsoft.com/?ref=AdminCenter#view/Microsoft_Intune_Workflows/SecurityManagementMenu/~/asr
 cp;;Copilot;;Microsoft 365;https://copilot.microsoft.com
 cpd;;Copilot Dashboard;;Microsoft 365;https://analysis.insights.cloud.microsoft
 domains;domain;Domains;;Microsoft 365;https://admin.cloud.microsoft/#/Domains
@@ -738,6 +978,8 @@ planner;;Planner;;Microsoft 365;https://planner.cloud.microsoft
 sds;;School Data Sync;;Microsoft 365;https://sds.edu.cloud.microsoft
 syntex;;Syntex;;Microsoft 365;https://admin.cloud.microsoft/#/syntex
 teamsg;teamg;Teams Admin for GCC High;;Microsoft 365;https://admin.gov.teams.microsoft.us/
+adlicense;;Licenses;;Microsoft 365;https://admin.cloud.microsoft/?#/licenses
+mackeys;mackeys;Volume Licensing Keys;;Microsoft 365;https://admin.microsoft.com/Adminportal/Home#/subscriptions/vlnew/downloadsandkeys
 mysubscriptions;;My Office/365 subscriptions;;My Pages;https://portal.office.com/account/#subscriptions
 pu;purview;Microsoft Purview;;Purview;https://purview.microsoft.com/
 puactexpg;;Purview Activity Explorer for GCC High;;Purview;https://purview.microsoft.us/dataclassification/activityexplorer
@@ -914,3 +1156,44 @@ pusitg;;Purview Sensitive Info Types for GCC High;;Purview;https://purview.micro
 ;;SC-900 Security, Compliance, and Identity Fundamentals Exam;SC-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/exams/sc-900/
 ;;SC-900 Study Guide;SC-900;Learn-cert;https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-900
 ;;SC-900 Security, Compliance, and Identity Fundamentals Course;SC-900;Learn-cert;https://learn.microsoft.com/training/courses/sc-900t00
+cps;;Copilot Studio;;Power Platform;https://copilotstudio.microsoft.com
+cpsg;;Copilot Studio GCC;;Power Platform;https://gcc.powerva.microsoft.us
+devopsorgs;;Azure DevOps organizations overview;azure devops organization settings aex;Development;https://aex.dev.azure.com/me
+devopsstatus;;Azure DevOps service status;azure devops status outage incident;Development;https://status.dev.azure.com/
+devopsmarket;;Azure DevOps extensions marketplace;azure devops extensions marketplace;Development;https://marketplace.visualstudio.com/azuredevops
+devopsblog;;Azure DevOps blog;azure devops blog news;Development;https://devblogs.microsoft.com/devops/
+github;;GitHub;github git repositories source control;Development;https://github.com
+ghdocs;;GitHub documentation;github docs documentation;Development;https://docs.github.com
+ghcopilot;;GitHub Copilot settings;github copilot settings subscription;Development;https://github.com/settings/copilot
+ghcopilotdocs;;GitHub Copilot documentation;github copilot docs;Development;https://docs.github.com/copilot
+ghcodespaces;;GitHub Codespaces;codespaces cloud development environment;Development;https://github.com/codespaces
+ghactions;;GitHub Actions marketplace;github actions ci cd workflows marketplace;Development;https://github.com/marketplace?type=actions
+ghorgs;;GitHub organization settings;github organizations enterprise settings;Development;https://github.com/settings/organizations
+ghstatus;;GitHub service status;github status outage incident;Development;https://www.githubstatus.com/
+gist;;GitHub Gist;gist snippets share code;Development;https://gist.github.com
+graphhub;;Microsoft Graph developer hub;microsoft graph api developer;Development;https://developer.microsoft.com/en-us/graph/
+graphchangelog;;Microsoft Graph changelog;microsoft graph changelog api changes;Development;https://developer.microsoft.com/en-us/graph/changelog
+msgraphgh;;Microsoft Graph SDKs and samples on GitHub;microsoft graph sdk samples github;Development;https://github.com/microsoftgraph
+resexplorer;;Azure Resource Explorer;azure resource explorer arm resources;Development;https://resources.azure.com/
+bicepplayground;;Bicep Playground;bicep playground arm decompile iac;Development;https://azure.github.io/bicep/
+azstatus;;Azure status;azure status outage health incident;Development;https://azure.status.microsoft/en-us/status
+azupdates;;Azure updates;azure updates roadmap releases;Development;https://azure.microsoft.com/updates/
+azuresdk;;Azure SDK releases and guidelines;azure sdk client libraries;Development;https://azure.github.io/azure-sdk/
+azuresamples;;Azure Samples on GitHub;azure samples code examples github;Development;https://github.com/Azure-Samples
+aifoundry;;Azure AI Foundry;azure ai foundry models agents;Development;https://ai.azure.com
+m365dev;;Microsoft 365 Developer Program;microsoft 365 developer program sandbox tenant;Development;https://developer.microsoft.com/microsoft-365/dev-program
+m365devhub;;Microsoft 365 developer hub;microsoft 365 developer platform;Development;https://developer.microsoft.com/en-us/microsoft-365/
+teamsdev;;Teams Developer Portal;teams developer portal app manifest;Development;https://dev.teams.microsoft.com
+pnp;;Microsoft 365 and Power Platform Community (PnP);pnp community samples sharepoint powershell;Development;https://pnp.github.io
+psgallery;;PowerShell Gallery;powershell gallery modules scripts;Development;https://www.powershellgallery.com
+winget;;winget package index (winget-pkgs);winget package manager manifests;Development;https://github.com/microsoft/winget-pkgs
+wingetrun;;winget.run package search;winget search packages;Development;https://winget.run
+nuget;;NuGet Gallery;nuget packages dotnet libraries;Development;https://www.nuget.org
+vscode;;Visual Studio Code;vscode editor ide download;Development;https://code.visualstudio.com
+vsmarketplace;;Visual Studio Marketplace;extensions marketplace vscode visual studio;Development;https://marketplace.visualstudio.com
+vsdownloads;;Visual Studio downloads;visual studio download ide installer;Development;https://visualstudio.microsoft.com/downloads/
+vscommunity;;Visual Studio Developer Community;visual studio feedback bugs developer community;Development;https://developercommunity.visualstudio.com
+dotnet;;NET developer platform;dotnet csharp runtime sdk;Development;https://dotnet.microsoft.com
+devblogs;;Microsoft Developer Blogs;devblogs microsoft developer news;Development;https://devblogs.microsoft.com
+playwright;;Playwright test automation;playwright e2e testing browser automation;Development;https://playwright.dev
+typescript;;TypeScript;typescript javascript language;Development;https://www.typescriptlang.org
