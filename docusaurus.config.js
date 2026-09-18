@@ -51,6 +51,11 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        // GA4, property nerd.ms. Docusaurus laadt dit alleen in een productiebuild.
+        gtag: {
+          trackingID: 'G-EYLBQW657B',
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
