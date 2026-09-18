@@ -15,8 +15,8 @@
     "build-json": "node ./tasks/createCommands/build.ts"
   },
   "dependencies": {
-    "@docusaurus/core": "3.10.1",
-    "@docusaurus/preset-classic": "3.10.1",
+    "@docusaurus/core": "3.10.2",
+    "@docusaurus/preset-classic": "3.10.2",
     "@mdx-js/react": "^3.1.1",
     "@tanstack/react-table": "^8.21.3",
     "clsx": "^2.1.1",
@@ -25,8 +25,8 @@
     "react-dom": "^19.2.6"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.10.1",
-    "@docusaurus/types": "3.10.1",
+    "@docusaurus/module-type-aliases": "3.10.2",
+    "@docusaurus/types": "3.10.2",
     "csvtojson": "^2.0.14"
   },
   "browserslist": {
@@ -43,5 +43,9 @@
   },
   "engines": {
     "node": ">=20.0"
+  },
+  "overrides": {
+    "serialize-javascript": "^7.1.1",
+    "uuid": "^11.1.1"
   }
 }
