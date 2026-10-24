@@ -1,0 +1,18 @@
+# Builds every pull request (Dependabot included), so an update is only merged
+# when the project still installs and builds. Deploys stay on push to main.
+name: PR build
+on:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build
